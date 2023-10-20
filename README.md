@@ -89,7 +89,7 @@ Designed an augmented-reality system using the Microsoft HoloLens2 that projects
 
 `2018 - Present`
 - __VR/AR Radiotherapy Patient Education__ - Salem Cancer Institute, Salem, OR.
-	Created a virtual reality app for the Oculus Quest and mobile augmented reality web app to show cancer patients a 3D simulation of the radiotherapy treatment process to alleviate patient anxiety.  <https://liamjwang.github.io/radoncxr-example/>
+	Created a virtual reality app for the Oculus Quest and mobile augmented reality web app to show cancer patients a 3D simulation of the radiotherapy treatment process to alleviate patient anxiety.  <breast.md>
 
 `Summer 2017`
 - __Science and Engineering Apprenticeship Program__ - Navy Research Lab, Washington, DC	
