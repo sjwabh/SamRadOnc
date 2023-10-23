@@ -78,3 +78,49 @@ Also it has been shown that TNF-α acts as a radiosentitizer and enhances cytoto
 
 
 
+
+DVH constraints for AHWBI:
+
+SAPPHIRE dosimetry:
+40/15 to CW, 98% IDL -> 5-7 fx (10-14 Gy) boost 
+37.5/15 to RNI
+Ipsi lung - V16 < 35%,
+MHD < 3.2 Gy
+Cord < 36 Gy
+  
+RT charm
+42.5  in 16 fx
+Lung V18Gy ≤35%,
+DMax<115%,
+MHD< 3Gy,
+Heart V22.5Gy<10% if left side patient
+
+ 
+
+Lung 600cGy x 10  DVH Constraints (reference?):
+
+PTV Prescription Dose: 600x10=6000cGy
+
+DVH Constraints 
+Total lung: 	
+Mean < 9 Gy 	
+V40<7%	
+
+Trachea (Carina)
+V40<1cc	
+Dmax<60 Gy	
+
+Great vessels
+V50<1cc	
+Dmax <75 Gy 	
+
+Esophagus 
+V40<1cc
+Dmax <50Gy	
+
+Spinal cord 
+V35<1cc
+Dmax<40Gy	
+
+
+
