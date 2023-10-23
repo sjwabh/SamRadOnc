@@ -13,14 +13,11 @@ H&N
 Palliative
 
 
-[breast](/breast.md)
+# Misc notes that need to be filed...
 
-[breast](./breast.md)
+/Enhertu /zzEnhertu \zzEnhertu  (what tag did I settle on??)
+**Enhertu** - Trastuzumab deruxtecan in HER2-positive breast cancer with brain metastases: a single-arm, phase 2 trial
+<https://www.nature.com/articles/s41591-022-01935-8>
 
-[breast](https://github.com/sjwabh/SamRadOnc/blob/main/breast.md)
-
-[SEAP](https://www.nrl.navy.mil/Careers/Students/SEAP)
-
-<https://www.nrl.navy.mil/Careers/Students/SEAP>
 
 
