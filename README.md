@@ -4,13 +4,14 @@
 
 Here are some links to disease sites:
 
-breast
-prostate
+[breast](breast.md)
+
+[prostate](prostate.med)
+
 GI
 H&N
 Palliative
 
-[breast](breast.md)
 
 [breast](/breast.md)
 
