@@ -28,15 +28,15 @@ https://www.nccn.org/professionals/physician_gls/pdf/genetics_bop.pdf
 "close FH" is 1st, 2nd, or 3rd degree!
 DCIS counts as BC!
 
-<=50yo
-TNBC
-multiple personal BCs (how many?)
-1 or more close FH of BC <=50, male BC, ovarian, pancreatic, high-risk AcP
-2 or more close FH of (BC or prostate) 
-3 or more close FH of BCs (including pt!) 
-Lobular AND FH of diffuse gastric CA
-Ashkenazi Jewish
-male BC (personal or close FH of)
+- <=50yo
+- TNBC
+- multiple personal BCs (how many?)
+- 1 or more close FH of BC <=50, male BC, ovarian, pancreatic, high-risk AcP
+- 2 or more close FH of (BC or prostate) 
+- 3 or more close FH of BCs (including pt!) 
+- Lobular AND FH of diffuse gastric CA
+- Ashkenazi Jewish
+- male BC (personal or close FH of)
 
 
 GENETICS
