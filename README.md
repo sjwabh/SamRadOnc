@@ -6,7 +6,7 @@ Here are some links to disease sites:
 
 [breast](breast.md)
 
-[prostate](prostate.med)
+[prostate](prostate.md)
 
 GI
 H&N
