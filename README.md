@@ -2,8 +2,6 @@
 
 #This is a collection of Sam's Radiation Oncology notes.
 
-Here are some links to disease sites:
-
 [breast](breast.md)
 
 [prostate](prostate.md)
@@ -12,13 +10,12 @@ Here are some links to disease sites:
 
 [GU](GU.md)
 
-[head & neck](head & neck.md)
+[head & neck](HeadNeck.md)
 
 [palliative](palliative.md)
 
-GI
-H&N
-Palliative
+[hepatobiliary](hepatobiliary.md)
+
 
 
 # Misc notes that need to be filed...
@@ -36,6 +33,7 @@ LOOKUP those new SRS references from JY.
 Dri , Ant (only got 1 of 3 fx)
 2 brain mets SRS
 
+|----|---|--|-|
 |R frontal	|	CI 1.56 	|		RTOG CI 1.02		|		GM 0.67cm		|	GI 2.5 	|		HI .17 	|	
 |R para central		|	CI N/A		|		RTOG CI 1.11		|		GM N/A	GI 2.7		|		HI .17 	|	
 
