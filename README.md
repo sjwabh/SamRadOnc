@@ -38,6 +38,7 @@ Dri , Ant (only got 1 of 3 fx)
 | Header | Title |
 | Paragraph | Text |
 
+|R frontal	|	CI 1.56 	|		RTOG CI 1.02		|		GM 0.67cm		|	GI 2.5 	|		HI .17 	|	
 |----|----|----|----|----|----|
 |R frontal	|	CI 1.56 	|		RTOG CI 1.02		|		GM 0.67cm		|	GI 2.5 	|		HI .17 	|	
 |R para central		|	CI N/A		|		RTOG CI 1.11		|		GM N/A	| GI 2.7		|		HI .17 	|	
