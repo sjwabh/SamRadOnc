@@ -1,0 +1,1182 @@
+
+RadOnc	
+SamRadOnc Home PageBreastCNSGIGUGynHNLungLymphomamiscOtherPalliative	
+peds
+//Peds //Pediatrics
+
+MC Peds Cancers
+
+Annual Incidence: 12,000
+
+# annual cases
+
+23% ALL (3250)
+
+21% CNS Tumors
+
+  35-50% LGG
+
+  16% Medulloblastoma
+
+  10-15% brainstem glioma
+
+  10% HGG
+
+7% Neuroblastoma
+
+6% NHL
+
+6% Wilm's Tumor
+
+5% HD
+
+4% AML
+
+4% Rhabdomyosarcoma
+
+3% Retinoblastoma
+
+3% Osteosarcoma
+
+2% Ewing's Sarcoma
+
+Try to avoid RT in age<3 cuz of severe neurocognitive defects.
+
+/NBL /Neuroblastoma - a PNET,   NBL ^^VMA
+
+2yo boy (35% <1yo)
+
+NBL is the MC extracranial solid tumor in infancy.
+
+-malignancy of sympathetic nervous system from neuroblasts
+
+-paraspinal & adrenal medulla
+
+(abdomen (adrenal) 40%, spinal ganglion 25%, thorax 15%, pelvis 5%)
+
+-90% before age 5, median age 2 yrs
+
+M>F, neurofibromatosis,
+
+Sx: abd mass, catecholamine release.
+
+Blueberry muffin babies from blue subq mets (Stage IVS)
+
+Pepper syndrome: massive liver mets, respiratory compromise.
+
+Hutchinson Syndrome: widespread bone metastases.
+
+Horner's syndrome.
+
+WORKUP:
+
+Urine catecholamines (VMA, HVA) (>90%) (similar to pheo, but pheo has ^NE, NBL has ^VMA), FERRITIN, BMBx (clumps, pseudorosettes), abd MRI preferred over CTa (60-70% have calcifications on CT, vs only 5-10% on WT),
+
+/MIBG NBL
+
+MRI: tumors that cross midline or move w/ respiration are more likely to be NBL.
+
+70% are metastatic at presentation.
+
+Only treat mets if can be seen on MIBG post chemo, pre-transplant.
+
+Prognostic Factors: Age<1.5 (good) and Stage are most significant!
+
+Favorable:
+
+age < 18 mos
+
+TRKA (Tyrosine Kinase A)
+
+hyperdiploid
+
+opsoclonus/myoclonus.
+
+nonrhythmic horizontal and vertical oscillations of the eyes
+
+Unfavorable:
+
+N-MYC amplification (25% of all cases)
+
+Chr 1p36 LOH,
+
+^ Ferritin
+
+DNA aneuploidy (too low or too high?)
+
+    High VMA/HVA ratio
+
+/NBL Staging Systems: INSS, POG, Evans/D'Angio
+
+INSS
+
+I complete resection
+
+II
+
+ A incomplete resection, N-
+
+ B          N+
+
+III unresectable, crosses midline
+
+IV distant mets
+
+IVs: liver, skin, <10% BM, age<1yo
+
+Stage I: Localized tumor w/ complete gross resection, negative nodes
+
+Stage IIA: Localized tumor w/ incomplete resection, negative nodes
+
+Stage IIB: Localized tumor w/ positive ipsilateral non-adherent nodes
+
+Stage III: Unresectable unilateral tumor infiltrating across midline,
+
+       or unresectable midline tumor w/ bilateral extension
+
+Stage IV: Distant spread
+
+Stage IVS: Localized primary (Stage I or II) w/ dissemination limited to skin, liver, <10% bone marrow, and age < 1 y/o. (can spontaneously regress!)
+
+The POG staging system is both easier to remember and more importantly easier to distinguish from the Wilm’s tumor system which Woo says people always mix up!
+
+Stage A- positive margins
+
+Stage B- gross disease
+
+Stage C- positive LNs
+
+Stage D- hematogenous mets
+
+Stage Ds- skin, liver or bone marrow mets.  
+
+Histology: (Shimada classification)
+
+1. differentiation (diff, undiff)
+
+2. (stroma-rich vs stroma-poor)
+
+    spindle cell stroma?
+
+3. MKI: mitosis-karyorrhexis index (cellular proliferation)
+
+4. nodular pattern (yes/no)
+
+5. age (<18 mos, < 5yo)
+
+ Favorable (Shimada) (any of the following):
+
+   stroma rich AND not nodular
+
+   age < 18mos AND MKI  < 200/5000
+
+   age < 5 yrs AND MKI < 100/5000 AND well-differentiated
+
+ UNfavorable (any of the following):
+
+    nodular
+
+    MKI>200/5000
+
+    age>18mos, stroma-poor, undifferentiated, MKI>100/5000
+
+    age>18mos, stroma-poor, differentiated, MKI 100-200 / 5000
+
+/NBL TREATMENT
+
+RT improves LC and OS.
+
+Low Risk: 3yr 95-100%
+
+ All Stage 1 pts
+
+ All Stage 2 pts (except pts >1-21 yrs with N-myc amp & UH)
+
+ Stage 4S pts with favorable features [no N-myc amplification, FH & hyperdiploid (DNA  index >1]
+
+Surgery upfront.  If GTR, observe.  If STR, chemo x 6-12 wks.  If only PR, RT 21Gy.
+
+Intermediate Risk: 3yr OS 75-85%
+
+Surgery, CAPE chemo x 12-24wks. If PR, second-look surgery. If +path, RT 24Gy.
+
+High Risk: (55% of cases) 3yr OS 30%
+
+Stage 2 pts >1 with N-myc AND UH
+
+Stage 3 pts >1 with N-Myc OR UH
+
+Stage 4 pts >1.5
+
+Stage 4, 4S <1.5 w/ N-myc
+
+OS 10% for >1 yo, Event-free Survival 60% for <1yo.
+
+For Stage IV, UH: 3yrOS 40% with transplant
+
+Treatment Sequence (for High Risk?):
+
+Bx, VCAPE chemo x6 cycles (5 mos), re-MIBG, surgery, BMT, RT to primary to all III/IV even if GTR, cis-retinoic acid x6mo.
+
+Chemo: NBL-/VCAPE
+
+ Vincristine
+
+ Cytoxan
+
+ Adriamycin
+
+ Platinum
+
+ Etoposide
+
+For Stage IV, always RT to primary tumor, and RT to mets only if +MIBG post-chemo and pre-transplant.
+
+/NBL Dose:
+
+2160 in 12 fx for GTR (A3973)
+
+boost to 36Gy if STR
+
+/NBL Fields:
+
+Per A3973,
+
+For NBL, always treat post-chemo pre-op volume (not the pre chemo or post surgical volume)
+
+Pre-Op volume+2cm to 21.6Gy, No cone down.
+
+NBL Bone Mets 2160 RT only if + on post-chemo MIBG.
+
+Bone Met fields: post-chemo, pre-transplant
+
+NBL /whole liver NBL, /liver, for resp dist: 150x3=450.
+
+/NBL Studies:
+
+CCG 3881 for Stage III:
+
+Chemo + RT for gross residual.
+
+CCG 3891
+
+POG: For Stage C (+LN),
+
+PostOp CRT better than PostOp Chemo (Event Free Survival 59% v 32%)
+
+COG A3973
+
+Start 28-42 days post transplant
+
+GTV: post-chemo pre-op volume (not the pre chemo or post surgical volume)
+
+CTV: 1.5cm margin
+
+PTV: at least 0.5cm more
+
+OAR: Liver <50% to get >9Gy, <25% to get >18Gy,
+
+Contra kidney <20% >12Gy
+
+Lung <30% of both lungs >15Gy
+
+--------------------------------------------------------------------
+
+/WT /Wilm's Tumor - nephroblastoma
+
+3.5yo girl
+
+peak 3.5 yo, <2yo better
+
+/WT1 chr 11p13
+
+/WT2 chr 11p15
+
+Only 5% are genetic:
+
+WAGR (Wilm's, Aniridia, GU abnl (hypospadias, cryptorchidism), Retardation)
+
+Beckwith-Wiedemann syndrome has 5% risk of WT, incr risk RMS (macroglossia, gigantism, and umbilical hernia, exophthalmos)
+
+Denys-Drash syndrome (WT, pseudohermaphroditism, and glomerulopathy)
+
+Hemihypertrophy
+
+Congenital aniridia
+
+Trisomy 18 mutation
+
+WT Prognostic Factors:
+
+Good: Poor:
+
+FH UH
+
+Age<2 yrs 1p or 16q deletion
+
+(FH vs UH) (most important!), +LN, tumor size, ECE, vascular invasion
+
+Sx: HTN dt renin, palpable abd mass, pain, hematuria, fever,
+
+WT WORKUP
+
+Urine catecholamines (to r/o neuroblastoma)
+
+Abd U/S (to assess vessels, r/o tumor thrombus),
+
+MRIabd (look for vascular extension, extrarenal spread, tumor thrombus),
+
+AbdXR: to see calcifications (5-10% WT, 60-70% NBL)
+
+CTabd: gross extrarenal spread, LNs, liver mets, contra kidney
+
+CXR/CT chest to r/o mets (but need to see met on plain CXR before you treat!)
+
+Bone Scan (if clear cell),
+
+Brain MRI (if rhabdoid)
+
+/WT NWSTG Surgical Staging
+
+I confined, complete resection
+
+II extracapsular, complete resection
+
+III incomplete resection, +NODES, peritoneal, SPILLAGE, bx
+
+IV hematogenous spread extra-abdominal mets pulmonary mets
+
+V bilateral
+
+I confined to 1 kidney, complete resection
+
+II extracapsular, but completely resected, or tumor in blood vessels outside kidney, eg, renal sinus
+
+III incomplete resection w/ residual solid tumor confined to abdomen, +Pelvic/PA LN, penetration thru peritoneum, peritoneal implants, or outside blood vessels w/ tumor, or (NEW!) spillage anywhere (confined or outside of flank) is now III!!!
+
+IV hematogenous mets, or Extra-abdominal/ pelvic mets, Pulm mets BY CXR.
+
+V Bilateral
+
+Favorable histology (FH): 90% of cases, 90% cure. Teratoid: All 3 histological elements are present (epithelial, blastemal, stromal). (also teratoid WT).
+
+Unfavorable histology (UH): 10% of the cases.
+
+ Focal or diffuse anaplasia
+
+ Sarcomatous variants
+
+   CCSK: clear cell sarcoma of kidney (bone-metastasizing renal tumor of childhood)
+
+   rhabdoid tumor of the kidney (brain-metastasizing renal tumor, male < 2yo)
+
+/VA or /VD
+
+vincristine
+
+actinomycin
+
+/VAA
+
+vincristine
+
+actinomycin
+
+adriamycin
+
+/VAC (RMS)
+
+V=vincristine
+
+A=actinomycin
+
+C=Cytoxan
+
+/VACD  (WT, Ewing's,
+
+V=vincristine
+
+A=actinomycin
+
+C=Cytoxan
+
+D=Doxorubicin
+
+V=vincristine
+
+A=adriamycin
+
+D=D-actinomycin
+
+C=Cytoxan
+
+E=Etoposide
+
+P=carboPlatin
+
+NWTS1:
+
+ For Group I and Age<2yo, PostOp RT not needed
+
+ For Group II, III, Need V&D together
+
+ For Group IV, don’t need preOp V.
+
+NWTS2
+
+ For Group I, VD for 6 mo = 15 mo, no diff. Dont’ need RT.
+
+ For Group II-IV, Add A to VD+xRT helped.
+
+ LN+ and UH do worse (duh!)
+
+NWTS3: Can reduce to 10 Gy w/ VAD, or 20Gy w/ VD
+
+ Stage I: No diff VD for 10 wks vs 6 mos
+
+ Stage II: No diff betw VAD vs VD, +/- RT 20Gy
+
+ Stage III: More relapses if only 10 Gy (vs 20 Gy) w/ No Adria. NEED Adria OR more RT.
+
+ Stage IV: Adding Cytoxan to VAD didn't help.
+
+ Anaplasia: 4 drugs better than 3, but nothing helps rhabdoid (OS 25%)
+
+NWTS4
+
+ For > Stage I: 15 mo vs 6 mo chemo
+
+ Pulse Intensive actino was just as good, cheaper, less toxicity
+
+ (Cont from NWTS3) Anaplasia: 4 drugs better than 3, but nothing helps rhabdoid (OS 25%)
+
+ Timing: Couldn’t tell if diff if RT delayed > 10 days??
+
+NWTS5
+
+ For LOH 1p, 16q, do worse.
+
+ For stage III, only 10Gy.
+
+/WT TREATMENT: Ideally, do surgery first, then RT (if needed) by postop day 9, then chemo.
+
+If initially unresectable (automatically stage III): pre-op chemo, surgery, then ALWAYS postOp RT, then more chemo(?).
+
+After surgery, RT Table:
+
+   FH              UH
+
+   ANAPLASTIC
+
+Focal Diffuse CCSK Rhabdoid
+
+Stage 
+
+I No RT 10.8   RT 10.8 No RT 10.8 <1yo) 21(>1yo)
+
+II No RT 10.8   RT 10.8 RT 10.8 RT 10.8 <1yo) 21(>1yo)
+
+III RT 10.8 RT 19.8 RT 19.8 RT 10.8 RT 10.8 <1yo) 21(>1yo)
+
+IV RT 10.8 RT 19.8 RT 19.8 RT 10.8 RT 10.8 <1yo) 21(>1yo)
+
+V Stage each side independently, try to preserve renal function
+
+Start by PostOp Day 9.
+
+/WT RT Dose: 10.8
+
+10.8 to flank (take to 19.8 if >16yo)
+
+boost gross>3cm to 21
+
+Fields: 1cm margin around pre-op kidney, include vert bodies to avoid scoliosis.
+
+Borders:
+
+Lat: flash
+
+Med: 2cm contralat beyond vert bodies, although may not need to at 10.8.
+
+Sup: costal margin? diaphragm?
+
+Inf: top of iliac crest
+
+DVH
+
+Limit 50% of liver to 19.8
+
+Limit contra kidney to 14.4
+
+WT CHEMO:
+
+   FH  UH
+
+ ANAPLASIA
+
+FH Focal Diffuse CCSK Rhabdoid
+
+Stage 
+
+I VA VAD VAD VDC-EP VDC-EP
+
+II VA VAD VAD VDC-EP VDC-EP
+
+III VAD VAD VAD VDC-EP VDC-EP
+
+IV VAD VAD VAD VDC-EP VDC-EP
+
+FH Stage I-II
+
+VA (VCR, AMD) x 19wks
+
+FH Stage III-IV or FA/DA
+
+VAA (adds doxo) x 25wks
+
+Rhaboid & CCSK
+
+VDC-EP (etop, carbo) x 25-30 wks
+
+/WART /WAI - whole abdomen
+
+PS says now WART only for DIFFUSE stuff.
+
+WART 10.5Gy @1.5G/d for diffuse spillage.
+
+WART 21 Gy for diffuse anaplasia or Rhabdoid w/ kidney shield at 14.4.
+
+/SLURP: (SLURP used to be indications for WART)
+
+Spillage, diffuse
+
+Lymph nodes + (PS says no)
+
+Unresectable
+
+Rupture
+
+Peritoneal seeding, diffuse
+
+/WART WT Field Borders:
+
+Sup 1cm above diaphragms
+
+Inf bottom of obturator foramen, shield femoral heads.
+
+shield contralat kidney to limit to 14.4 Gy.
+
+PS says now we don't do WART beyond 10.5Gy.
+
+WT mets dose:
+
+/WLI WT, /Whole Lung Wilm's - only if CXR confirmed WT nodule. (not just CT)
+
+12   + 7.5 = 19.5 if >1.5yo
+
+10.5 + 7.5 = 18 if <1.5yo
+
+After 12Gy WLI, wait 2 wks, then re-CXR, and then boost if residual:
+
+7.5Gy boost if residual, but 10% pneumonopathy if >14Gy.
+
+If FH, if resolved after chemo, can skip lung RT.
+
+Borders:
+
+Sup: above clavicles
+
+Inf: below diaphragm, L1
+
+Give Bactrim for PCP prophylaxis.
+
+/whole liver for WT mets:
+
+19.8Gy + boost 5.4-10.8, total 25.2 – 39.6
+
+Limit 75% to < 30Gy
+
+limit remaining kidney to 14.4 Gy.
+
+WBI for WT mets: 30.6Gy, or 21.6Gy + 10.8Gy boost
+
+Bone Mets: 25.2-30.6Gy, 3cm margin, don’t need to treat entire bone
+
+If age>16, 30.6Gy.
+
+WT Relapse
+
+Adverse factors: prior adria, relapse < 12 mos, intra-abd after prior abd RT.
+
+Restage!
+
+1R
+
+2R
+
+3R
+
+4R
+
+5R
+
+WT Toxicities:
+
+10Gy -> 3cm trunk shortening
+
+>10Gy -> 7cm trunk shortening
+
+WT OUTCOMES:
+
+5yr OS for FH Stage IV: 80% !
+
+/spinal, /paraspinal mass
+
+DDx: met, lymphoma, RMS, Nerve sheath weirdoma, extra osseous Ewings
+
+/Ewing's Sarcoma - c-myc  (diaphysis) peripheral PNET
+
+14 yo white boy
+
+Clinical Presentation: Localized pain, radicular, limp, local swelling, paraplegia in vertebral disease, fever in 28%.
+
+WORKUP:
+
+Labs: CBC, Chem7, LDH, ESR, LFTs
+
+Xray: lytic or mixed lytic-sclerotic lesion. Parallel, lamellated periosteal new bone formation (onion skin).
+
+DDx Bone Lesion: Ewing's, RMS, Osteosarcoma, plasmacytoma, met, lymphoma, benign bone lesions
+
+MRI, PET, Chest CT or CXR (r/o lung mets),
+
+Bone Scan, BMBx
+
+85% are t(11;22), 10% have t(21;22)
+
+white children, Rare in Blacks
+
+M>F
+
+in bone or soft tissue
+
+sometimes is Periph PNET
+
+Askin (chest wall PNET)
+
+Second MC primary malignant bone tumor in children (after osteosarcoma)
+
+(4% of pedi malignancies)
+
+SITES: pelvis (bad), femur, tib-fib, humerus, ribs, spine
+
+Path: small round blue cell tumor, PAS+
+
+MC site of mets: lung, bones
+
+Poor Prognostic Factors:
+
+age>17
+
+tumor>8cm
+
+Pelvis
+
+soft tissue extension
+
+<90% necrosis after chemo
+
+Staging: Use either bone or STS staging.
+
+Prognosis:
+
+Localized, 5yr OS 60-70%.
+
+metastatic Ewing's (20-25% at presentation): 20% long-term cure rate.
+
+Local Control @5yrs:
+
+RT alone: 60-75%
+
+RT+Chemo: 85-95%
+
+
+
+/Ewing's TREATMENT:
+
+Chemo x12 ->Surgery ->Chemo x48.
+
+Chemo: VACD-IE x 12wks
+
+Restage.
+
+Local Therapy at week 12 (unless cord?): Surgery or Definitive RT.
+
+ Surgery, then no RT if complete resection.
+
+ If unresectable, then Definitive RT 55.8.
+
+Then, more chemo x 48wks.
+
+PS says it's always concurrent chemoRT: VAC or just V?
+
+Ewing's PostOp RT indications:
+
+  >10% viable tumor cells
+
+  +M
+
+  gross residual
+
+POSTOP RT 45 or 55.8.
+
+45Gy for >10% OR M+
+
+55.8 for BOTH >10% AND M+
+
+55.8 for gross residual
+
+(There's no 50.4Gy anymore.)
+
+Definitive RT 55Gy (unless involves cord, 50.4)
+
+If no surgery is done, even if CR to chemo, always treat bone Definitive RT to 55.8Gy, I think.
+
+Doses:
+
+Initial 45Gy
+
+Boost   55.8Gy
+
+unless involves cord, then stop at 50.4Gy.
+
+Fields: (GTV1 is same for Unresected or Resected. GTV2 is site of microscopic residual.)
+
+GTV1 GTV2
+
+Initial (+2cm) Boost (+1.5cm)
+
+Bone Pre-Chemo Pre-Chemo
+
+ST, Invading Pre- Post-
+
+ST, Pushing Post- Post-
+
+No cone down for bone, but don't treat entire bone (POG 8346).
+
+Bone is always pre- and the biggest field, Pushing is always post-.
+
+CESS: No benefit to BID.
+
+RT Toxicities: fractures, bone growth retardation, lymphedema, cord myelitis/myelopathy,
+
+SMN if >60Gy, infertility (clam shell, sperm banking).
+
+Ewing's has second highest rate of SMN, after Rb.
+
+Bacci G, J Ped Hem/Onc 2005, "Second Malignancy in 597 Patients With Ewing Sarcoma of Bone Treated at a Single Institution With Adjuvant and Neoadjuvant Chemotherapy Between 1972 and 1999"
+
+Up to 20% risk of SMN @ 20 yrs if RT alone.
+
+TABLE 2. Relative Risk of Second Malignancy at 5, 10, and 20 Years According to Local Treatment
+
+5yr 10yr 20yrs
+
+RT 6.2 12.7 20.9
+
+Sx+RT 2.8 5.9 12.1
+
+Sx 0.7 1.0 3.2
+
+All 3.0 6.5 12.7
+
+Kuttesch, JCO 1996, "0732-183X/96/1410-0026$3.00/0"
+
+Risk of SMN after Ewing's is 9% after 20yrs.
+
+Increased SMN if >60Gy.
+
+LESG - ____ Ewing's Sarcoma Study Group:  SMN 5-10% @20yrs.
+
+/WLI Ewing's: Whole Lung Irradiation for Ewing's:
+
+Indications:  4 or more lung mets at diagnosis, or malignant effusions.  
+
+(if 3 or less: resect, but still give chemo)
+
+wait until end of ALL 48wks of chemo.
+
+Always give WLI Ewing's even after CR to chemo.
+
+Re-scan and boost residual another 27 Gy.
+
+15+27=42 if >6yo
+
+12+27=39 if <6yo
+
+V20<35%
+
+If pleural effusion, entire pleural cavity to 15Gy.
+
+/EICESS 92 Trial: WLI improved 5yr EFS 47% vs 24% w/o WLI.
+
+This was after CR to chemo.
+
+Other studies say it's controversial. St Jude's says no WLI if CR to chemo.
+
+IESS I (JCO 1990): Ewing's Sarcoma Study
+
+VACD vs VAC + whole lung RT vs VAC alone.
+
+Adding prophylactic whole lung RT improved RFS over VAC alone, but VAC-D was best of all.
+
+Distant failure more common than local failure.
+
+Primary pelvic tumors do worse.
+
+No dose response between 40-68Gy.
+
+5 yr Relapse free survival 5 yr OS
+
+VAC 24% 28%
+
+VAC + pulm RT 44% 53%
+
+   VAC + ADR 60% 65%
+
+ patient age and primary site were only two independent prognostic factors:
+
+IESS II (JCO 1991)
+
+Pelvic site, Non-Pelvic sites
+
+Pelvic site:
+
+For met Ewing's no IE, just VACA.
+
+IESS III (Grier, NEJM 2003)
+
+Adding IE to VACD improves 5yr EFS 67% v 42%.
+
+Grier HE, Krailo MD,Tarbell NJ, et al. Addition of ifosfamide and etoposide to standard chemotherapy for Ewing's sarcoma and primitive neuroectodermal tumor of bone. N Engl J Med. 2003; 348: 694-701
+
+/VACD-IE
+
+Recently, it was reported that the addition of ifosfamide and etoposide (IE) to previous standard chemotherapy regimens contributed significantly to improvements in clinical outcome for patients with nonmetastatic ESFT of bone.[6] Of 202 patients without metastasis at presentation, 201 patients received chemotherapy. Of these, 45 patients who received chemotherapy regimens that included (IE) (vincristine, actinomycin D, cyclophosphamide, and doxorubicin [/VACD] plus IE-based regimens; T-16, EVAIA, KS-1) (see Table 1) had significantly better EFS (5-year EFS rate, 67.6%) compared with the other patients (n = 156 patients; 5-year EFS rate, 41.2%; P = .0054 [log-rank test] and P = .010 [Wilcoxon test]) (Fig. 2). Moreover, of the various chemotherapy regimens, we compared outcomes of nonmetastatic patients who received 2 typical regimens, the T-11 protocol (see Table 1) and VACD plus IE-based regimens. The results indicated that patients who received VACD plus IE-based regimens had significantly better EFS (n = 32 patients; 5-year EFS rate, 67.3%) than patients who received the T-11 protocol (n = 43 patients; 5-year EFS rate, 41.6%; P = .032 [log-rank test] and P = .041 [Wilcoxon test]).
+
+/EICESS-92 (JCO 08) "10.1200/JCO.2008.16.5720"
+
+"Results of the EICESS-92 Study: two randomized trials of Ewing's sarcoma treatment--cyclophosphamide compared with ifosfamide in standard-risk patients and assessment of benefit of etoposide added to standard treatment in high-risk patients."
+
+For STANDARD RISK,
+
+VACD vs VAID (Cytoxan vs Ifosfamide)
+
+Results: substituting Ifosfamide for Cyclophosphamide has same efficacy w/ less toxicity.
+
+For HIGH RISK,
+
+VAIA vs EVAIA (add etoposide)
+
+Results: Adding Etoposide reduced risk 15-17%.
+
+Ewing's OUTCOMES: 5yr OS 60-70%
+
+/RB /Retinoblastoma – AD 13q14
+
+/Rb1 tumor suppressor gene (HPV knocks off). Is inactivated in many cancers.
+
+only 5% have +FH, 95% sporadic
+
+80% before age 3
+
+median age
+
+ bilateral 13 mos
+
+ unilateral 24 mos
+
+60% nonhered & unilat
+
+15% hered and unilat
+
+25% hered and bilat
+
+"trilateral": 6% of all cases. bilateral eyes and pineoblastoma, along 3rd ventricle
+
+Tx: high dose chemo, +/- CSI RT, 5yrOS 6%
+
+Highest risk of RT-induced secondary malignancy (bone & ST sarcomas), especially if germline mutation (defective Rb1 gene), as high as 1% risk per year, up to 51% over 50 yrs (Wong, JAMA 97)
+
+Reduce risk by
+
+ Delaying RT to Age>1 reduces risk of secondary malignancies.
+
+ plaque brachy
+
+ lower doses (32-38Gy)
+
+Hereditary retinoblastoma associated with germline mutations in the RB gene is associated with a 100-fold increase in the risk of osteosarcoma, even in the absence of radiation exposure.
+
+mets to BM, bone, liver
+
+Workup:
+
+Hx: Get FH
+
+Exam:
+
+ Leucocoria or Leukocoria - “cat’s eye” white pupillary reflex
+
+ Strabismus
+
+ Test visual acuity
+
+ Examine contralateral eye
+
+Tests:
+
+RET-CAM - pediatric retinal imaging
+
+ Retinal detachment looks like “folds”
+
+CT
+
+MRI to look for trilateral (3rd ventricle pineoblastoma)
+
+US to look for optic nerve involvement, extraocular extension
+
+High Risk Features:
+
+posterior uveal invasion (includes choroid)
+
+choroid & optic n involvement
+
+optic n invasion posterior to lamina
+
+scleral invasion
+
+ant chamber seeding
+
+ciliary body infiltration
+
+iris infiltration
+
+If suspect mets (optic nerve invasion, choroidal or uveal invasion, orbital invasion):
+
+BMBx
+
+BoneScan
+
+LP for CSF
+
+Reese-Ellsworth Staging
+
+Group I (very favorable for maintenance of sight, >95%)
+
+A solitary, <4DD (DiskDiameter = 1.5mm)
+
+B multiple, <4DD
+
+Group II (favorable)
+
+A solitary 4-10 DD
+
+B multiple 4-10 DD
+
+Group III (possible maintenance, ~65%)
+
+A anterior to equator
+
+B solitary >10DD
+
+Group IV (unfavorable (<50%))
+
+A multiple, 10DD
+
+B anterior to ora serrata
+
+Group V very unfavorable
+
+A massive tumor (>1/2 retina)
+
+B vitreous seeding
+
+RT Results:
+
+Overall LC with RT is approx 80-95% in Reese-Ellsworth Stage I to III disease
+
+LC approx 50% in pts with IV to V Reese-Ellsworth
+
+INTERNATIONAL Staging
+
+I enucleated, complete resection
+
+II enucl, microscop residual
+
+III regional extension
+
+IV metastatic
+
+ IVA +BM –CNS
+
+ IVB +BM +CNS
+
+Tx:
+
+Unilateral:
+
+ mostly enucleation if high risk features
+
+ Eye preservation: RT, brachy, photocoag, cryo, thermo, chemoreduc,
+
+
+
+ Then chemo?
+
+Bilateral:
+
+ systemic chemo, +/- enucl of eye w/ most advanced dz, local ophthalmic therapy, delay (>1yo) or avoid RT
+
+Chemo for Rb: VEP (VCR, etoposide, carboPlatin)
+
+Try to avoid RT for RB if <1 yr old.
+
+RT has been largely supplanted by chemo recently, but if you are gonna give it, favor plaque over EBRT.
+
+Dose:
+
+RE I-II 36Gy
+
+RE II-V 45Gy
+
+Indications (see below for more)
+
+EBRT: for large, adjac to optic n, multiple tumors, vitreous seeding
+
+protons
+
+wedged pair (lat:AP 4:1 weighting)
+
+IMRT
+
+/DVH Rb (from CM's IMRT plan on Parsons, Kysin)
+
+PTV 36Gy
+
+Ipsilateral optic nerve 20Gy
+
+Chiasm 2Gy
+
+Orbital Bones max 36Gy, V20 < ___
+
+Contralateral lens < 7Gy
+
+Contralateral optic nerve <10Gy
+
+Brachy: small tumors, consolidative after chemo
+
+Episcleral plaque 36Gy in latest protocol (ARET 0321).  Use US to localize.  
+
+Diffuse vitreous involvement is a contraindication.
+
+lesion control rate 80-90%
+
+Radioactive Episcleral I-125 Plaque 40Gy to apex
+
+cover tumor plus 1.5-2 mm lateral margin
+
+indications: small solitary tumor (< 15 mm diameter; < 10 mm thick) located > 3 mm from fovea or optic disc
+
+small localized recurrence after other local therapy
+
+supplemental therapy after RT as needed
+
+Large tumors or multiple tumors for which focal therapy is ineffective
+
+Children with bilateral advanced intraocular disease
+
+contraindications:   diffuse vitreous seeding
+
+dose = 160-200 Gy to episcleral surface
+
+40 Gy to tumor apex given over a 4 day period
+
+Note much lower than the Melanoma dose and therefore, less common complications
+
+After chemotherapy, some have lowered to dose to 25 – 30 Gy (higher occurrence of retinitis with 40 Gy and chemo)
+
+very effective
+
+rare complications – b/c dose is so much lower than with melanoma, optic neuropathy & retinopathy is unusual
+
+plaque advantages over EBRT: does not produce orbital bone hypoplasia
+
+no increased risk of orbital bone sarcoma
+
+EBRT
+
+Reese-Ellsworth grouping system predicts probability of success
+
+advantage over other local therapies is that recovery of adjacent retina may occur with shrinkage of tumor
+
+may  ability to save the eye & vision, but may  OS 2/2 increased risk of 2nd tumors
+
+not used much anymore
+
+indications: tumor at fovea/macula where central vision would be destroyed by photocoagulation
+
+large tumors for which other local therapies are ineffective
+
+salvage therapy after more focal therapies have failed
+
+extensive vitreous seeding
+
+post-enucleation for (1) positive optic nerve margin (caution – nerve may retract back into optic foramen)
+
+(2) extraocular extension
+
+(3) prior intraocular procedure
+
+field = whole orbit with anterior & lateral oblique wedge pair
+
+dose = 50-54 Gy
+
+brain or meningeal extension (entire cranial-spinal axis)
+
+palliation of distant mets
+
+anterior-lateral wedge pair technique
+
+most widely used approach
+
+attempts to treat the entire retina while protecting the lens
+
+uses a central divergent hanging block in the anterior field to spare the lens; however, block is omitted when tumor is located at the posterior pole
+
+weighting is usually 4:1 lateral:anterior with the anterior dose attempting to supplement dose to the anterior retina that may be compromised by the lateral field
+
+treatment borders
+
+lateral portal: same as above except that the anterior border is placed at the bony canthus
+
+anterior portal: 1 cm margin around entire bony orbit
+
+treatment borders
+
+anterior: 2 – 3 mm posterior to soft tissue canthus
+
+posterior: 1 cm posterior to posterior orbital cone
+
+superior: 1 cm superior to superior orbital wall
+
+inferior: 1 cm inferior to inferior orbital wall
+
+Eye preservation rates: 60-90%
+
+Visual preservation rates (see R-E staging): By R-E stage: >95%, ,65%, <50%, poor
+
+Side effects of EBRT: dermatitis, lid ectropion (cyst under eyelid), pingueculum (a yellowish patch on the white (sclera) of the eye. Found between the eyelids, it is most often on the nasal side),
+
+secondary malignancies, dry eye (mebovian glands in lid), neovascular glaucoma, vitreous hemorrhage, retinal detachment, cataract
+

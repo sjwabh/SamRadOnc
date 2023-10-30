@@ -1,0 +1,389 @@
+
+RadOnc	
+SamRadOnc Home PageBreastCNSGIGUGynHNLungLymphomamiscOtherPalliative	
+benign
+/HO /Heterotopic Ossification
+
+Brooker classification
+
+I little spot – small bone islands in soft tissues
+
+II on both sides – with >1cm gap
+
+III almost complete bridge, <1cm gap
+
+IV  complete bridge w/ complete ankylosis of hip
+
+Risk Factors: prior HO, male, Parkinsons
+
+HO occurs in 30-43% of pts undergoing hip arthroplasty.
+
+RT reduces risk to: 11% radiologic failure, 5% functional failure rate.
+
+80% chance of recurrence if prior episode.
+
+>60% if Hypertrophic OA, Ankylosing Spondylitis, diffuse idiopathic skeletal hyperostosis (DISH), Paget's.
+
+HO appears 3-6wks postop, fully formed in 8 wks.
+
+NSAIDS (Indocin 25 TID x 3-6 mos) (Pakos, Red 04: Meta-Analysis showed RT better than NSAIDS), bisphosphonates.
+
+Prophylactic RT only for posterior acetabular fx?
+
+RT works on pluripotent osteogenitor mesenchymal cells, which are stimulated to proliferate after trauma.
+
+APPA 700 cGy x 1, should be pre-op <8hrs, or post-op within 72 hrs of surgery.
+
+Sometimes in elbow (we treat these too), spine.
+
+After RT, will take longer, about 2x (12-16mos) as long for normal bone to heal.
+
+Seegenschmidt meta-analysis. "seegenschmiedt.heinrich@krupp-krankenhaus.de"
+
+Seegenschmiedt, Radiation prophylaxis for heterotopic ossification about the hip joint--a multicenter study. Int J Radiat Oncol Biol Phys. 2001 Nov 1;51(3):756-65. PMID:11697322
+
+Review of HO in 2009: Baird, Journal of Orthopaedic Surgery and Research 2009, 4:12 doi:10.1186/1749-799X-4-12
+
+Risks: impaired wound healing, risk of non-union especially of long bones, temporary oligospermia, secondary malignancies
+
+/Benign Diseases
+
+/Exophthalmos /Graves ophthalmopathy
+
+Sx: proptosis, diplopia, blurred vision, EOM dysfunction, lid lag, optic neuropathy, periorbital edema.
+
+Etiol: T-lymphocyte infiltration to orbit, fibroblasts
+
+Tx: try steroids first (2-8 wks), then orbital decompression surgery,
+
+RT: 2000/10.  Higher doses don't help.
+
+Opposed lats, 6x photons or 12-15e- electrons, split beam or posterior angulation to avoid lens.
+
+Women do better.
+
+AH says there's a RCT from Mayo on RT for Graves.  LOOK THIS UP.
+
+In a series of 35 patients with thyroid ophthalmopathy, Sandler et al. (133) reported that 71% of patients receiving 20 Gy in 2-Gy fractions required no further steroid therapy or surgical decompression. Of the failures, 7/21 patients (33%) had failed prior steroid therapy; two of the seven patients (28%) had failed prior surgical decompression; and only one of seven patients (14%) had no prior treatment. The main prognostic factor for failure was an interval of <6 months between eye disease and radiation therapy. In a series of over 300 patients, Peterson et al. (112) showed that 20 Gy in 10 fractions gave identical results to 30 Gy in 15 fractions, and that as many as 76% of treated patients responded positively to treatment.
+
+The risk of definite radiation retinopathy is 1% to 2% within 10 years after treatment.
+
+/pterygium
+
+MC benign eye condition for which RT is beneficial.
+
+Recurrence rate after surgery alone is 67%, higher in females <40yo.
+
+Recurrence rate after RT is 1-2% !!!!
+
+Sr-90 surface applicator.
+
+---
+
+/keloid
+
+6e- w/ 1cm bolus, 300x3-4 = 900-1200.
+
+Must be within (24hrs to a few days) of excision.
+
+Acute kidney rejection (LGI – local graft irradiation)
+
+Radiotherapy for Rejection of Renal Transplant Allografts Refractory to Medical Immunosuppression,  DOI: 10.1097/01.coc.0000231452.47998.88
+
+-stimulates apoptosis!
+
+parotid hypertrophy
+
+(from HIV)
+
+150 cGy/d to 2400 cGy.  Mixed e:p 20e- & 6x, en face
+
+- - -
+
+/LCH /Langerhans Cell Histiocytosis (old term /Histiocytosis X )
+
+- proliferation of bone-marrow derived Langerhans cells & mature eosinophils.  
+
+BirBECK granules (tennis rackets) on EM in Langerhans Cells.
+
+CD1
+
+Clinical spectrum:
+
+/LS  /Letterer-Siwe
+
+/HCS /Hans-Christian-Schuller
+
+/EG  /eosinophilic granuloma
+
+LCH-X : /LHE       
+
+LS <2yrs acute fulminant dz: skin eruptions (scalp, groin), anemia, HSM, LAN, hemorrhagic diatheses
+
+HCS 2-10yrs intermediate. triad: DI/Proptosis/LyticBone in Skull. Also OM, Mastoiditis.
+
+EG 5-15yrs mild. solitary lesion. bone. 1/3 progress. 5% spontaneous regression.
+
+/EG of lung, in smokers.
+
+    CXR: bilateral reticular nodular cystic opacities
+
+Bone Scan: pure lytic lesions don't show up (MM, Histiocytosis)
+
+Tx:
+
+bone lesions
+
+only treat if
+
+if solitary bone lesion: excision/curettage, or XRT if inaccessible
+
+(6-9Gy, 300/d for kids, or 10-15Gy for adults or soft tissue component),
+
+intralesional steroid inj
+
+Local Control rate 90%
+
+RT Dose: 150x6=9Gy (or 6-9Gy at 300/d)
+
+Eng does 9e- w/ .5cm bolus 200x4=800cGy for skull lesions.
+
+For DI, treat pituitary w/ RT to 12-20Gy.
+
+if multiple or systemic: methotrexate, systemic steroids,
+
+---------
+
+- - 
+
+/AVM
+
+4 options: observation, surgery, embolization, SRS.
+
+annual risk of hemorrhage 2-4% per year.
+
+Good Prognosis Factors:
+
+Size<2cm
+
+SRS feasibility:
+
+Diameter < 3cm
+
+Wait 2-3 months after hemorrhage or surgery before giving RS.
+
+Wait a few weeks after embolization before RS.
+
+Target nidus only (not all feeding arteries/veins)
+
+SRS Dose: PS says give as much as you can, depends on location. 16-20Gy.
+
+CM does 21 Gy.
+
+Threshold of 15-16Gy.
+
+Others do 15-30Gy to the margin (50-70% isodose), depending on size, location, bleeding hx.
+
+Use RS w/ frame.
+
+Give Solumedrol 40mg (methylprednisolone) after RS.
+
+You do get immediate benefit after SRS of risk reduction to 50%, then 88% by obliteration.
+
+FU w/ MRI q6mo x 3 yrs.
+
+If MRI @3yrs shows complete obliteration, get angio to confirm.
+
+2yr Obliteration rates:
+
+<2cm => 90-100%
+
+>2cm => 50-70%
+
+Toxicity risks: risk of brain necrosis depends on V12Gy < 10cc.  
+
+SPIE score 0-10 (Significant Postradiosurgery Injury Expression).
+
+Flickinger JC; Kondziolka D; Lunsford LD; Kassam A; Phuong LK; Liscak R; Pollock B  
+
+SO Int J Radiat Oncol Biol Phys 2000 Mar 15;46(5):1143-8.  
+
+Order of increasing risk and SPIE score (from 0-10) were: frontal, temporal, intraventricular, parietal, cerebellar, corpus callosum, occipital, medulla, thalamus, basal ganglia, and pons/midbrain
+
+1. Frontal lobe - lowest risk
+
+2. Cerebellum, temporal, parietal
+
+3. occipital, basal ganglia
+
+4. medulla, pons, thalamic, interventricular, CC
+
+Speltzer-Martin
+
+size <3cm, 3-6cm, >6cm
+
+eloquence
+
+deep
+
+/Lawrence, QUANTEC Brain
+
+V12Gy>10cc has increased risk of brain radionecrosis.
+
+===
+
+/Trigeminal neuralgia - tic doloreaux
+
+RS 70-80Gy!!!
+
+Pain relief not always durable: 21% excellent/good relief by 2 yrs. (Tawk, JNeurosurg 2005)
+
+May cause facial numbness, but this correlates w/ better pain relief.
+
+/Acoustic Neuroma (Fractionated 54Gy, SRS 12Gy)
+
+/Schwannoma: CN VII, VIII.  
+
+Sx: sensorineural hearing loss, tinnitus, vertigo/dizziness, ear fullness. Numbness, HA, diplopia.
+
+Risks: chronic exposure to loud sounds.  NF2.
+
+MRI: T1+C shows a homogeneously enhancing mass at the CPA.
+
+DDx: meningioma, acoustic neuroma, neurofibroma
+
+Tx Options: Surgery or RT
+
+Surgery:
+
+ Translabyrinthine (sacrifice hearing)
+
+ Middle fossa
+
+ suboccipital / retro mastoid
+
+RT: fractionated (54Gy) or SRS (12-13Gy) or hypoFx (700x3, 500x5).
+
+Fuss: Fractionated better hearing preservation than w/ RS.
+
+RT 180 x30 to 54Gy.
+
+SRS: 12-13Gy. Crocker does 12Gy.  Stockholm 10-15Gy, Mayo 16-20 Gy.
+
+PS does 800x3.
+
+Outcomes:  LC rate: >90%
+
+  Local Control worse if size >3cm.
+
+Toxicities from SRS:
+
+  70% stable hearing (10-15% hearing improves, 10-15% hearing gets worse)
+
+  CN V: <5%
+
+  CN VII: <5%
+
+/Dupuytren's contracture
+
+contracture of the palmar fascia.
+
+Sx: cords and nodules
+
+Tubiana's classification:...
+
+Following Tubiana the degree by which the finger is bent is used to grade contracture into several stages. If more than one joint of a finger is bent, the angles of contracture are simply added together. Based on this total angle of contracture stages in the development of Morbus Dupuytren are usually classified as below. The initial stages N and N/I show no, or very little contraction.
+
+ 
+
+
+ 
+
+ 
+
+Dr. David Cline from Boise, comes to Portland once per month.
+
+ 
+
+Surgical release (needle aponeurotomy), then RT within 72h.
+
+percutaneous fasciotomy
+
+steroid injection
+
+ 
+
+RT can reduce risk of progression post surgery from 60-70% down to 20-25%.
+
+ 
+
+RT targets the fibroblasts or CD+ T lymphocytes that contribute to the scarring contracture.
+
+ 
+
+RT:
+
+300x5 with F2 orthovoltage (~120kV?), 6-8 wk break, then repeat 300x5. Total 30Gy.
+
+ 
+
+Or 300x7=21Gy over 2 weeks.
+
+ 
+
+Use orthovoltage 100-125kV, or 5e- electrons with 0.5cm bolus.
+
+ 
+
+/Seegenschmiedt, RT for Non-Malignant Disorders. Textbook. Springer. 2008.
+
+ 
+
+German study, long-term results:
+
+/Betz, Strahlenther Onkol. 2010 Feb;186(2):82-90. doi: 10.1007/s00066-010-2063-z. Epub 2010 Jan 28.
+
+http://www.ncbi.nlm.nih.gov/pubmed/20127225
+
+208 hands.
+
+RT 300x5 ortho, 8 wk break, 300x5.  Total 30Gy.
+
+ 
+
+In stage N 87% and in stage N/I 70% remained stable or even regressed. In more advanced stages, the rate of disease progression increased to 62% (stage I) or 86% (stage II). 66% of the patients showed a long-term relief of symptoms (i.e., burning sensations, itching and scratching, pressure and tension). Radiotherapy did not increase the complication rate after surgery in case of disease progression and only minor late toxicity (skin atrophy, dry desquamation) could be observed in 32% of the patients.
+
+ 
+
+ 
+
+Original ref: /Keilholz, Red 1996, 36(4):891. Germany.
+
+RT for preventing progression of early Dupuytren's.
+
+142 hands in 96 pts
+
+Progression in 11-23% of pts in long term (>5yr) follow-up.
+
+ 
+
+ 
+
+ 
+
+ 
+
+/Seegenschmiedt, Red 2001, 49(3):785
+
+ 
+
+ 
+
+RT Toxicities:
+
+erythema, dryness, desquamation, skin atrophy, sensory change, risk of RT-induced malignancies.
+
+ 
+
+ 
+

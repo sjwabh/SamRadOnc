@@ -1,0 +1,1330 @@
+
+RadOnc	
+SamRadOnc Home PageBreastCNSGIGUGynHNLungLymphomamiscOtherPalliative	
+Esophageal
+//Esophageal //esophagus CA :  “70 yo Black Males”
+
+            Incidence   Mortality
+
+Esophagus   14,550     13,770
+
+ 
+
+Incidence: 15-20% increase in last 30 yrs
+
+Now more Adeno in U.S., 75% (better) than SCC 25% (worse).
+
+Epid: Males>>F (3-7x!)
+
+But SCC still more common than adenoCA in Blacks (3x)
+
+ 
+
+MC site: Distal 1/3
+
+ 
+
+ 
+
+Unfavorable Prognostic Factors (Urba): >5cm, SCC, Age>70.
+
+ 
+
+Esophageal Belt (alkaline soil): 30x higher in Iran, Russia, Northern China
+
+ 
+
+Esophageal Risk Factors:
+
+Smoking and EtOH are risk factors for SCC
+
+GERD is risk factor for adenoCA
+
+/nitrosamines (esophagus and NPC), pickled vegetables (more for NPC), cured meats. 
+
+hot tea (trauma?)
+
+     
+
+ 
+
+Esophageal Anatomy
+
+No serosa!
+
+ 
+
+cr-18 cervical (cricoid to 18cm)
+
+18-24 upper
+
+24-32 mid
+
+32-40 lower
+
+ 
+
+starts at C7 (15cm from  incisors)
+
+27 cm to carina.
+
+40 cm from incisors to GE jcn.
+
+ 
+
+cervical
+
+  cricopharyngeus to thoracic inlet (18cm)
+
+upper 1/3: striated muscle (10-25%)
+
+  thoracic inlet to carina (25cm)
+
+mid 1/3: Squamous   (40-50%)
+
+  carina to inferior pulm veins (24-32cm)
+
+lower 1/3: adenoCA from Barrett's (increasing in incidence, now MCsite) (25-50%)
+
+  (32-40cm)
+
+ 
+
+Lymphatics: inferior thyroid, bronchial a, esophageal a, L gastric a.
+
+Skip mets 2/2 submucosal & muscularis propria spread
+
+ 
+
+ 
+
+ 
+
+/Dysphagia (70% palliative success rate from RT)
+
+  To Solids, not liquids: obstruction, e.g., esoph web, cancer
+
+  To Solids AND Liquids: peristalsis.  Myasthenia Gravis (upper 1/3 striated muscle), Lower: PSS, CREST, or achalasia
+
+ 
+
+/Wara, Dysphagia, Radiology 1976, Dec 121 (3 part 1):717-20: Palliative RT success rate:
+
+66% had significant relief of dysphagia for 2 months or longer.
+
+89% had some relief.
+
+(but this may be from SCC, not sure if it's still true for AdenoCA)
+
+ 
+
+/Coia, Cancer 1993, V71, 281-286.  ChemoRT, 91% response and quicker relief from dysphagia.
+
+ 
+
+/Endoluminal brachytherapy: 500x2
+
+Sharma, Red 2002:52: 48% improvement in dysphagia following HDR. 
+
+Risks: stricture, fistula, ulcers, but Hemetemesis is NOT a common side effect from esophageal endoluminal brachytherapy.
+
+ 
+
+ 
+
+Sx: dysphagia, wt loss, enlarged cervical nodes
+
+ 
+
+WORKUP
+
+  Endoscopy w/ bx
+
+  EUS
+
+  Always Bronch if thoracic esophagus to r/o TE fistula
+
+  CTcap
+
+  PET can find addl 20 percent undetected mets (Ref? "DOI: 10.1200/JCO.2004.01.083"???)
+
+  PFTs (especially if SCC ???)
+
+  CBC, chemistries
+
+  Bone scan if bone pain or ^AP
+
+ 
+
+/Esophageal Staging, AJCC7
+
+T1 (LN risk 40%!)
+
+  a LP or MM (lamina propria or muscularis mucosa)
+
+  b submucosa
+
+T2 MP (muscularis propria)
+
+T3 adventitia (NO SEROSA!)
+
+T4 adjacent structures
+
+  a RESECTABLE: pleura, pericardium, diaphragm
+
+  b UNRESECTABLE: Ao, verterbral body, trachea
+
+N1 1-2 regional LN
+
+N2 3-6 nodes
+
+N3 7+  nodes
+
+M1 distant mets (no more M1a, M1b)
+
+ 
+
+esoph mets to brain are rare.
+
+ 
+
+10-15% of H&N pts get a second cancer. 1/3 of these are esophageal.
+
+ 
+
+Upper Thoracic: 29% SCV risk, 32% abdominal LN risk
+
+Middle (Lower?) Thoracic:     40% abdominal LN risk
+
+ 
+
+   T1   T2   T3   T4
+
+ 
+
+N0 I    IIA--IIA  III
+
+ 
+
+N1 IIB--IIB  III  III
+
+ 
+
+ 
+
+ 
+
+   T1   T2   T3   T4
+
+ 
+
+N0 85%  50%  50%  15%
+
+ 
+
+N1 20%  20%  15%  15%
+
+ 
+
+ 
+
+ 
+
+Need minimum of 6-12 lymph nodes resected.
+
+ 
+
+      5yr OS
+
+I     80-90% (Willet)
+
+IIA   50%
+
+IIB   20%
+
+III   10-15%
+
+IV    10%
+
+ 
+
+ 
+
+ 
+
+/Tx Esophageal /Esophageal
+
+If starts out as T1N0:
+
+Tis-T1a: EMR endoscopic mucosal resection, esophagectomy
+
+T1b: upfront esophagectomy for non cervical
+
+If SCC, no post-op treatment, don't add CRT until close or + margin
+
+If AdenoCA and pT2N0, consider post-op chemoRT.
+
+If AdenoCA and pT3N0, always post-op chemoRT.
+
+ 
+
+ 
+
+cT2N0M0: may not need neoadjuvant chemoRT. Consider surgery alone?
+
+http://www.jthoracdis.com/article/view/85/150
+
+T2 or N1 (Stage II) chemoRT+/-surgery
+
+ 
+
+ 
+
+/chemo weeks 1,5,8,11   ESOPHAGUS
+
+cis 75mg/m2, day 1
+
+5FU 1000mg/m2/d x4d x 2 cycles during RT, then 2 more cycles.
+
+ 
+
+ 
+
+or, weekly carbo / Taxol, per Dutch CROSS 2012 study (see below)
+
+ 
+
+ 
+
+/PRODIGE 5 /ACCORD
+
+Lancet Oncol. 2014 Mar;15(3):305-14. doi: 10.1016/S1470-2045(14)70028-2. Epub 2014 Feb 18.
+
+http://www.sciencedirect.com/science/article/pii/S1470204514700282?via%3Dihub
+
+definitive chemoRT
+
+RT w/ concurrent FOLFOX4 vs 5FU / cis 
+
+followed by more chemo alone
+
+267 pts, esoph CA
+
+Phase III
+
+Conclusion: PFS was equivalent, ~9.4-9.7 months.
+
+Also no significant differences between groups in any of the secondary endpoints of overall survival, proportion of endoscopic complete responses, time to treatment failure, or occurrence of grade 3 or 4 toxicities. 
+
+FOLFOX was a less time-consuming and easier to administer regimen.
+
+Has implications for the potential use of FOLFOX combination in cisplatin-intolerant patients.
+
+/POET 
+
+Stahl M, Walz MK, Stuschke M, et al., J Clin Oncol 2009;27:851-6.
+
+Phase III comparison of preoperative chemotherapy compared with chemoradiotherapy in patients with locally advanced adenocarcinoma of the esophagogastric junction. 
+
+In the POET trial, only patients with esophagogastric-junction tumors were included and randomly assigned to preoperative chemotherapy or chemoradiotherapy. In that study, there was a nonsignificant trend in favor of preoperative chemoradiotherapy.
+
+ 
+
+For T1-3 N0-1:
+
+Minsky says: standard of care 2 options:
+
+ esophagectomy +/- PostOp CRT (not anymore per Tepper CALGB study?), OR
+
+ definitive (PreOp) CRT w/ 5FU/ cis + 50.4Gy, then consider surgery?
+
+ 
+
+ 
+
+Minsky 
+
+RT dose:
+
+PreOp: Total 50.4. 
+
+  APPA 36Gy, then
+
+  3Field 9Gy, then
+
+  obliques boost 5.4.
+
+ 
+
+Minsky does neoadjuvant CRT to 50.4, though no data. (but now there's Tepper CALGB)
+
+4 field w 5 cm prox & distal margins
+
+ 
+
+Definitive RT: FCCC does 60Gy: 30Gy APPA, then 3 field (AP, 2 post obliques) 30Gy.
+
+ 
+
+Esoph Field Borders:
+
+5cm prox/dist margins, 2.5cm circumferential
+
+Above carina-> include supraclav
+
+Below carina-> include celiac
+
+ 
+
+/IMRT for Esophagus
+
+LOOK UP THESE REFS:
+
+Goodman: IMRT reduces heart dose
+
+Esophagus Contouring Atlas, Red 2015
+
+/DVH Esophagus IMRT Dose Constraints 
+
+Lung V5<65%, V20<25%
+
+From: Shaikh, PRO 2016, Risk of radiation pneumonitis in patients receiving taxane-based trimodality therapy for locally advanced esophageal cancer.   http://dx.doi.org/10.1016/j.prro.2016.02.004
+
+(where from?):
+
+GOAL
+
+Cord Max < 45Gy
+
+Heart Mean<23Gy, V30<25%
+
+Lung V20<20%,V10<40%,V5<50%
+
+Kidneys V20<15%
+
+Liver   Mean<25Gy
+
+/DVH Esophagus:
+
+Lung DVH: V20<20%, V10<40%, V5<50%(if possible?) or (V20<30%, V5<66%)
+
+Kidneys DVH: V20<25% (?)
+
+Heart (espec LV) DVH: Mean Dose 40Gy (JH), mean dose < 30Gy, V40<40% (PS), or somebody else says D50<22-27Gy; or 50% ventricles <25Gy (AWC, JL)
+
+Cord max: <45Gy
+
+Liver mean dose 30Gy.
+
+ 
+
+ 
+
+Esophagus
+
+            LC
+
+Trimod      65%
+
+Surgery     60%
+
+ChemoRT     55%
+
+RT          30%
+
+ 
+
+ 
+
+ 
+
+ 
+
+/PORT Esophagus Indications
+
+R1 resection: +M
+
+R2 resection: gross residual.
+
+ 
+
+R0 resection: Maybe for +N, +ECE.
+
+Locally advanced: >=T3, but prob not for T2N0?
+
+ 
+
+DisAdv: PostOp needs much bigger fields (whole stomasophagus, B SCV, celiac) than PreOp.
+
+ 
+
+/Esophageal Studies
+
+ 
+
+Definitive CRT vs RT:
+
+RTOG /8501 (Herskovic, Cooper, JAMA '99, "JAMA, May 5, 1999—Vol 281, No. 17"
+
+For T1-3, N0-1, SCC (mostly) or AdenoCA (some)
+
+Definitive CRT (50Gy + 5FU / cisplatin x4) vs RT (64Gy)
+
+Improved 5 yr OS: 26% v 0%
+
+Improved LC 55% v 30%.
+
+But still 45% LRR after CRT. :(
+
+And 70% locoregional recurrence w/ just RT!  :(
+
+SCC (21%) did better than AdenoCA (13%).
+
+ 
+
+ 
+
+INT /0123, RTOG /9405 (Minsky, JCO 2002, “0732-183X/02/2005-1167/”)
+
+50 vs 64.8Gy, in definitive CRT
+
+For T1-T4, N0-1, M0, excluded if <2cm from GEJ.
+
+SCC 84-87%
+
+High-Dose (64.8) vs Conventional-Dose (50.4) RT in Definitive CRT.
+
+5FU / cis x 4 cycles.
+
+236 pts.
+
+No benefit.
+
+Comments: high Dose arm actually did worse! 13 mo for 64.8, vs 18 mo for 50.4.
+
+Critique: High mortality in the High Dose arm, but they died before even reaching 50Gy!
+
+ 
+
+ 
+
+But JH/PS treat cervical esophagus like H&N: 65-70Gy
+
+ 
+
+PRE-OP CRT:
+
+ 
+
+/Urba, Michigan (JCO 2001) “0732-183X/01/1902-305”
+
++/-PreOp CRT plus Surgery
+
+RT 150 BID 45Gy + 5FU/ cis / Vinblastine.
+
+100 pts w/ Adeno or SCC
+
+Improved LRR 19% vs 40%.
+
+No diff in 3yr OS (30% vs 16%, p=.15) or median survival (17 mos).
+
+pCR rate 28%, and this predicted improved 3yr OS 64%.
+
+ (Initial ASCO 1997 abstract showed 3yr OS benefit, but final analysis in JCO 2001 showed not significant.)
+
+Multivariate analysis: poor prognostic factors: >5cm, age>70, SCC.
+
+Critiques: weird RT (BID)
+
+ 
+
+/Dublin study, /Walsh, NEJM 1996, "(T.N.W., T.P.J.H.)"
+
+ +/-PreOp CRT for AdenoCA only
+
+ (used to be only trial to show OS benefit to PreOp CRT, but stats may be flawed, and surgery only arm survival too low should be around 20%, followup too short)
+
+40Gy/2.66, 5FU / cis
+
+113 pts
+
+3yr OS 32% v 6%
+
+Median OS 16 v 11 mos.
+
+pCR 22-25%, which Urba showed does correlate w/ better survival.
+
+Critiques: surgery arm outcome too low (should be ~20%). short FU. hypofx RT.
+
+But now we have the Dutch 2012 study.
+
+ 
+
+/BoSSet (SCC) NEJM 1997, "of 3.7 Gy each, and 80 mg of cisplatin"
+
++/-PreOp CRT for Esoph SCC
+
+282pts, T1-3N0, or T1N1
+
+Cis.
+
+37Gy in 10 split course w/ 2wk break.
+
+Improved DFS, resectability.
+
+But worse postop mortality 12% v 3%.
+
+No diff OS.
+
+pCR 20-26%.
+
+Comments: Should have added 5FU & used smaller Fxs.
+
+ 
+
+ 
+
+/CALGB 9781 , RTOG 9716, /Tepper, JCO 2008, "DOI: 10.1200/JCO.2007.12.9593"
+
++/-Preop CRT for T1-3 Nx esophagus
+
+5FU/ cisplatin 100mg/m2 / 45+5.4=50.4
+
+Weeks 1 and 5.  Only 2 cycles.
+
+CLOSED EARLY at 56pts DUE TO POOR ACCRUAL, but post-hoc analysis by
+
+Tepper showed:
+
+improved median survival 4.5yrs vs 1.8yrs.
+
+Improved 5yr OS 39% v 16%
+
+pCR 40%
+
+Critiques: Study is too small, only 56pts, post-hoc statistical analysis
+
+ 
+
+ 
+
+ 
+
+Burmeister (Aus) trial
+
+only 35Gy in 15
+
+No diff.
+
+ 
+
+ 
+
+/Gebski meta-analysis, Lancet Oncol. 2007;8:226–34.
+
++-PreOp ChemoRT
+
+>1200 pts
+
+HR 0.81
+
+PreOp ChemoRT Improved 2yr OS by 12%.
+
+PreOp Chemo improved survival by about 6%.
+
+Gebski V, Burmeister B, Smithers BM, et al. Survival benefits from neoadjuvant chemoradiotherapy or chemotherapy in oesophageal carcinoma: a meta-analysis.
+
+Updated to include CROSS study: /Sjoquist, Lancet Oncology 2011;12:681
+
+PreOp ChemoRT: Improved 10%
+
+PreOp Chemo:   Improved by 5%
+
+ 
+
+/van Hagen, /CROSS /Dutch study, NEJM 2012;366:2074-84. 
+
+Full Text avail at:  http://www.nejm.org/doi/full/10.1056/NEJMoa1112088
+
+Check out the Appendix in the Supplemental Materials for RT details:
+
+http://www.nejm.org/action/showSupplements?doi=10.1056%2FNEJMoa1112088&viewType=Popup&viewClass=Suppl
+
+RCT
+
+esoph, at least T1N1 or >=T2N0
+
++-PreOp chemoRT
+
+weekly carbo / Taxol
+
+RT 41.4Gy
+
+368 pts
+
+peri-operative mortality rate was only 4%.
+
+Outcomes: Improved OS 49.4 mo vs 24.0 mos, better R0 (92% v 69%), 
+
+3yr OS ~60%(?) (very high)
+
+pCR 29%  (adeno 23%, SCC 47%) (better pCR for SCC)
+
+Critiques: low RT dose, low chemo dose, does this really mean than weekly carbo Taxol is preferred over historical chemo regimens?, high rate of post-op complications in both groups.
+
+ 
+
+CROSS RT Techniques (from their Appendix):
+
+180x23=4140
+
+Prox & Distal margins of 4cm, 1.5cm radial margins
+
+Looks like they used 3D technique
+
+Doesn't look like they included elective nodes
+
+ 
+
+ 
+
+Definitive CRT vs Surgery:
+
+ 
+
+Carstens, Stockholm trial, ASCO 2007
+
+Esoph SCC or Adeno
+
+91 pts
+
+Surgery alone vs
+
+5FU / cis -> 5FU / cis / 64Gy
+
+No Med OS diff, but curves are starting to separate in favor of CRT.
+
+Conclusion: no diff.
+
+Critiques: only 50% completed CRT. small trial.
+
+ 
+
+ 
+
+25% of Pts get pCR after PreOp CRT, and they do better. (Urba)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PreOp CRT vs PreOp Chemo alone:
+
+(HemOnc Today, 12/10/2012, p12.  Healio.com/HemeOnc
+
+Point/ CounterPoint
+
+ 
+
+For esoph SCC, do PreOp CRT.
+
+For esoph AdenoCA, may only need PreOp chemo (??).
+
+ 
+
+ 
+
+ 
+
+PreOp Chemo alone: Conflicting results:
+
+ 
+
+INT 0133 (not 0113), RTOG 8911 (JCO recent) : PreOp chemo v Surgery alone,
+
+5FU/ CDDP x 3, then surgery, then 2 more cycles.
+
+440pts
+
+Negative trial.
+
+NO advantage to preOp chemo.
+
+5yr OS 20%
+
+ 
+
+MRC OE02 (Lancet 2002, Updated ASCO 08). PreOp Chemo vs Surgery alone.
+
+802pts
+
+Positive trial. PreOp Chemo Improved Med OS 17 mo v 13 mo.
+
+Was: 2yr OS rate 9% (43% v 34%).
+
+Improved 5yr OS 23% v 17%
+
+Improved resectability.
+
+Comments: No standardization of pre op staging, some got EBRT, Chinese pts excluded.
+
+ 
+
+ 
+
+ 
+
+French trial, FFCD 9703 (ASCO 2007)
+
+Peri-op chemo for Lower esoph/ GEJ/ Gastric.
+
+5FU / cis, surgery, then more chemo.
+
+Peri op chemo improved 5yr OS and margins.
+
+Decreased DM rate.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Kok (ASCO 2004?)
+
+ 
+
+ 
+
+CALGB 80302: Phase II trial of induction CPT11, ..., then pre-Op chemo, w/ PET staging.
+
+ 
+
+ 
+
+ 
+
+SWOG /S0356 – oxali for adenoCA. Phase II.
+
+Leichman, JCO 2011, DOI: "10.1200/JCO.2011.36.7490"
+
+Esophageal AdenoCA only
+
+oxaliplatin/ 5FU/ RT then esophagectomy in 4-6wks, then post op oxali/ 5FU
+
+RT 45Gy
+
+93 pts
+
+85% went on to esophagectomy
+
+Only 38.7% completed post-op chemo.
+
+3yr PFS ??
+
+3yr OS 45.1%, MedOS 28.3mos (a new benchmark for a multi-institutional study)
+
+pCR 28% (failed to meet target of 40%)
+
+Molecular analysis: ERCC1 is a platinum marker, shows sensitivity to platinum.
+
+  Lower ERCC1 <1.7 =>
+
+    Improved 2yr PFS of 67% v 17%
+
+    Improved 2yr OS 72% v <20%
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Meta-analysis of 11 trials of preop chemo.
+
+Conclusion: No benefit to preop chemo alone.
+
+ 
+
+However, another alnaysis of 16 RCTs w/ 2594 pts
+
+PreOp chemo before surgery had improved survival.
+
+/Xu, Asian Pac J Cancer Prev 2012;13:103-110.
+
+ 
+
+ 
+
+ 
+
+JCOG9907
+
+Recently, a JCOG study (JCOG9907) demonstrated significantly
+
+better overall survival after preoperative
+
+chemotherapy with two courses of cisplatin plus 5-fluorouracil
+
+followed by surgery compared with postoperative
+
+chemotherapy for resectable cStageII/III thoracic squamous
+
+cell esophageal cancer.2 Since publication of the
+
+results of the JCOG9907 study, preoperative chemotherapy
+
+followed by radical esophagectomy has been accepted as
+
+the standard therapeutic approach to resectable cStage II/III
+
+esophageal cancer in Japan.
+
+ 
+
+Ajani wrote a critique: one major point of criticism is that in the postoperative treatment
+
+arm, pathologically node-negative patients did not receive
+
+chemotherapy because a previous RCT comparing postoperative
+
+chemotherapy vs. surgery alone (JCOG9204) did
+
+not show any benefit for adjuvant chemotherapy in pathologically
+
+node-negative patients.
+
+ 
+
+ 
+
+PostOp RT Esophageal
+
+ 
+
+Teniere (French), 1991: for SCC only,
+
+PostOp RT improved 5yr LRR 85% v 70%, but not OS.
+
+ 
+
+Fok (Hong Kong), 1993: Palliative (R1,R2) vs Curative (R0) surgery. 
+
++-PostOp RT
+
+49-52Gy, 3.5Gy/day
+
+130 pts
+
+May improve LC.
+
+ for R0, but not R1&R2 pts???
+
+In fact, RT arm had worse Med OS.
+
+ 
+
+ 
+
+Xiao (Chinese trial), 2003, 2005:
+
+SCC only.
+
++-PostOp RT 50-60Gy
+
+549pts
+
+EFRT 60Gy from SCV to T12! 
+
+No OS diff, except for Stage III: 35% v 13%, & decr LN recurrence intrathoracic, SCV, anastomosis.
+
+ 
+
+ 
+
+PostOp Chemo for esophagus:
+
+ 
+
+MacDonald (SWOG 9008): 20% were GEJ.
+
+ 
+
+Taiwan (non-randomized): Esoph SCC?
+
+PostOp CRT vs PostOP RT for >T3
+
+Improved 3yr OS 70% v 33%
+
+ 
+
+Canadian (non-randomized) for N+ esoph
+
+PostOp CRT improved 5yr OS 48% v 0%.
+
+ 
+
+ 
+
+ 
+
+CRT +/- Surgery:
+
+Do we still need surgery after CRT? German trial, French trial
+
+ 
+
+/Stahl, German trial, GOCSG, JCO 2005, “DOI: 10.1200/JCO.2005.00.034”, Updated ASCO 2008: no change.
+
+CRT +/- Surgery for T3-4 N0-1 esoph SCC
+
+Induction chemo (ECF x 3 cycles), then ChemoRT (EC + RT 40Gy APPA), then Surgery
+
+vs
+
+Definitive ChemoRT 65Gy (5000 in 25, then 1.5 BID x10=1500, total 65Gy), (or 60Gy EBRT + 4Gy HDR brachy)
+
+ 
+
+172pts
+
+No 2yr OS diff 35-39%, but then the curves started to split.
+
+Surgery had better 2yr PFS (64% v 41%) ??? one of these is wrong.
+
+Better 2yr LF 60% v 35%
+
+But worse Tx-related mortality in surgery arm (12.8% vs 3.5%)
+
+pCR 35%
+
+Assess radiographic response after chemo: dysphagia resolved, Ba swallowing, scope, CT
+
+Conclude: If you respond to induction chemo, don’t need surgery.
+
+Median lymph nodes resected: 12
+
+ 
+
+ 
+
+/Bedenne, French trial, FFCD 9102, Updated ASCO 2008, JCO 2007 " DOI: 10.1200/JCO.2005.04.7118".
+
+T3N0-1 Esophagus, 89% SCC
+
+ChemoRT, then responders were randomized +/- Surgery
+
+444 pts
+
+All got 5FU/ cis, RT 46Gy (or 30Gy hypofx split course)
+
+Responders Randomized to surgery vs more chemoRT (20Gy).
+
+Improved 2yr LC 66% v 57%
+
+No med OS diff: 19.3 v 17.7mo.
+
+No 2yr OS diff: 40% v 34%.
+
+Higher treatment-related mortality (within 90d) 9% v 1%.
+
+Update ASCO 2008 says if non-responder to CRT, then do surgery.
+
+Their Conclusion: if responder, skip the surgery cuz of higher mortality w/ trimodality. If non-responder to CRT, then do surgery.
+
+ 
+
+ 
+
+ 
+
+/Bates says you can't trust an EGD bx after chemoRT, because 41% who had negative EGD Bx still had +tumor at surgery.
+
+ 
+
+ 
+
+Old Wayne State study / SWOG (Herskovic, IJROBP 1988, PMID 3138217)
+
+PreOp CRT +/- Surgery, for esoph.
+
+30Gy/15fx. 5FU/CDDP.
+
++20Gy PostOp if residual.
+
+Nonrandomized.
+
+I can't figure this one out.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+/Brachytherapy, esophageal brachytherapy
+
+Brachy 2 fx to 60Gy.
+
+ 
+
+Brachy for Esoph:
+
+/Gaspar, RTOG 9207, "chemotherapy. Cancer 2000;88:988"
+
+EBRT, Brachy, Chemo.
+
+EBRT 50Gy, wait 2 wks, HDR 500x5 qWeek (or LDR 20Gy)
+
+Chemo: cis / 5FU
+
+3yr OS 29%
+
+Med OS 11 mo
+
+LF 63%
+
+Toxicities: High 12% fistula rate, within 7 months
+
+Conclusions: Disappointing results from brachy.
+
+ 
+
+ 
+
+ 
+
+RTOG 0246, ASTRO 2007, NEED UPDATED REF.
+
+Phase II
+
+Closed 3/06.
+
+15+21=36 pts
+
+Induct Chemo (5FU/ cis / Taxol), then CRT 50.4Gy, then selective Sx (40%). 
+
+If cCR, observe.
+
+If non-CR, surgery.
+
+3yr OS 44%
+
+5yr OS 37% (same for adenoCA vs SCC)
+
+Concluded: Selective Sx is feasible.
+
+  
+
+/MDACC Approach (/Swisher (surgeon), ASTRO Presidential Session 2015)
+
+If Low Surgical Risk, planned trimodality.
+
+If High Risk or Pt Refuses or upper tumor, selective Surgery.
+
+They still always stop RT at 50.4Gy.
+
+How do they choose who goes to surgery? 4 factors:
+
+  High Grade
+
+  Pre-Tx EGD Stenosis
+
+  Post-Tx EGD Bx 
+
+  Post-Tx CT esophageal wall thickness >21mm
+
+(Post-Tx PET didn't help.)
+
+/Francis, Swisher, AAS 2014 (LOOK THIS UP).
+
+/Izzo, JCO 2006
+
+In the future, will likely use 
+
+NF-kB activation, resistant to chemoRT, 95% had residual CA
+
+Why paclitaxel instead of 5FU for esophagus?
+
+Works as well?
+
+Less esophagitis?
+
+Easier: CI 5FU requires central line(?), Taxol is just weekly.
+
+ 
+
+ 
+
+ 
+
+RTOG /0436 Cetuximab
+
+Definitive Esophagus SCC or Adeno.
+
+T2 or N1 or M1a
+
+cis/ Taxol +/-Cetux
+
+Just opened 6/2008.
+
+They decided to skip the 5FU, since they say that 2 chemo regimens appear to be equivalent to 3-drug regimen frameworks for adding a biologic agent.
+
+IMRT not allowed
+
+RT Dose 50.4Gy
+
+CTV Margins 4cm sup-inf, 1cm lateral (subclinical disease)
+
+Total Margins 5cm sup-inf, 1.5cm lateral
+
+ 
+
+ 
+
+SWOG /S0414
+
+Cetuximab Plus Cisplatin, Irinotecan, and Thoracic Radiotherapy as Definitive Treatment for Locally Advanced, Unresectable Esophageal Cancer: A Phase-II Study of The SWOG (S0414).
+
+J Thorac Oncol. 2012 Apr 4. 
+
+PMID 22481235
+
+21 pts, half SCC & half AdenoCA
+
+closed early due to poor accrual
+
+2yr OS 33%, 2yr PFS 23%
+
+High Tx-related mortality 10% !!
+
+>=G3 heme toxicity ~50%
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+/Plummer-Vinson: women. Esophageal webs in upper 1/ 3 esoph(dysphagia to solids), Fe-defic anemia, cheilosis, glossitis, splenomegaly.  Schatzki's ring.
+
+  ~10% risk of esophageal or hypopharyngeal (post-cricoid) cancer (but PV do better).
+
+ 
+
+/Schatzki's ring: narrowing of the lower part of the esophagus that can cause difficulty swallowing (dysphagia). The narrowing is caused by a ring of mucosal tissue
+
+/Esophageal webs also contain extra mucosal tissue, but do not completely encircle the esophagus.
+
+/Tylosis: nonepidermolytic palmoplantar keratoderma: AD genetic disorder chr17, hyperkeratosis of palms/soles, oral leukoplakia, esoph papillomas, 37% increased risk esoph SCC.
+
+ 
+
+ 
+
+/Achalasia: absent Auerbach's (myenteric) ganglion (/Hirschsprung of rectum: both submucosal [Meissner’s] and myenteric plexus [Auerbach’s] are missing) 
+
+(then v VIP ? causing constriction of LES) of esophagus.
+
+Sx: At night, vomit up food.
+
+      incr risk of esophageal CA
+
+      smooth narrowing of GE jcn
+
+      Dysphagia to cold solids and liquids.  (easier to swallow hot solids)
+
+      Can also be acquired from T. cruzi (Chagas, reduviid bug)
+
+Tests: Bird's beak on Ba study.
+
+Rx: balloon dilatation
+
+esophageal spasm - Ca blockers
+
+ 
+
+/Zenker's (false) Diverticulum - posterior herniation of cricopharyngeus muscle between mucosa & submucosa, in upper esophagus.
+
+Women, 80-90's
+
+Sx: dysphagia, halitosis, food comes out nose, voice change, aspiration
+
+Tests: Ba swallow
+
+ 
+
+/esophagectomies
+
+ 
+
+transthoracic esophagectomy: is the best oncologic surgery
+
+   R thoracotomy (Ivor-Lewis): for mid or upper
+
+   L thoracotomy: Left for lower or GEJ, cuz stomach on left
+
+ 
+
+transhiatal esophagectomy: enter from below diaphragm, pull stomach up
+
+  may not be as good cuz can't see LNs as well, but leaks easier to manage.
+
+ 
+
+/nodes, Esophageal: Need at least 15 LNs removed.
+
+ 
+
+ 
+
+/Her2 in /adenoCA, esoph
+
+Approximately 7 to 22 percent of esophagogastric adenocarcinomas overexpress the type II epidermal growth factor receptor (EGFR2,HER2), a similar percentage to that seen in breast cancer.
+
+Higher incidence in esoph (25%) than gastric?
+
+Assoc w/ worse prognosis in gastric and esoph
+
+The benefit of trastuzumab in advanced HER2-positive adenocarcinoma of the stomach or EGJ was addressed in the phase III ToGA trial, which compared standard chemotherapy (six courses of cisplatin plus either infusional FU or capecitabine) with and without trastuzumab (8 mg/kg loading dose, then 6 mg/kg every three weeks until disease progression.
+
+ 
+
+Trastuzumab in combination with chemotherapy versus chemotherapy alone for treatment of HER2-positive advanced gastric or gastro-oesophageal junction cancer (ToGA): a phase 3, open-label, randomised controlled trial.
+
+AU
+
+SO
+
+Bang YJ, Van Cutsem E, Feyereislova A, Chung HC, Shen L, Sawaki A, Lordick F, Ohtsu A, Omuro Y, Satoh T, Aprile G, Kulikov E, Hill J, Lehle M, Rüschoff J, Kang YK, ToGA Trial Investigators
+
+Lancet. 2010;376(9742):687.
+
+594 patients were randomly assigned to study treatment (trastuzumab plus chemotherapy, n=298; chemotherapy alone, n=296), of whom 584 were included in the primary analysis (n=294; n=290). Median follow-up was 18.6 months (IQR 11-25) in the trastuzumab plus chemotherapy group and 17.1 months (9-25) in the chemotherapy alone group. Median overall survival was 13.8 months (95% CI 12-16) in those assigned to trastuzumab plus chemotherapy compared with 11.1 months (10-13) in those assigned to chemotherapy alone (hazard ratio 0.74; 95% CI 0.60-0.91; p=0.0046)
+

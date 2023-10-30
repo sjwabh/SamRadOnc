@@ -1,0 +1,38 @@
+2011 11 28   CM's Breast plans:
+
+For R Breast tangent plan:
+
+Normal Tissue (DVH) Constraints:
+R lung V 20 Gy < 30%; Total lung V 5 Gy < 50%; Cord max< 45 Gy
+
+
+
+
+
+
+For an IMRT L breast plan for reconstructed breast s/p mastectomy and implant (Houghton, Donna L):
+
+Normal Tissue (DVH) GOAL:
+L lung V 20 Gy < 30%; Total lung V 5 Gy < 50%; Cord max< 45 Gy; 
+Heart V 30 Gy < 3%, V 4 Gy < 50%; 
+LAD V 45 Gy < 5%; V 15 Gy < 20%
+
+DVH Parameters Achieved: 
+L lung V 20 Gy =20%, V10=38%, V5=75%
+Heart V 45Gy < 1%, V 15 Gy=40%, mean dose= 14.6; 
+LAD mean dose=14 Gy V 15 Gy =40%
+
+
+
+Example L breast IMRT plan s/p MRM & implant, covering SCV & IMN (Follen, Kathleen M):
+
+50 y.o. female with status post bilateral nipple sparing mastectomies with left sentinel lymph node biopsy and 6 cycles of Abraxane and cytoxan for a T2N1M0 invasive ductal carcinoma of the left breast.  Her primary tumor was in the 9:30 position of the left breast, measured 3 cm in size and she had two of 7 nodes involved.  With these features, she is at risk for internal mammary node involvement.  She did NOT have an axillary dissection, all of the axillary nodes removed were sentinel nodes.  Therefore the areas that are at risk are the left chest wall, axilla, supraclavicular fossa and internal mammary nodes.  
+
+Treatment Volume:  left chest wall, axilla, supraclavicular fossa and internal mammary nodes. 
+
+DVH ACHIEVED:
+L Lung V20=25%, V10=45%, V5=60%
+Heart V30=2%, V20=7%, V10=40%, V5=100%, Mean 10.5Gy
+LAD V15=50%, Mean 14.7Gy
+
+

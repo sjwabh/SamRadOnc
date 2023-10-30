@@ -1,0 +1,1201 @@
+/Radiobiology
+
+4 R's /4R's
+
+Reoxygenation
+
+Repair
+
+Redistribution
+
+Repopulation - only 1 against fractionation
+
+800-1600      1000-2000
+
+
+DNA Repair - 5 repair processes
+
+1) /NER - Nucleotide-Excision Repair (SSB repair): XP, Cockayne syndrome, trichothiodystrophy
+
+2) /BER - Base-Excision Repair (SSB repair): No known diseases. most common mechanism in spontaneous mutations. DNA glycosylase, AP endonuclease
+
+3) /MMR - Mismatch repair. Does not increase radiation sensitivity cuz not involved in repairing radiation damage. e.g., HNPCC
+
+4) /HR - Homologous Recombination (DSB repair), error-free, G2
+
+RAD5x, RPA (Replication Protein A), MRE11/MRE-11 (Meiotic recombination 11)
+
+     MRN or NMR (RAD5x/MRE11/NBS1) complex
+
+Gamma-H2AX participates in recruitment of RAD51 & MRE11.
+
+BRCA1/2,
+
+/Bloom's syndrome (ar, Ligase deficiency)
+
+/Fanconi's AML (mutation in FANCC gene, quadriradials even w/o RT, assoc w/ aplastic anemia, congenital malformations, cancer predisposition & XRCC1/2/3, can’t remove radicals)
+
+/NBS - Nijmegen Breakage Syndrome
+
+AR
+
+gene mutation NBS1 in 8q21.
+
+Poland/Ukraine/Czech
+
+Sx: microcephaly, micrognathia, short stature, developmental delay,
+
+85-90% get lymphoma/ leukemia, many before age 20
+
+Rad50/MRE11/NBS is a direct phosphorylation target with ATM and forms a complex Rad50/MRE11/NBS to find damage in yeast.  This complex possesses nuclease activity that is necessary for DNA dsb repair.  
+
+What is PTLD?
+
+5) /NHEJ - Non-homologous End Joining: error-prone recombination, G1,
+
+impaired VDJ recombination.
+
+ XRCC4/5 gene encodes the KU protein, XRCC7,
+
+ PARP is the "death substrate", recognizes damage
+
+ Proteins Ku70/80 & Artemis:DNA-PK recognize and stabilizes the break, binds to ends of DSBs,
+
+Ligase3/4, XRCC4 brings ends together.
+
+  eg, SCIDs (loss of DNA-PK), only immunologic
+
+Frequency of chr aberrations is linear-quadratic (Fig 2.11)
+
+/chromosome aberrations: G1
+
+ rings, dicentrics
+
+/chromatid aberrations: S, G2
+
+  dicentrics, anaphase bridge
+
+/micronucleus assay - detects high-dose RT exposure within 24 hrs
+
+detects 2 types of DNA damage: double strand chromosome breaks (clastogens) and spindle disruption.
+
+Low LET High LET
+
+/Spurs /Blobs
+
+3 ion pairs 12 ion pairs
+
+4nm 7nm
+
+60eV 100-500eV
+
+X-rays neutrons, alpha particles
+
+Locally multiply damaged sites (LMDS)
+
+/Ch3
+
+Target Theory Model
+
+plot some examples using: http://www.walterzorn.com/grapher/grapher_e.htm
+
+ln(1-(1-exp(-x/1.1))^5);
+
+ln(1-(1-exp(-x/1.1))^10);
+
+D0=MLD (Mean Lethal Dose): dose required to reduce SF to 37% of initial value.
+
+D50=0.693*D0 (Sam) ???
+
+D37=     D0
+
+D10=2.3*D0   (2.3 is ln(.1))
+
+Relationship of TCD50 to D10?  You need enough decades to reduce to .693 of a cell!
+
+If you have 10^n cells, you need
+
+-n-0.306 decades of kill.
+
+/LQ Linear Quadratic Model
+
+/alpha (1/Gy): single hit, nonrepairable, intrinsic radiation sensitivity, not sens to fractionation.  Terminal deletions are single hit, so linear.
+
+/beta (1/Gy^2): result of >=2 ionizing events, repairable by SLDR
+
+alpha/beta (units of Gy)
+
+flexure dose = 0.1 x alpha/beta
+
+/BED formula (Biologic Equivalent Dose)
+
+BED= nd (1+ d /(a/b))
+
+Acute a/b = 10-13
+
+Late a/b = 3
+
+ cord 1.5
+
+Late effects: fx size is most important
+
+Acute effects: overall treatment time is most important factor
+
+The α/β ratio is greater for neutrons than protons, cuz less curvy.
+
+BED formula does not account for proliferation.
+
+Some common BED equivalents for a/b=10:
+
+BED(10)         BED(3)
+
+1200x3=3600 79 180
+
+1200x5=6000 132 300
+
+400x5 =2000 28 46.7
+
+300x10=3000 39 60
+
+250x14=3500 43.75 64
+
+250x15=3750 47 69
+
+200x20=4000 48 66.7
+
+200*25=5000 60 83
+
+180*25=4500 53 72
+
+180*28=5040 59 80
+
+/Linear-Quadratic-Linear /LQL model for SBRT, hypofractionation.
+
+READ THIS:
+
+http://www.eyephysics.com/tdf/models.htm
+
+To better address hypofractionation regimens (e.g. SBRT, SRS) which employ very high dose fractions Guerrero and Li (5) modified the LQ model to better fit iso-effect data at high doses. Park et al. (6) later proposed that the LQ model transition to the historic multitarget (MT) model above a specified dose DT. TDF Plan implements the transition to a linear tail at high dose using the LQ-L model described by Astrahan (7).
+
+In the standard LQ formalism, the surviving fraction (SF) and biologically effective dose per fraction (BEDn) are expressed as:
+
+SF = e-(αD+βD2)
+
+and
+
+BEDn = En/α = (D + D2/(α/β))
+
+To transition to a linear model for very high dose fractions the standard LQ model can be extended to a bipartite LQα/β-LDTform which can be expressed as:
+
+SF = e-(αD+βD2) for fraction size D < DT
+
+and
+
+SF = e-(αDT+βDT2+γ(D−DT)) for fraction size D >= DT
+
+BEDn = (D + D2/(α/β)) for fraction size D < DT
+
+and
+
+BEDn = DT + DT2/(α/β) + [(γ/α)(D−DT)] for fraction size D >= DT
+
+where DT is the dose at which the survival curve becomes linear and γ is the the cell kill per Gy in this high dose linear portion of the survival curve. The term γ is thus reminiscent of D0 (the dose that reduces survival by 1/e in the final linear portion of the survival curve) of the older multitarget survival model, but is more in keeping with the Greek nomenclature of the LQ model. The γ/α ratio can be calculated from the tangent at DT and the α/β term of the standard LQ model as:
+
+γ/α = 1 + (2DT/(α/β))
+
+Ellis /NSD formula
+
+NSD = D * T^-.11 * N^-.24
+
+D = total dose
+
+T = overall treatment time
+
+N = # fractions
+
+was derived from orthovoltage 2Gy/day from skin data.
+
+Doesn’t account for late effects (alpha beta).
+
+/Ch4 /Ch5
+
+/Cell Cycle - sensitivity varies by 2.5-3.
+
+Most sensitive in G2/M
+
+next most sensitive is Late G1/Early S.
+
+Most resistant in Late S, Early G1.
+
+G2/M, G1, Early S, Late S
+
+No shoulder for M phase cells!
+
+/Checkpoint arrest
+
+RT-induced cell cycle delay is
+
+1-2 min per cGy, or
+
+2 hrs per Gy
+
+G2/M checkpoint: (to allow for HR)
+
+/SLDR - Sublethal Damage Repair- takes .5-1.5 hrs.
+
+Shoulder, Split dose (recapitulates shoulder). damage accumulated or repaired.
+
+SLDR has fast and slow components.
+
+SLDR experiment demonstrates 3 of the 4 R's of radiobiology:
+
+Repair, Redistribution, Repopulation.  (Reoxygenation not applicable in vitro)
+
+alpha is dominant component for fractionated, cuz it can't be repaired.
+
+beta component can be repaired.
+
+/PLDR - Potentially Lethal Damage Repair- PP:  Plateau phase, Proliferation-dependent: contact inhibit cells, irradiate, the more time you give it before restarting, the more time they have to repair damage. Dose and Time dependent.
+
+/Ch6 - /Oxygen Effect /Hypoxia – induces apoptosis, selects for p53 mutants
+
+/OER – ratio of dose w/o O2 to dose w/ O2.
+
+Decreases at lower doses.
+
+about 3 at high doses
+
+about 2 at low doses
+
+OER for x-rays varies with the cell cycle:
+
+OER
+
+S 2.8
+
+G1 2.6
+
+G2 2.4
+
+Neutrons have lower OER of 1.6 compared to 2.5-3.0 for photons, protons.
+
+0.5% (3mmHg) O2 concentration yields OER of half-max, ~2.
+
+5% (30mmHg=Torr) => OER at max.
+
+Acute hypoxia - vessels temp closing.
+
+Chronic hypoxia- limited diffusion range 70 um.
+
+tumors hypoxic fraction usually 10-15%.  (higher for H&N and cervical)
+
+Measure tumor oxygenation:
+
+Probes: measure regional O2
+
+ Eppendorf probe- used in cervix trial, can get spatial profile
+
+ OxyLite fiber-optic probe
+
+MRI:
+
+  BOLD- blood o2 dependent level
+
+  EPR- Electron paramagnetic resonance (inject paramagnetic contrast agent)
+
+PET: I-123 (IAZA), F-18/F-MISO
+
+Hypoxic Cell Sensitizers (-azoles)
+
+Immunohistochemical staining
+
+  CA9- carbonic anhydrase 9
+
+  /HIF1- hypoxia inducible factor
+
+Usually under normal aerobic conditions, HIF1 is hydroxylated and degraded.
+
+    Under hypoxia, no hydroxylation, upregulates VEGF, iNOS, bFGF (stimulates angiogenesis), EPO, Glut1, apoptosis, TGF-beta, HSP70, RAD51.
+
+Hypoxia decreases BRCA1.
+
+/Ch7 LET & RBE
+
+/LET = average energy per unit length (keV/um)
+
+Track Average: divide into equal track lengths
+
+Energy Average: divide into equal energy intervals
+
+(usually TA = EA,  except for neutrons: TA=12,  EA=100)
+
+For a given particle type, the higher the energy, the lower the LET.
+
+Typical LET values:
+
+Electrons
+
+.01 MeV 2.3
+
+1.0 MeV .25
+
+Photons
+
+250 kV Xrays 2.0
+
+Co-60 (1.25MeV) 0.2
+
+(1.15, 1.33)
+
+Protons 10MeV 4.7
+
+Protons 150MeV 0.5
+
+Neutrons 14MeV 12 or 100
+
+Alpha particles 166
+
+Fe ions     1000
+
+/RBE = D250/Dr
+
+RBE factors:
+
+Quality (LET) (^ to 100 kev/um)
+
+Dose (v)!
+
+Fractions (^)
+
+DoseRate (v)
+
+Biologic system or endpoint (^ for tissues w/ broad shoulder, low alpha/beta, ^SLDR)
+
+/Proton RBE 1.1 (compared to Cobalt), OER 2.5 same as photons.  WF 2-5.
+
+Protons good for pedi tumors, brain tumors, protect lung.
+
+/neutrons: high LET, indirectly ionizing, no Bragg peak cuz not charged.
+
+Boron Neutron Capture Therapy –slow neutrons (.025 eV) have best boron cross section
+
+Spallation products: Produces recoil protons, alpha particles and Li ions.  
+
+RBE for neutrons: 1.5 to 2.6 ??
+
+Neutron contamination for 16-25x is .5% inside field, .1% outside of field
+
+Fast neutrons have similar depth dose curves as Cobalt.
+
+/carbon ions: C-12, has Bragg peak, but still has a tail from nuclear fragments., less lateral & longitudinal scatter. Can use PET to detect C-11, C-10 to see treatment area!
+
+/Ch8 TBI (Radiobiology)
+
+Prodromal Syndrome in 5-15 min:
+
+LowDose: fatigue, N/V, anorexia
+
+HighDose: fever, HA, hypotension, D
+
+
+LD50/60= 400 cGy
+
+3-4 Gy, 450 cGy (if no support)
+
+Supportive Treatment:
+
+If 4-5 Gy -> observation, abx for infxn, platelets if bleeding, no prophylactic RBCs yet.
+
+If >5 Gy, abx for infxn.
+
+If 8-10 Gy, bone marrow transplant window!
+
+/Ch9 /Radioprotectors
+
+/DRF - Dose Reduction Factor: Dose (in presence)/ Dose (absence)
+
+Glutathione is an endogenous radioprotector, works by donating a Hydrogen.
+
+Thiol (sulfhydryl (SH)) compounds: cysteine, cysteamine,
+
+1) scavengers of free radicals,
+
+2) hydrogen atom donation.
+
+SH group needs to be covered by PHOSPHATE group to decrease toxicity.
+
+Most effective for low LET.
+
+/Amifostine (/Ethyol) (WR-2721) - prodrug, SH covered by PHOSPHATE to decrease toxicity.
+
+Dephosphorylated by Alk Phosphatase to WR-1065.
+
+Doesn't cross BBB.
+
+Doesn't protect tumor cuz:
+
+ Differential incr uptake in normal tissues (active transport, hydrophilic)
+
+ less AP in tumor cells.
+
+Decreases pneumonitis.  LOOK THIS UP.
+
+Protects
+
+ BM (2.4-3)
+
+ liver 2.7
+
+ skin (2-2.4)
+
+ gut (1.8-2)
+
+ salivary (2.0)
+
+ kidney 1.5
+
+ lung (1.2-1.8)
+
+ esophagus 1.4
+
+ 
+
+Also used w/ cisplatin, carboplatin, cytoxan:
+
+reduces nephrotoxicity, BM toxicity, neurotoxicity.
+
+protects nerves???, BM, kidneys.
+
+Currently approved FDA Indications for Ethyol:
+
+ETHYOL (amifostine) is indicated to reduce the cumulative renal toxicity associated with repeated administration of cisplatin in patients with advanced ovarian cancer or non-small cell lung cancer.
+
+ETHYOL (amifostine) is indicated to reduce the incidence of moderate to severe xerostomia in patients undergoing post-operative radiation treatment for head and neck cancer, where the radiation port includes a substantial portion of the parotid glands.
+
+ASCO Level I recommendation for Xerostomia, BM, kidney.
+
+Brizel, JCO 2000;18(19):3339. Amifostine for Xerostomia for H&N.
+
+Reduces >Grade2 acute & late xerostomia.
+
+Koukourakis JCO 2000;18:2226.  Amifostine SC for H&N, Thoracic, Pelvic? 40 pts.
+
+Athanassiou
+
+RTOG 9801 "DOI: 10.1200/JCO.2005.07.167"
+
+Int J Radiat Oncol Biol Phys. 2008 Dec 1;72(5):1378-84
+
+RCT: +/- Amifostine for esophagitis in NSCLC
+
+RT was BID, but Ethyol given only before am dose.
+
+No diff in Grade 3 Esophagitis rate 30-34%, but
+
+pt-reported swallowing and pain better w/ amifostine.
+
+anti-emetic
+
+antihistamine
+
+hydrocortisone cream
+
+Amifostine Recommendations
+
+ASCO Level 1: H&N
+
+ASCO Level 2: NSCLC, anal, prostate, rectal, vulvar, cervical
+
+amifostine toxicities:  local skin reaction, generalized skin rash
+
+MnSOD (superoxide dismutase) – enzyme converts superoxide radical O2- to H2O2
+
+DMSO (dimethyl sulfoxide) – protects cells by scavenging OH. free radicals
+
+GPX – anti-oxidant
+
+/pentoxifylline - radioprotector. interrupts cytokine cascades -> interferes w/ RT fibrosis.
+
+/Ch10 - Radiation Carcinogenesis /RT-induced
+
+Deterministic - threshhold, cataract
+
+Stochastic - no threshhold, RT-induced cancer
+
+Historical Examples of RT carcinogenesis:
+
+Skin Cancer - Xray workers, radiologists
+
+Lung Ca: uranium ore miners, breathe radon gas -> alpha particles
+
+Bone tumors: radium dial painters, Ra-224 for TB, ankylosing spondylitis
+
+Leukemia - radiologists, spine RT for ankylosing spondylitis, but CLL never RT-induced.
+
+Thyroid CA – pre-pubertal are most sensitive, most are well-differentiated papillary
+
+ Hiroshima/ Nagasaki from I-131 fallout (children)
+
+ RT for goiter
+
+ RT to epilate for tinea capitis
+
+BreastCA - mult fluoroscopies for induced ptx for TB, RT for postpartum mastitis
+
+Ankylosing spondylitis => L-S Xrays -> leukemia & lung CA
+
+Hiroshima/ Nagasaki:  Statistically significant increases in non-cancer disease mortality with increasing radiation dose have been observed, particularly for diseases of the circulatory, digestive, and respiratory systems. There is also an increased risk of heart disease among people who were exposed to doses less than 5 Gy.
+
+Chernobyl – only thyroid CA
+
+/Latency /Latent Period for XRT-induced /second malignancies
+
+shortest latency is 2-5-7 yrs for leukemia.
+
+5 yrs for thyroid CA.
+
+solid tumors 10-50 yrs, average 20 yrs.
+
+Highest risk in the field and edge of the field.
+
+Latency for Early effects is only dependent on cell turnover time, Independent of radiation total dose, fractionation, or total treatment time.
+
+Latency for Late effects IS dependent on Total Dose.
+
+3 risk models:
+
+ absolute risk: unrelated to spontaneous levels.
+
+ relative risk: increases spontaneous risk by a factor.
+
+ time-dependent relative risk - function of dose, square of dose, age at exposure, time since exposure, gender.
+
+radium dial painters
+
+ bone sarcoma incidence proportional to DOSE SQUARED.
+
+ radon gas causes sinus tumors.
+
+ratio of radiation-induced solid tumors to leukemias:
+
+6         to     1
+
+Younger age more susceptible to solid tumors (thyroid, breast).
+
+susceptibility to RT-induced leukemias is independent of age?
+
+ICRP Risks of Cancer Mortality (per Sv)
+
+HighDose LowDose (<.2Sv) Hered Risk
+
+Working Population 8% 4% .1%
+
+Whole Population 10% 5% .2%
+
+Nonfatal cancer risk = genetic disorder risk = .8-1%/Sv.
+
+absolute mutation rate is .1-.6% per Sv.
+
+Background risk of CA
+
+1 in 2, and 1 in 2 of those will eventually die of CA (25%).
+
+Japanese survivors, dose response relationship per BEIR V and UNSCEAR
+
+Below 3 Sv, dose relationship for
+
+solid tumors: linear
+
+leukemias: linear-quadratic
+
+In utero Xray (1 cGy) risk of childhood cancer increases:
+
+ relative risk 40% (1.5x) per 1 cGy
+
+ absolute risk 6% per 100 cGy
+
+1% of all leukemias are attributable to diagnostic radiology (BEIR V)
+
+UNSCEAR esimates that 4% of all cancer deaths are from radiation, mostly natural background.
+
+1-6% of spontaneous mutations are due to background radiation exposure.
+
+/SMN /secondary malignancies:
+
+Conventional RT: Risk is 1.5%  q 10 yrs
+IMRT: doubled risk: 3% at 10 yrs
+Leukemia latency: 5-7 yrs
+
+https://www.cancer.org/treatment/survivorship-during-and-after-treatment/long-term-health-concerns/second-cancers-in-adults/treatment-risks.html
+LEUKEMIA (within several years) : 
+ risk proportional to marrow in field
+ Chemo is known to be a greater risk factor than radiation therapy in causing leukemia.
+
+SOLID TUMORS (>10yrs) : 
+  risk proportional to age & RTdose
+  Certain organs, such as the breast and thyroid, seem to have a higher risk 
+
+
+After Prostate RT: 34%, mostly bladder,lung.
+
+/Boice et al: 150,000 cervical pts after RT:
+Increased risk of cancer of bladder (4x), rectal, vagina, bone, uterine, NHL.
+Did NOT incr risk of SI, colon, ovarian, vulva, breast, HD, MM, CLL.
+
+Boice et al. have ranked various body tissues with regard to cancer induction by radiation; certain sites, such as the thyroid, female breast, and bone marrow, clearly are more radiosensitive than others.
+
+/Ch11 Hereditary Effects of RT
+
+Male /sterility
+
+no change in hormones, libido, cuz Sertoli & Leydig cells are radioresistant.
+
+New 6th ed Hall, Table 11.1:
+
+Male
+
+Temporary
+
+ oligospermia 15 cGy after latency of 6 wks.
+
+ azospermia  50-100 cGy.
+
+    Recovery: 1yr for 1Gy, 2yrs for 2Gy.
+
+Permanent
+
+6-8 Gy single fx
+
+2.5-3Gy fractionated over 2-4 wks causes permanent sterility.
+
+Fractionated doses cause more damage (counter-intuitive)! Cuz stem cells are dividing infrequently.
+
+Latency of 2 months (74 days?).
+
+Stem cells = Type A spermatogonia – long cycle, divide infrequently (74d),
+
+very RT-sensitive
+
+_____ Spermatogonia – differentiating
+
+Spermatocyte, type 1
+
+Spermatocyte, type 2
+
+4 Spermatids
+
+Spermatozoa=Sperm (74 days) (least RT-sensitive)
+
+Female /sterility:  no latency, no temporary!
+
+permanent 12Gy prepubertal
+
+2Gy  postmenop
+
+also causes hormonal change, menopause
+
+amenorrhea 4-7 Gy (acute), 12-15Gy (fractionated)
+
+Females should wait 6 mos after radionuclide therapy before getting pregnant.
+
+Males should wait 2 mos before initiating pregnancy, or maybe 6 mos.
+
+3 categories of hereditary diseases
+
+Mendelian - predictable inheritance pattern
+
+Chromosomal - RT makes reciprocal-exchange type, not Robertsonian.
+
+Multifactorial - congenital abnormalities
+
+/MegaMouse Project (relative mutation risk): 5 major conclusions:
+
+1. Radiosensitivity of different mutations varies by a factor of 35.
+
+2. a big Dose Rate effect: .8 cGy/min to 90 cGy/min (1-100 cGy/min)
+
+3. Male is more radiosensitive than the Female, esp at LDR.
+
+4. Delaying conception after RT causes FEWER mutations. (for humans, recommend 2 mos for males, 6 mos for females)
+
+5. Doubling dose is 1 Gy (probably low)
+
+Doubling Dose: RT dose required to produce same rate of hereditary mutations as the spontaneous rate.
+
+animals (.4Gy)
+
+Megamouse (1Gy).  
+
+UNSCEAR/BEIR V:  1 Sv (calculated)
+
+Hiroshima (1.56Gy)
+
+Background radiation causes 1-6% of spontaneous mutations in humans.
+
+Prob of severe RT-induced hereditary disorders: absolute mutation rate: 0.1-.6% per Sv
+
+/Ch12 Fetal Effects of RT
+
+Background rate of congenital malformations: 6% at birth, doubles by pre-teen.
+
+3 Gestational stages:
+
+
+After 26 wks, increased risk of carcinogenesis.
+
+<8 wks: microcephaly @ 10-19 cGy, no mental retardation
+
+8-15 wks: mental retardation, linear without threshold, Risk .4/Sv, or 40% risk (or 30 IQ pts) at 100 cGy
+
+16-25 wks: milder MR (4x lower)
+
+3rd trimester OB diagnostic x-ray increases risk of childhood cancer by 40%.  
+
+Absolute risk 6%/Gy.
+
+Stewart: in utero Xrays 1.5-2x increased risk of leukemia in first 10-15 yrs.
+
+Pregnancy limits: Max dose to fetus is .5 mSv/mo, 5 mSv total.
+
+Cutoff to consider therapeutic abortion: 10 cGy during 10d-26wks (20x max allowed)
+
+Dose estimates for Diagnostic Imaging Studies (Cleveland Clinic J of Medicine 2006;73:583-6)
+
+mSv
+
+CXR .06
+
+Screening MMG .13
+
+L-Spine Xray 2.1
+
+Yearly Background in New England 3-5
+
+Bone Scan 4.4
+
+CT chest, abd, or pelvis 7.1-7.8
+
+UGI, Ba swallow, SBFT 15
+
+PET 14
+
+PET/CT 30
+
+CT triple phase liver 30
+
+/Ch13 /Cataracts
+
+a deterministic (non-stochastic) late effect:
+
+ threshold,
+
+ severity proportional to dose
+
+starts at posterior pole
+
+Stationary vs Progressive
+
+Probability & Latency of Progressive Cataract
+
+Dose Probability Latency
+
+220-650 cGy 12%  8 yrs
+
+650-1150 cGy 88%  4 yrs
+
+Threshold dose to produce progressive cataract:
+
+DURATION Min Dose (cGy)
+
+SingleFx 200
+
+3wks-3mos Fxs 400
+
+>3mos 550
+
+/Ch14 Doses & Risks
+
+CXR .02 mSv
+
+CTap 10 mSv
+
+Background radiation annual 3.6 mSv, 55% of this is from Radon.
+
+Erythema 2 Gy
+
+Epilation
+
+ Temp 3 Gy
+
+ Perm 7 Gy
+
+Dry Desq 10 Gy
+
+Moist Desq 15 Gy
+
+/Ch15 Radiation Protection
+
+Dose Limits for occupational exposure
+
+Cumulative 10 mSv x age (1 rem x Age)
+
+Annual 50 mSv/yr
+
+(GP infreq)  5 mSv/yr
+
+Lens 150 mSv/yr
+
+hands/feet 500 mSv/yr
+
+General Public is 10% of these:
+
+ infrequent 5 mSv/yr
+
+ continuous 1 mSv/yr
+
+/Growth Factors
+
+/protectors 
+
+/NFKB /NF-kB: Nuclear Factor –kB, is a transcription factor. A pro-survival influence
+
+induces anti-apoptotic proteins (/IAP)
+
+NF-kB -> IL-1,6 
+
+IL-1 is a bone marrow radioprotector
+
+/bFGF, basic /FGF (FGF2)– BASIC FIBROBLAST GF: pro-angiogenic by protecting blood vessels by preventing endothelial cell apoptosis
+
+increases due to stressors,
+
+increases early reacting tissue damage
+
+protects against vascular damage from RT
+
+reduces late effects ???
+
+/Sensitizers
+
+/PDGF-beta (platelet-derived growth factor)
+
+/TGF-beta (transforming growth factor) – both pro & anti inflammatory response, Pro apoptosis, suppresses anti-tumor immune response, downregulates IL-1 & TNF, damages BM, damages hematopoeitic tissue.  High circulating levels of TGFB lead to increased risk of RP & PF.
+
+/TNF-alpha (tumor necrosis factor) sensitizes tumor cells, but protects normal cells.(cachexia, anorexia) Pro-apoptosis, Pro-inflammatory, Pro-angiogenic
+
+increases fibroblasts.
+
+Induces CAM expression.
+
+causes fatigue, anorexia, leukopenia.
+
+Protects hematopoeitic cells.
+
+Causes radiation pneumonitis.
+
+/Cytokines are extra-cellular proteins
+
+IL-1,IL-6,IL-8, TNF-alpha are pro-inflammatory.
+
+/IL-8 pro-angiogenic, increases metastases
+
+IL-10 anti-inflammatory cytokine, downregulated by RT.
+
+/IFN /Interferon – upregulated by RT. Inhibits proliferation, activates macrophages.
+
+v-sis
+
+v-erb, c-neu: EGF
+
+Both bFGF and TGF-beta stimulate VEGF. ?
+
+Late Effects - sensitive to fraction size
+
+ due to vascular damage
+
+   arterial 50-70Gy
+
+   capillary 40Gy
+
+ due to parenchymal cell damage
+
+   fibrosis, renal tubular cell depletion, demyelination
+
+growing cartilage sensitive in children
+
+10Gy slows growth
+
+20Gy irreversible
+
+Brain
+
+< 6mos: white matter
+
+ Transient demyelination (somnolence syndrome)
+
+ Leukoencephalopathy (worse)
+
+>6 mos: gray matter, vascular lesions, telangectasias
+
+ Radiation necrosis
+
+---
+
+Lengths of phases:
+
+G1 is most variable
+
+M is most constant.
+
+T(M) .5-1 hrs
+
+G0
+
+T(G1) 2 to 100 hrs
+
+T(S) 6-8 hrs
+
+T(G2) 1-3 hrs
+
+for human tumors
+
+Median Ts is 16 hrs.
+
+Median Tc is 48 hrs.
+
+Hypoxic Fraction 15%
+
+Growth of tumors depends upon 3 things: Tc, GF, Cell Loss
+
+Cell Cycle Time
+
+/GF Growth Fraction - 20-50%.  
+
+ Ratio of proliferating cells / total # cells, OR
+
+ Fraction of cells labeled / fraction of mitoses labeled in a PLM experiment.
+
+  Ts/Tm
+
+  as ^ # tumor cells => v Growth Fx.
+
+  As you start to radiate & kill tumor cells, ^ Growth Fx, & remaining cells grow faster
+
+   (6% for adenoCA, 90% for lymphomas)
+
+/Tc
+
+/Tpot = potential doubling time. Calculated by adjusting Tc by GF.
+
+Tpot > Tc, always, cuz of GF
+
+       Ln(2)
+
+Tpot = -------    x Tc
+
+      Ln(1+GF)
+
+/Td: Tumor Doubling time: 40-105 days, median is 2 mos.
+
+Td is always > Tpot
+
+Mets grow faster.
+
+Cell Loss = 1 - (Tpot/Td). Median 77%, Range 0-90%.  (Sarcomas <30%, Carcinomas >70%)
+
+ Lack of nutrition, O2.
+
+ Apoptosis
+
+ Immunologic attack
+
+ Mets
+
+ Exfoliation (GI tumors have 90% loss into lumen)
+
+Cell loss     GF
+
+Td   >     Tpot > Tc
+
+2 mo       10d?   48 hrs
+
+GF is already built into Tpot and Td.  The diff between Tpot and Td is ONLY the Cell Loss factor.
+
+Need 8x cells (2x2x2) to double diameter, which is 3 cell divisions, so
+
+If T(diameter doubling)=18 days to double diameter, Tc is 6.
+
+Tc x 3  = T(diameter doubling)
+
+/Ch22
+
+/Strandquist Isoeffect plot: Log Total Dose vs Log Total Time.
+
+(Fig 22.2):  straight rising lines:
+
+skin necrosis,
+
+skin CA cure,
+
+moist desq,
+
+dry desq,
+
+erythema.
+
+Fig 22.7 Isoeffect curves are Total Dose vs Dose per Fx.
+
+Steep for Late tissues
+
+Flat for Early tissues
+
+
+
+/Ch23 Predictive Assays
+
+2 cervical CA trials
+
+pO2 > 10 mmHg predicted improved outcome.
+
+Intrinsic Cellular Radiosensitivity
+
+Assays:
+
+ Courtenay Assay
+
+ Colorimetric Assay
+
+ Cell Adhesive Matrix (CAM)
+
+ Premature Chromosome Condensation (PCC) and FISH
+
+If SF2 < 0.4 then sensitive to RT.
+
+Most Sensitive to Most Resistant
+
+(Figure 23.2)
+
+Oat cell
+
+lymphoma
+
+Adeno
+
+SCC
+
+melanoma
+
+GBM
+
+/Ch25 /Radiosensitizers /sensitizers /cytotoxins
+
+/SER - Sensitizer Enhancement Ratio
+
+NonHypoxic Cell Sensitizers = (Halogenated Pyrimidines - thymidine analog) -
+
+    incorporated into DNA, makes more radiosensitive, hopefully tumor cells cycle faster than normal cells.
+
+ 5-IododeoxyUridine /IUdR /IdU better than 5-BromodeoxyUridine /BUdR /BrdU, cuz less photosensitizer
+
+Hypoxic Sensitizers -azoles - "fixes" oxidative damage by free radicals, labels hypoxic areas
+
+Nitro-imidazoles:
+
+Misonidazole (but periph neuropathy)
+
+Etanidazole - less toxic
+
+Nimorazole  - even less toxic.  (Danish H&N trial showed benefit. LC improved 4.6%, survival improved 2.8%.)
+
+efaproxaril - for brain mets (need to give supplemental O2 during infusion)
+
+ARCoN trial for H&N- still ongoing?
+
+Accelerated
+
+hypeRfractionated
+
+CarbOgen (95% O2/ 5% CO2)- helps overcome diffusion-limited (chronic) hypoxia, need CO2 to prevent vasoconstriction)
+
+Nicotinamide - overcome acute (transient) hypoxia
+
+Hyperbaric O2 shown in MRF to improve outcomes for H&N and cervical CA. (high hypoxic fraction)
+
+Perfluorocarbon - Fluosol DA. blood substitute that has increased perfusion distance. "The Abyss"
+
+Hypoxic Cytotoxins - 3 types
+
+1. quinone abx - mitoC!
+
+2. nitroaromatic compounds
+
+3. benzotriazine di-N-oxides - /TPZ
+
+   /TPZ /tirapazamine is a hypoxic cytotoxin - has large hypoxic/oxic toxicity ratio. Synergistic w/ xRT. Topo II inhibitor. Used w/ cisplatin, Used for NSCLC, H&N.
+
+Toxicity: N/V
+
+Blood transfusions helped cervix, H&N.
+
+/anemia in cervical CA
+
+Harrison LB, Chadha M, Hill RJ et al. Impact of tumor hypoxia and anemia on
+
+radiation therapy outcomes. Oncologist 2002; 7: 492–508.
+
+Thomas G. The effect of hemoglobin level on radiotherapy outcomes: the
+
+Canadian experience. Semin Oncol 2001; 28: 60–65.
+
+EPO made it worse (probably stimulated the tumor too!).
+
+/Ch28 /Hyperthermia
+
+LATE S: Most sensitive to hyperthermia, Most resistant to XRT.
+
+give RT within 1 hour of hyperthermia.
+
+/DDHT /Dutch Deep Hyperthermia Trial,
+
+Int J Radiat Oncol Biol Phys. 2008 Mar 15;70(4):1176-82. Epub 2007 Sep 19.
+
+"doi:10.1016/j.ijrobp.2007.07.2348"
+
+Long-term improvement in treatment outcome after radiotherapy and hyperthermia in locoregionally advanced cervix cancer: an update of the Dutch Deep Hyperthermia Trial.
+
+Franckena M, Stalpers LJ, Koper PC, Wiggenraad RG, Hoogenraad WJ, van Dijk JD, Wárlám-Rodenhuis CC, Jobsen JJ, van Rhoon GC, van der Zee J.
+
+Department of Radiation Oncology, Hyperthermia Unit, Erasmus Medical Center Rotterdam, Daniel den Hoed Cancer Center, Rotterdam, The Netherlands. m.franckena@erasmusmc.nl
+
+PURPOSE: The local failure rate in patients with locoregionally advanced cervical cancer is 41-72% after radiotherapy (RT) alone, whereas local control is a prerequisite for cure. The Dutch Deep Hyperthermia Trial showed that combining RT with hyperthermia (HT) improved 3-year local control rates of 41-61%, as we reported earlier. In this study, we evaluate long-term results of the Dutch Deep Hyperthermia Trial after 12 years of follow-up. METHODS AND MATERIALS: From 1990 to 1996, a total of 114 women with locoregionally advanced cervical carcinoma were randomly assigned to RT or RT+HT. The RT was applied to a median total dose of 68 Gy. The HT was given once weekly. The primary end point was local control. Secondary end points were overall survival and late toxicity. RESULTS: At the 12-year follow-up, local control remained better in the RT+HT group (37% vs. 56%; p=0.01). Survival was persistently better after 12 years: 20% (RT) and 37% (RT+HT; p=0.03). World Health Organization (WHO) performance status was a significant prognostic factor for local control. The WHO performance status, International Federation of Gynaecology and Obstetrics (FIGO) stage, and tumor diameter were significant for survival. The benefit of HT remained significant after correction for these factors. European Organization for Research and Treatment of Cancer Grade 3 or higher radiation-induced late toxicities were similar in both groups. CONCLUSIONS: For locoregionally advanced cervical cancer, the addition of HT to RT resulted in long-term major improvement in local control and survival without increasing late toxicity. This combined treatment should be considered for patients who are unfit to receive chemotherapy. For other patients, the optimal treatment strategy is the subject of ongoing research.
+
+PMID: 17881144 [PubMed - indexed for MEDLINE]
+
+/Sreenivasa G, Hildebrandt B, Kümmel S, Jungnickel K, Cho CH, Tilly W, Böhmer D, Budach V, Felix R, Wust P.
+
+Int J Radiat Oncol Biol Phys. 2006 Nov 15;66(4):1159-67. Epub 2006 Sep 18.
+
+Radiochemotherapy combined with regional pelvic hyperthermia induces high response and resectability rates in patients with nonresectable cervical cancer > or =FIGO IIB "bulky".
+
+-=====
+
+- - - -
+
+Lifetime of
+
+Lymphocytes 12-48 hrs
+
+platelets 8 to 12 days
+
+RBCs 90-120 days
+
+Hypoxic cells are:
+
+sensitive to hyperthermia.
+
+resistant to bioreductive agents.
+
+/apoptosis - peaks 3-5 hrs after xRT
+
+- -  - -
+

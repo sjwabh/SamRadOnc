@@ -1,0 +1,184 @@
+
+RadOnc	
+SamRadOnc Home PageBreastCNSGIGUGynHNLungLymphomamiscOtherPalliative	
+eye
+/ocular melanoma /choroidal melanoma /uveal melanoma
+
+/COMS study “NCT00000124”, eye plaques comparable survival to enucleation:
+
+12-yr FU (Arch Ophthalmol. 2006)
+
+5 yr all cause mortality 20%
+
+10 yr all cause mortality 35%
+
+12 yr all cause mortality 41-43%
+
+5yr death w/ mets 10%
+
+10 yr death w/ mets 17-18%
+
+12 yr death w/ mets 17-21%
+
+Median Survival 7 yrs.  
+
+Mets to liver & bone.
+
+QoL results: Arch Ophthalmol. 2006 "124:226-238"
+
+Better Vision in Brachy pts up to 2 yrs out, but then by yrs 3-5, about the same as enucleation.
+
+More anxiety in Brachy pts for a longer time (!).
+
+"Although by 4 to 5 years posttreatment the observed
+
+treatment-related differences in the primary outcomes had
+
+largely disappeared, the early differences favoring brachytherapy
+
+may be important considerations for patients faced
+
+with choosing a therapeutic approach. Given that no significant
+
+differences in survival between enucleation and
+
+brachytherapy have been found, these results will allow
+
+the individual patient and physician to make more informed
+
+choices regarding treatment based on personal
+
+preferences with respect to visual function, anxiety and
+
+concern about cancer recurrence, and appearance."
+
+RT: I-125 episcleral plaque to 85-100 Gy.
+
+ABS recommendations for I-125 eye plaques for uveal melanoma: "doi:10.1016/S0360-3016(03)00006-3"
+
+Size height(mm) basal dim(mm) Recommendation
+
+Small <2.5 10 Observe
+
+Medium 2.5-10 10-16 Yes, brachy
+
+Large >10 >16 Poorer outcomes 7yr medOS
+
+Contraindications:
+
+extra-scleral extension
+
+ring melanoma
+
+> half ciliary body
+
+Relative contraindications:
+
+peripapillary or macular location
+
+At OHSU, we prescribe 85Gy to a prescription point, and pick a diameter that is 4-6mm larger than the diameter.
+
+Depth Prescription Point
+
+<2.5mm 3mm
+
+2.5-2.9mm 3.5mm
+
+3.0-3.4mm 4.0mm
+
+3.5-3.9mm 4.5mm
+
+4.0-5.0mm 5.0mm inside sclera
+
+>5mm actual apex of tumor
+
+/choroidal mets /Orbital mets
+
+MC location: choroid
+
+Sx: vision changes, photophobia
+
+MCC in women: Lobular BreastCA
+
+MCC in men: LungCA
+
+http://www.moffitt.org/moffittapps/ccj/v5n4/article4.html
+
+Mewis and Young12 listed four indications for the use of external-beam radiotherapy in the treatment of metastatic breast carcinomas to the eye: (1) secondary retinal detachment, (2) decrease in visual acuity, (3) threat to decrease visual acuity, and (4) rapidly enlarging tumor. Using these criteria, 52 of 66 affected eyes with follow-up data available underwent irradiation. The visual acuity of these patients remained stable in 67.3%, improved in 26.9%, and deteriorated in only two eyes. One eye did not have a posttreatment visual acuity evaluation. Treatment consisted of 25 to 30 Gy with a lateral portal in 10 fractions.
+
+    Numerous publications document the ability of external-beam radiotherapy to successfully treat ocular metastasis effectively.18-32 Response rates in these series ranged from 33% to 89%, with the majority in the 80% range. In most of these studies, vision either improved or stabilized in a high percentage of patients.18-32
+
+    Rudoler et al30 recently reported a multivariate analysis of 188 patients treated with external-beam radiotherapy for choroidal metastasis. The median total dose of radiotherapy was 36 Gy with a range of 30 to 40 Gy in 2 to 3 Gy fractions. The treated volumes include the unilateral posterior globe in 33% of patients, bilateral posterior globes in 22%, the entire globe in 30%, and the whole brain plus the posterior globes in 15%. Following radiotherapy, 57% of all eyes had improved visual function or were able to maintain at least navigational vision. Of 47 eyes that were legally blind before radiotherapy, 21% improved to excellent vision and 15% to navigational vision at last follow-up. Ninety-three percent of patients remained free of clinically evident recurrent disease at last follow-up, with a 98% rate of globe preservation. Four patients were enucleated after radiotherapy for intractable pain from glaucoma.
+
+Conventional fields:
+
+Single or Opposed Laterals using a D-shaped field with half beam block shielding the anterior half of the orbit, positioned 2-3mm behind canthus, 1cm margin around orbit.  Treat to 35-40Gy??
+
+PS:
+
+single lateral field, 6x photons
+
+D shaped clinical setup: 5cm x 5cm
+
+A: bony canthus
+
+250x14=35Gy
+
+/ocular lymphoma
+
+WORKUP: Brain MRI, sample CSF
+
+Needs chemo, maybe intrathecal, then treat orbit 20-45Gy IMRT
+
+/orbital lymphoma, or conjunctival MALT lymphoma
+
+Salmon colored lesion on conjunctiva.
+
+For conjunctival MALT: Test for Chlamydia psittaci.  
+
+  If +, Doxycycline x 2 weeks.
+
+  If -, 6e- en face w/ bolus
+
+  conjunctival MALT 24Gy
+
+For Lacrimal gland, wedged pair (AP & Lat)
+
+  MALT: 30Gy
+
+  DLBCL: RCHOPx3 then IFRT 30-36Gy
+
+  
+
+RT dose: 30Gy for low grade, 40Gy for med/high grade.
+
+Electrons, or IMRT.
+
+Opposed laterals for bilateral orbits.
+
+lens block?
+
+/Bhatia, Red 2002 ("PII S0360-3016(02)02966-8")
+
+RT dose: 30Gy for low grade, 40Gy for med/high grade.
+
+LC 100%!!!!!!
+
+5yr OS 74%
+
+5yr RFS 66%
+
+PS says there's another study of orbital DLBCL of 30Gy v 40Gy, that says that 30Gy is enough.
+
+/macular degeneration
+
+2 types:
+
+Dry 90%: no treatment.
+
+Wet: 10% incidence, but more severe & causes 90% of blindness.
+
+  neovascularization
+
+internal /eye shields (gold) work up thru 9e. /tetracaine 0.5% ophthlamic soln.
+

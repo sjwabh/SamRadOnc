@@ -1,0 +1,506 @@
+
+RadOnc	
+SamRadOnc Home PageBreastCNSGIGUGynHNLungLymphomamiscOtherPalliative	
+Gastric
+//Gastric CA //stomach
+
+ 
+
+WORKUP:
+
+Hx: dysphagia, early satiety, n/v, wt loss, hemetemesis, melena
+
+Exam: SCV nodes, abd mass, HSM, peri-umbilical SMJ Node.
+
+ 
+
+Labs: CBC, Chem, LFT, Renal function, CEA, (^AlkPhos -> Bone Scan)
+
+ 
+
+Tests: EGD w/ EUS + bx, UGIS,
+
+CT abd/ pelvis, CXR, Renal perfusion scan (each kidney), PET
+
+(KB doesn’t think PET adds.)
+
+Laparoscopy.
+
+ 
+
+ 
+
+ 
+
+22,000 new cases
+
+13,000 deaths
+
+Etiol: M>F
+
+Median age: 70?
+
+ 
+
+Risks:   Japanese, Diet: pickled, smoked?, nitrates, H. pylori
+
+ 
+
+ 
+
+ 
+
+Sister Mary Joseph Node: periumbilical cutaneous met, from falciform ligament.
+
+Virchow’s node: L SCV
+
+Blumer’s shelf: drop met
+
+ 
+
+linitis plastica, a diffuse infiltrative gastric adenocarcinoma which gives the stomach a shrunken "leather bottle" appearance with extensive mucosal erosion and a markedly thickened gastric wall.
+
+ 
+
+ 
+
+ 
+
+MCsite: antrum, lesser curvature
+
+MCsite of failure: regional LNs, anastomosis, stump
+
+ 
+
+/Gastric Staging AJCC7
+
+ 
+
+T1
+
+  a LP or MM (lamina propria or muscularis mucosa)
+
+  b submucosa
+
+T2 MP (muscularis propria)
+
+T3 subserosa
+
+T4
+
+  a serosa (visceral peritoneum)
+
+  b adjacent structures
+
+ 
+
+N1 1-2 LN
+
+N2 3-6
+
+N3
+
+  a 7-15 LN
+
+  b 16 or more LN
+
+ 
+
+ 
+
+ 
+
+???
+
+   T1   T2   T3   T4
+
+N0 IA   IB   II   IIIA
+
+N1 IB   II   IIIA IV
+
+N2 II   IIIA IIIB IV
+
+N3 IV   IV   IV   IV
+
+ 
+
+Surgery (subtotal gastrectomy, splenectomy, omentectomy, LND), then PostOp CRT w/ 5FU/LV if T2 or greater.
+
+ 
+
+Extent of LND (#Nodes: need at least 15 nodes resected)
+
+D0:
+
+D1: perigastric nodes
+
+D2: .. and celiac, splenic, portal/common hepatic. (Preferred, but worse morbidity, no diff in outcome?)
+
+D3: ... Add +splenectomy, omentectomy, distal pancreatectomy
+
+D4: ...para aortics
+
+ 
+
+ 
+
+/Dumping Syndrome - rapid gastric emptying after gastrectomy or vagotomy: abd pain, bloating, diarrhea, vasomotors sx (tachycardia, lightheadedness), hyperinsulin->reactive hypoglycemia
+
+ 
+
+Malabsorption
+
+  B12, Ca, Fe
+
+ 
+
+ 
+
+/Gastric Dose:
+
+RT Dose: APPA 45 Gy.
+
+ 
+
+Cautious boosts to 55, maybe.
+
+RT Dose: 45-52 Gy, with cone down if you’re going over 45.
+
+OAR: Must exclude 2/3 of 1 kidney. liver, heart, lung.
+
+Do DVH of heart.
+
+/Gastric Fields
+
+APPA
+
+SI: T10-L3
+
+R: 3-4cm lateral to vertebral body.
+
+AP Field from RTOG 9904:
+
+Superior Border - will be at the T8-T9, or T9-T10 interspace (to treat the celiac axis, GEJ, gastric fundus, and dome of diaphragm).
+
+Inferior Border - the L3-L4 interspace (to cover the gastroduodenal nodes and gastric antrum).
+
+Right Margin - will be 3-4 cm lateral to the vertebral body (to encompass the porta hepatis, gastric
+
+antrum, medial duodenal wall, and gastroduodenal nodes). If the distal stomach is involved the entire
+
+circumference of duodenum should be included in the field for > 5 cm beyond gross disease.
+
+Left Margin - sufficiently lateral to include 2/3 - 3/4 of the left hemidiaphragm (to include the gastric
+
+fundus, splenic and suprapancreatic nodes, and left hemidiaphragm in proximal T3 lesions).
+
+ 
+
+ 
+
+Nodal areas at risk include: the gastric and gastroepiploic, celiac, porta hepatis, subpyloric, gastroduodenal, splenic-suprapancreatic, and retropancreaticoduodenal nodes. The splenic hilum, porta hepatis, and usually celiac track can be identified on CT scan. The celiac axis will usually arise at approximately T12-L1 level. The porta hepatis
+
+nodes are ordinarily encompassed by a field 2cm to the right of the T11-L1 vertebral bodies, however, the lateral and cephalocaudal location can be quite variable and should be determined from CT scans. The remaining branches of the celiac axis are treated by a field including the stomach and the medial portion of the duodenal C loop. The C loop of the duodenum usually extends to the lower margin of L3.
+
+ 
+
+ 
+
+ 
+
+May consider laterals for boost, but hard to avoid kidneys.
+
+ 
+
+Nodes to cover (depending on location)
+
+ALWAYS:
+
+peri gastric
+
+Celiac
+
+SMA
+
+ 
+
+PROXIMAL
+
+splenic
+
+suprapancreatic?
+
+ 
+
+DISTAL
+
+Porta hepatis - 4cm to the right of T11-L1
+
+peri-pancreatic
+
+pancreaticoduodenal
+
+ 
+
+/Gastric studies
+
+ 
+
+MacDonald, SWOG /9008, INT /0116. NEJM 2001;345:725-30., "Texas at San Antonio, San Antonio (J.M.J.)."
+
+(Updated ASCO 2004)
+
+For IB or greater Gastric or GEJ (20% were GEJ)
+
+Chemo: 5FU 425mg/m2/d x 5d, / LV 20m/m2/d x 5d
+
+Chemo x 1 cycle, then ChemoRT for cycles 2-3, then 2 more cycles of chemo.
+
+RT: APPA 45Gy
+
+PostOp CRT improves OS by 9 mos (35 mos v 26 mos).
+
+(These pts had more advanced stage disease than in MRC, Dutch studies (>62% T3, >86% N+)
+
+3yr OS 50% v 41%.
+
+UPDATE: 5yr OS 40% v
+
+3yr LRC 70% v 50%
+
+Adjuv CRT had most effect on improving LRF.
+
+BUT No diff in DM.
+
+ 
+
+Breakdown of tumor locations:
+
+Cardia 20%
+
+Body
+
+Antrum (mostly)
+
+ 
+
+Criticisms:
+
+How many got D1 vs D2?
+
+<D1 54%
+
+D1 36%
+
+D2 10% (only 10% got D2!, but this was documented post-hoc, perhaps only by #nodes removed)
+
+ 
+
+Median LNs removed: 6 (inadequate, need at least 15 for AJCC N staging)
+
+ 
+
+Central Review of RT was critical: 35% of plans got corrected before treatment.
+
+ 
+
+/DVH Stomach
+
+Kidney: Keep 2/3 of each less than 20Gy, or whole kidney <18Gy
+
+Liver: V30<60% 
+
+Heart: V40<30% (pericarditis)
+
+ 
+
+Korean retrospective study showed postop CRT still improves 5yr OS 57% v 51% even for D2 resected gastric CA. (Kim, IJROBP 2005)
+
+ 
+
+D1 vs D2: 2 studies showed no diff in OS:
+
+ 
+
+Japanese study showed D2 do better?
+
+ 
+
+Dutch study D1 vs D2
+
+Bonenkamp, NEJM 99
+
+No OS diff
+
+45-47% 5yr OS for D1 or D2 alone (no adjuvant)
+
+And D2 had higher morbidity and more post-op deaths (10% v 4%).
+
+ 
+
+MRC study D1 vs D2
+
+Cuschieri BJC 99
+
+No 5yr OS diff: 35% vs 31%
+
+ 
+
+/ARTIST trial, Lee, JCO 30:268-273, 2012. "DOI: 10.1200/JCO.2011.39.1953"
+
+Gastric
+
+PostOp CRT vs PostOp Chemo
+
+RT 45Gy.
+
+Chemo: Xeloda / cis.
+
+Negative trial. No DFS or OS diff.
+
+Unplanned subset analysis of N+ showed a TREND (p=.08) toward improved DFS for N+ only.
+
+Too few deaths to see OS diff.
+
+  
+
+ 
+
+/MAGIC trial by British MRC, "ISRCTN93793971"
+
+Cunningham, NEJM 2006
+
+500 pts, Gastric, Lower Esophagus (14%), or GEJ (11%)
+
+For resectable Stage II or higher.
+
+Pre- & Post-op chemo (ECF x3) vs surgery alone for gastric.
+
+/ECF - epirubicin, cisplatin, fluorouracil
+
+41% had a D2 resection!
+
+Improved 5yr OS (36% v 23%), PFS. 
+
+Also decreased tumor size, downstaged, #nodes,
+
+Didn't improve R0 resectability rate, No pathCR.
+
+So pre-Op chemo is good.
+
+ 
+
+Comparison: INT 0116 had more advanced tumors, MAGIC had higher D2 rate (41% v 10%), but INT 0116 still had better outcomes in control arm at 2 yrs.
+
+ 
+
+MAGIC2: PreOp Chemo +/- Bevacizumab.
+
+ 
+
+ 
+
+Do we really need PostOp RT for Gastric?
+
+CRITICS Study (Netherlands)
+
+There's a new Netherlands trial currently underway that is comparing
+
+ECX x3, D1 surgery, ECX x3
+
+ECX x3, D1 surgery, chemoRT (CX + 45Gy)
+
+X=Xeloda.
+
+ 
+
+ 
+
+CALGB 80101: Compares 2 postop chemoRT regimens.
+
+For resected high-risk gastricCA.
+
+PostOp CRT: infusional ECF vs CI 5FU/LV
+
+(ECF x1, 5FU/RT, ECF x2) vs
+
+(5FU/LV x1, 5FU/xRT, 5FU/LV x2)
+
+ECF=epirubicin/CDDP/5FU
+
+Still accruing in 2006.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Neoadjuvant CRT?
+
+ 
+
+Some recent studies on Neo adjuv for Gastric.
+
+ 
+
+/Ajani, JCO 2004, "DOI: 10.1200/JCO.2004.01.015"
+
+34pts
+
+PreOp CRT
+
+5FU / LV / cis x 2 cycles, then ChemoRT to 45Gy w/ 5FU.
+
+Conventional EBRT to 45Gy
+
+pCR 30%
+
+R0 70%
+
+MedOS 34 mo
+
+If you got pCR or pPR, medOS 64mos
+
+ 
+
+ 
+
+pCR 27%
+
+ 
+
+RTOG /9904, phase II trial of pre op CRT for gastric.
+
+/Ajani, phase II, CALGB or ECOG, JCO 2006
+
+80 pts
+
+Neo adjuv CRT for gastric.
+
+R0 resection rate 70%
+
+ 
+
+ 
+
+5FU / Taxol
+
+ 
+
+ 
+
+ASCO 2007
+
+/Gastric Follow Up
+
+B12 injections (no intrinsic factor), Fe, Ca++
+
+ 
+
+///
+
+ 
+

@@ -1,0 +1,598 @@
+
+RadOnc	
+SamRadOnc Home PageBreastCNSGIGUGynHNLungLymphomamiscOtherPalliative	
+anal
+//Anal
+
+/WORKUP Anal
+
+Hx: HIV risk factors
+
+Exam: pelvic exam for females, anoscopy, inguinal LNs
+
+Labs: HIV
+
+Imaging: CT abd/ pelvis, PET, CXR
+
+Incidence: 4600 in 2007.  (same as small bowel CA)
+
+Median age 62
+
+Risks: F>M, rising, genital warts, smoking, ano-receptive intercourse,
+
+ >90% are HPV+!! (16,18,6/11), HSV2, HIV (38x RR for males), immunocompromised
+
+1-2% are melanoma
+
+Dentate Line (pectinate line)
+
+ Above: columnar epithelium (perirectal->superior rectal->IMA->PA, internal iliacs?)
+
+ Below: stratified squamous epithelium (middle/inferior rectal a.->int iliac, or Inguinal/femoral n.)
+
+Anal Canal: above AV.  4cm.
+
+Anal Verge: keratinized. Separates anal canal from anal margin.
+
+Anal Margin (peri-anal skin, hair bearing): (better prognosis)  (inguinal/femoral n. --> ext iliac n -> common iliac n.) -> For small, Tx like skin cancer w/ WLE, For large -> RT.
+
+25-33% of anal tumors are Cloacogenic (no different) carcinomas (also called basaloid or transitional cell carcinomas) are sometimes listed as a subclass of squamous cell cancers. They develop in the transitional zone epithelium, the ring of tissue between the anal canal and the rectum, also called the cloaca. While they look slightly different under the microscope, these cancers behave and are treated like other squamous cell carcinomas.
+
+Anal AdenoCA: 15% of anal tumors are adenoCA! These appear to do worse than SCC, w/ 5yr OS <50%.  Higher risk of distant recurrence and LRR.
+
+Chang, MDACC 20yr experience of Anal AdenoCA, Dis Colon Rectum 2009; 52: 1375–1380
+
+"DOI: 10.1007/DCR.0b013e3181a79589"
+
+They recommend treating as rectal adenoCA: pre-op chemoRT, then APR.
+
+Sx:
+
+rectal bleeding in 45%
+
+pain, mass sensation, pruritis, anal discharge.
+
+Ask about HIV risk.
+
+/Anal staging
+
+T stage is just like skin.
+
+T1 <2cm (LN risk <5%)
+
+T2 2-5cm (LC 57-76% @ 5 yrs)
+
+T3 >5cm
+
+T4 invades vagina, urethra, bladder
+
+N1 perirectal
+
+N2 unilateral internal iliac or unilateral inguinal (20% at Dx)
+
+N3 bilateral internal iliac, or B inguinal, or perirectal and inguinal
+
+ <2    2-5  >5
+
+  T1   T2   T3   T4
+
+N0 I    II   II   IIIA
+
+N1 IIIA IIIA IIIA IIIB
+
+N2 IIIB IIIB IIIB IIIB
+
+N3 IIIB IIIB IIIB IIIB
+
+Devita: Outcomes after Definitive ChemoRT w/ 5FU/ mito / RT:
+
+5yr Survival
+
+T1 80%
+
+T2 70%
+
+T3-4 50%
+
+/Tx Anal /Anal Tx:
+
+Tepper doesn't believe in IMRT for Anal.
+
+If Stage I (T1N0), local excision (if anal margin) or RT alone. (Altho many centers do CRT even for early stage anal.)
+
+Mayo clinic study: 13 pts
+
+• RT alone
+
+indications: poor general health precludes chemo
+
+AIDS with CD4 < 200 (poor tolerance to both chemo and RT – ask medical oncologist opinion)
+
+mini-pelvis with upper field border at lower edge of SI joints + uninvolved inguinal nodes
+
+RT alone for T1-2 N0 disease with 60 Gy has LRC 80%
+
+
+
+LC 70-100% for T1-2N0 Anal.
+
+O/W, Definitive CRT
+
+Anal Chemo: Bolus 5FU 1000 mg/m2/d x 4d x 2cycles, mitoC 10mg/m2 x 2 cycles, weeks 1 & 5.
+
+If HIV w/ CD4<200,
+
+make sure they're on HAART (highly active anti retroviral therapy)
+
+try to still use same CRT (may need decrease RT dose by 5%, stop at 50Gy)
+
+Decrease chemo dose, use cis instead of MMC.
+
+RT  vs  Chemo/RT
+
+2 Randomized trials have shown a significant improvement in LRC and DFS with Chemo/RT vs RT alone
+
+• However, No significant OS benefit shown (though some have shown Higher CSS with chemo/RT)
+
+• With Chemo/RT expect approx 30% LRR and DFS around 70%
+
+• Originally, the RT dose with chemotherapy was as low as 30 Gy.  Many of the early RTOG trials and EORTC used 45 Gy.  Now retrospective studies have shown dose-escelation to 55 Gy range
+
+/Anal Doses:
+
+Beaumont Notes:
+
+Primary dose:
+50.4 for T1
+55.8 for T2-4, may bst to 64.8 if “poor response”
+
+Pelvic dose:
+
+30.6  whole pelvis (L5-S1), then lower sup border to bottom of SI joint to:
+36    Inguinal dose, then come off inguinals to:
+45 true pelvis (superior border to bottom of SI joint)
+
+Boost to tumor + 2.5cm:
+T1-2: 54Gy
+T3-4: 55.8-59.4Gy
+
+Inguinal dose: 36-59Gy:
+
+36 Gy for N0
+45 Gy for pelvic N+ but Ing-
+55-59Gy boost to N+
+50.4  boost to +Ing nodes only, if <=2cm
+55.8  if >2cm
+
+/dose de-escalation studies
+
+/PLATO (ACT3,4,5)
+https://www.isrctn.com/ISRCTN88455282?q=&filters=&page=1&pageSize=100
+
+/ACT3 : Phase 2 for early stage s/p local excision
+low dose chemoRT for margins <1mm
+41.4Gy
+MMC x 1 plus Xeloda
+
+
+/ACT4 : randomized phase 2 for intermediate risk
+standard chemoRT 50.4Gy vs 41.4Gy
+
+/DECREASE NCT04166318 ECOG-ACRIN
+dose de escalation
+randomized phase 2
+T1-2 N0 M0 
+anal canal or anal margin
+<=4cm
+Patients with T1N0M0 anal margin squamous cell carcinoma who underwent surgical excision with negative margins are not eligible
+
+Arm 1: 
+50.4Gy
+MMC 12mg/m2 x 1, & (2C 5FU or Xeloda all RT days)
+
+Arm 2: 
+36Gy for T1
+41.4Gy for T2
+MMC 10mg/m2 x 1, & (1C 5FU or Xeloda all RT days)
+
+
+
+
+/REVIEW : Tchelebi, CA Can J Clin 2021, is a good recent review of Anal CA
+
+
+
+
+
+
+
+Anal outcomes (Goswitz): LC 70-80%, OS 70-80%
+
+/Anal Follow-Up FU:
+
+After CRT, exam + anoscopy q6wks until cCR, then FU q3mo. May take up to 12 mos to regress.
+
+Devita:
+
+Residual masses after radiation or chemoradiation may take several months to
+
+regress fully. Frequent examination by an experienced observer is desirable, including, if necessary, examination under anesthesia, in order to detect recurrence early and forestall progression to technical unresectability. The development of a hard-edged ulcer after previous healing, an enlarging mass, or increasing pain at the primary tumor site should raise suspicion of recurrence.
+
+Suspected residual cancer should be confirmed by biopsy. Random biopsies from the site of the primary cancer in the absence of clinical features suspicious for cancer in a series of 61 patients were positive in only 2%, and there was a false negative
+
+rate of about 20% (12 of 60). So don't do random biopsies.
+
+/Anal studies
+
+/Nigro study, Wayne State, "Dis Colon Rectum 1984;27:763-766."  (Cancer, 1983)
+
+pre op CRT: 5FU/ mito C + 30Gy in 2Gy/d
+
+After CRT, only 30% needed APR.
+
+Results of APR in 31 pts:
+
+70% pCR
+
+7% microscopic only
+
+23% gross disease
+
+2 European trials show adding chemo to (split course) RT improves LC to about 65%.
+
+/UKCCCR (ACT1?) trial,
+
+UPDATE BJC 2010 LOOK THIS UP.  AT 13 YRS, OS BENEFIT!
+
+Br J Cancer. 2010 Mar 30;102(7):1123-8. Epub 2010 Mar 16.
+
+Chemoradiation for the treatment of epidermoid anal cancer: 13-year follow-up of the first randomised UKCCCR Anal Cancer Trial (ACT I).
+
+Northover J, Glynne-Jones R, Sebag-Montefiore D, James R, Meadows H, Wan S, Jitlal M, Ledermann J.
+
+Older: Lancet 1996, "Correspondence to: Mr J M A Northover"
+
+All stages, included distant dz.
+
+585pts
+
+RT +/- Chemo (5FU+MMC)
+
+RT 45Gy, 6wk break, if good response => (15Gy EBRT boost or 25Gy brachy boost), if poor response => surgery.
+
+Chemo Improved Local Failure 36% v 59%,
+
+Improved Cause-Related Mortality.
+
+Improved DSM.
+
+No OS diff.
+
+But chemo arm had worse acute toxicity, acute morbidity.
+
+/Bartelink EORTC Anal Phase III trial, JCO 1997, "0732-183X197/1505-0018$3.00/0"
+
+CRT v RT for locally advanced AnalCA
+
+For T3 or N+.
+
+110 pts
+
+RT +/- Chemo (5FU+MMC)
+
+RT: 45Gy, 6wk break, then 15-20Gy
+
+Salvage Surgery if still residual palpable disease.
+
+improved CR rate 80% v 54%.
+
+Improved 5yr LRC 68% v 50% (by 18%),
+
+improved colostomy-free interval by 32%.
+
+Improved Event Free Survival.
+
+But worse anal ulcers.
+
+No OS diff.
+
+And does it have to be mitoC? very toxic: BM toxicity, peri-anal desq, dermatitis, neutropenia.
+
+Late: anal incont/fibrosis, ulcers, chronci pelvic pain, vaginal stenosis, SBO, bladder dysf, sexual dysfunc, LE edema.
+
+Yes, 2 RTOG studies (8704 & 9811) show that we still need MMC in addition to 5FU,
+
+both showed MMC improves colostomy rate about 10% v 20%:
+
+Yes, need to add mitoC to 5FU:
+
+RTOG /8704 / ECOG 1289 (/Flam, JCO 1996, "0732-1 83X/96/1409-00 17$3.00/0")
+
+UPDATE: GCR 1999.
+
+Phase III
+
+310 pts, all stages
+
+5FU/RT +/- mitoC, then if Bx positive => more 5FU/ cis / RT 9Gy (salvage)
+
+XRT 45-50.4 Gy +/- Boost 9Gy
+
+MitoC Improved 4yr LC, DFS (73% v 51%),
+
+MitoC Decreased 4yr colostomy rate (9% v 22%).
+
+Trend toward better positive post-treatment bx rate (7.7% v 15%). (But we don't do PostTx Bx anymore cuz continues to regress x 12 mos.)
+
+No OS diff.
+
+But worse Grade 4 acute toxicity (23% v 7%).  Febrile neutropenia.
+
+CR rate 95%
+
+UPDATE: GCR 1999: 5yrs Colostomy-Free Survival 64% v 58%
+
+5yr OS 66%
+
+5yr LRR 17%
+
+RTOG /9811
+
+ChemoRT for T2-4 N0-1 Anal CA
+
+5FU/ MMC + RT
+
+vs
+
+Induction 5FU/ Cis x 2c, then 5FU/ Cis + RT
+
+682pts
+
+RT 45-59Gy.
+
+MitoC 10mg/m2 on Day 1 & 29.
+
+5FU 1000mg/m2/d on Days 1-4, and Days 29-32.
+
+ Gunderson LL, Winter KA, Ajani JA, et al. : Long-term update of US GI intergroup RTOG 98-11 phase III trial for anal carcinoma: survival, relapse, and colostomy failure with concurrent chemoradiation involving fluorouracil/mitomycin versus fluorouracil/cisplatin. J Clin Oncol 30:4344–4351, 2012.
+
+In the recent update of RTOG 9811,42 the use of MMC was associated with better disease-free survival (67.8% vs. 57.8% at 5 years, P = .006) and better overall survival (78.3% vs. 70.7% at 5 years, P = .026) when compared to the CDDP arm. There was a trend toward statistical significance for locoregional relapse, colostomy-free survival, and decreased colostomy failure favoring the MMC arm
+
+OLD report: (Ajani, "JAMA. 2008;299(16):1914-1921")
+
+Median FU: 2.5yrs
+
+NO diff 5yr DFS 54-60%, 5yr OS 70-75%.
+
+LC 80-85%?
+
+Mito had better 5yr Colostomy Rate 10% vs 19%, p=.02
+
+So std of care is still mitoC.
+
+Multivariate: gender, nodal status, tumor size (<2.5 v >5)
+
+Moist desq was same,
+
+Worse hematologic toxicities in mitoC.
+
+But worse GI toxicities in platinum arm.???
+
+MitoC/ 5FU/ RT remains standard of care for analCA.
+
+Critiques: mito arm didn't have an induction phase.  Induction phase may be detrimental!
+
+RTOG 9811 confirmed that induction chemotherapy with CDDP and concurrent chemoradiation is inferior to up-front concurrent chemoradiation with MMC. The use of induction in the CDDP arm, however, is a potential confounder. The ACT II trial in the United Kingdom added to the debate by making a direct comparison of CDDP to MMC in the concurrent chemoradiation-alone setting. Preliminary data with a median follow-up of 5 years presented at the 2012 American Society of Clinical Oncology meeting suggest an equivalence between radiation with 5-FU and MMC and radiation with 5-FU and CDDP.43 Based on the current evidence, it has been concluded that concurrent chemoradiation with 5-FU and MMC remains the standard of care
+
+FNCLCC
+
+RCT 4 arms
+
+2 questions:
+
+Induction chemo
+
+Low dose vs High dose chemoRT
+
+ACCORD03 (ASCO 2009) Increasing dose above 59Gy not better. Induction chemo doesn't help.
+
+Where is the Phase III study?
+
+http://www.asco.org/ascov2/Meetings/Abstracts?&vmview=abst_detail_view&confID=65&abstractID=34304
+
+Peiffert, J.F. Seitz and P. Rougier et al., Preliminary results of a phase II study of high-dose radiation therapy and neoadjuvant plus concomitant 5-fluorouracil with CDDP chemotherapy for patients with anal canal cancer: a French cooperative study, Ann Oncol 8 (1997), pp. 575–581
+
+/ACT II, /ACT2 (James, LBA4009, ASCO 2009)
+
+940 pts
+
+Two randomizations:
+
+i) MMC- vs CIS- chemoRT.
+
+ii) +/- maintenance CIS/ 5FU x 2 cycles
+
+Conclusion:
+
+i) No diff in CR, RFS, OS between MMC vs CIS, or +/- maintenance 5FU-cis.
+
+Higher G3-4 heme toxicities in MMC arm, but no increase in neutropenic sepsis.
+
+No diff in colostomy rate.
+
+They conclude that MMC-5FU remains std of care.
+
+Low risk of inguinal nodal failure of 1-2% (?).
+
+ACT2, ASCO 2009
+
+2 questions: MMC vs Cis, maint chemo?
+
+Conclusion:
+
+No diff between MMC vs Cis, and worse hematologic toxicity in MMC (but what about colostomy rate?)
+
+Maint chemo doesn't help.
+
+(So why do we still like MMC better?  CRT says we may still be able to make a case for CIS instead of MMC)
+
+Timing of CR in ACT II:
+
+Week    CR
+
+11        58-65%
+
+18        75-77%
+
+26        84-85%
+
+And CR predicts better PFS, OS.
+
+Conclusion: You should wait 26 weeks before bx or surgery.
+
+EORTC 22011
+
+Smoking, Anal CA, UW
+
+15yr retrospective
+
+RTOG 9208: Breaks are bad.
+
+Update ASCO GI 2007. (CJSA 1996 http://www.ncbi.nlm.nih.gov/pubmed/9166533 )
+
+For >2cm tumors
+
+Split course 59.4Gy + 5FU/ MMC, With a planned 2wk break
+
+Lower >G3 skin toxicity with this break, but
+
+Higher 30% v 9% colostomy rate.
+
+Blanke says: Is APR as good as Def ChemoRT?  Most surgeons would say no.
+
+chemoRT OS 70-90%
+
+5yr APR alone: OS 50-70%, could we add to survival w/ adjuv CRT? Maybe.
+
+/IMRT Anal
+
+Intensity-Modulated Radiation Therapy vs. 3D Conformal Radiation Therapy for Squamous Cell Carcinoma of the Anal Canal
+
+Michael D. Chuong,corresponding author1 Jessica M. Freilich,1 Sarah E. Hoffe,1 William Fulp,2 Jill M. Weber,3 Khaldoun Almhanna,3 William Dinwoodie,3 Nikhil Rao,1 Kenneth L. Meredith,3 and Ravi Shridhar1
+
+Gastrointest Cancer Res. 2013 Mar-Apr; 6(2): 39–45.
+
+PURPOSE:
+
+We compared our institutional experience using 3D conformal radiation therapy (3DCRT) vs. IMRT (intensity-modulated radiation therapy) for anal cancer.
+
+METHODS:
+
+We performed a single-institution retrospective review of all patients with squamous cell carcinoma anal cancer treated from September 2000 through September 2011, using definitive chemoradiation with curative intent.
+
+RESULTS:
+
+This study included 89 consecutive patients (37 3DCRT, 52 IMRT). Median follow-up for all patients, IMRT patients alone, and CRT patients alone was 26.5 months (range, 3.5–133.6), 20 months (range, 3.5–125.5), and 61.9 months (range, 7.6–133.6), respectively. Three-year overall survival (OS), progression-free survival (PFS), locoregional control (LRC), and colostomy-free survival (CFS) were 91.1%, 82.3%, 90.8%, and 91.3% in the IMRT cohort and 86.1%, 72.5%, 91.9%, and 93.7% in the 3DCRT group (all P > .1). More patients in the 3DCRT group required a treatment break (11 vs. 4; P = .006), although the difference in median treatment break duration was not significant (12.2 vs. 8.0 days; P = .35). Survival did not differ based on whether a treatment break was needed (all P > .1). Acute grade ≥3 nonhematologic toxicity was decreased in the IMRT cohort (21.1 vs. 59.5%; P < .0001). Acute grade ≥3 skin toxicity was worse in the 3DCRT group (P < .0001), whereas an improvement in late grade ≥3 gastrointestinal (GI) toxicity was observed in the IMRT patients (P = .012).
+
+CONCLUSIONS:
+
+This study is the largest thus far to compare 3DCRT and IMRT for definitive treatment of anal cancer. Although long-term outcomes did not significantly differ based on RT technique, a marked decrease in adverse effects and the need for a treatment break was achieved with IMRT.
+
+Milano, Red 2005
+
+IMRT Anal had lower toxicity.
+
+/DVH Anal?  ANAL /IMRT RTOG 0529?  (Kachnic)
+
+Well suited for IMRT cuz bowel, bladder, fem head, genitalia, ...
+
+Femoral heads:
+
+• No more than 50% above 30 Gy
+
+• No more than 35% above 40 Gy
+
+• No more than 5% above 44 Gy
+
+Iliac crests:
+
+• No more than 50% above 30 Gy
+
+• No more than 35% above 40 Gy
+
+• No more than 5% above 50 Gy
+
+Ben-Josef's critique of 0529: expansion margins too generous.
+
+Use Taylor Red 2005 recommendations instead (7mm, 10mm) (see / Taylor).
+
+Divide nodes into high risk (below SI jt), and low risk (above SI jt).
+
+He lowers PTV margin from 1cm to 0.5cm.
+
+He uses CTV margin of 0.7cm on the nodes.
+
+Organs-at-Risk Constraints
+
+Skin ≤20Gy
+
+Perineum ≤36Gy
+
+Small bowel ≤54Gy; 30% or less >45Gy
+
+Bladder ≤54Gy; 30% or less >45Gy
+
+Fem head/neck ≤45Gy
+
+Iliac bones/sacrum Minimize dose
+
+RTOG /0529 Anal Doses /Kachnic’s IMRT Anal
+
+Objective is to see if can reduce GI & GU acute toxicity w/ IMRT.
+
+Wasn't designed to measure skin toxicity.
+
+For T2-T4. w/ mitoC/ 5FU
+
+(Checkout images on website: ICT ACR Wash U off of RTOG home page)
+
+For T2N0,
+
+180x28=5040 Primary PTV 5040
+
+150x28=4200 Elective Iliac/Inguinal nodes PTV:
+
+For T3-4 or N+:
+
+180x30=54 Primary PTV and >3cm nodes
+
+168x30=50.4 N+ <3cm
+
+150x30=45 elective iliac/ inguinal
+
+7-9 static fields.
+
+RTOG /0529 Results: Kachnic, ASCO GI 2010
+
+n=51 pts
+
+76% had G2 GI/GU toxicities, same as 9811
+
+Reduced G3 GI/GU
+
+Reduced G2G3 skin toxicities. (compared to 9811)
+
+Median RT duration 42.5 days (range 32-59); 49 days (0-102) 9811
+
+Conclusion: IMRT significantly reduces GI,GU, skin toxicities.
+
+/Bazan, 2011.
+
+Anal IMRT
+
+retrospective
+
+shorter breaks
+
+better outcomes?
+
