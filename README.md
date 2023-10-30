@@ -8,6 +8,14 @@ Here are some links to disease sites:
 
 [prostate](prostate.md)
 
+[GI](GI.md)
+
+[GU](GU.md)
+
+[head & neck](head & neck.md)
+
+[palliative](palliative.md)
+
 GI
 H&N
 Palliative
