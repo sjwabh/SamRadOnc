@@ -3,8 +3,20 @@ misc
 /NTT Normal Tissue Tolerances:  
 
 /QUANTEC
+https://en.wikibooks.org/wiki/Radiation_Oncology/Toxicity/QUANTEC
+
 Esophagus V35<50% V50<40% V70<20%
 Mean dose <34Gy
+
+Lung      (Toxicity rate)
+V20<30%   20%
+Mean<20Gy 20%
+Mean<24Gy 30%
+Mean<27Gy 40%
+
+Cord
+Max<50Gy 0.2% Myelopathy
+
 
 /TD5/5 (/Emami IJROBP 1991, "0360-3016191")
 Organ TD5/5 for 3/3
