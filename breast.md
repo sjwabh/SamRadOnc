@@ -1552,6 +1552,7 @@ ASTRO Choosing Wisely: omitting whole breast RT in elderly
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8797447/
 
 IMPORT LOW is the narrow tangents method of partial breast
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)31145-5/fulltext
 
 
 
