@@ -5028,7 +5028,31 @@ BCTOS Cosmesis Scale:
 
 /PBI /APBI Partial Breast Irradiation:
 
-/APBI
+PBI Review, Frontiers Oncology 2022:
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9685302
+
+/Florence 30 in 5 IMRT, JCO 2020
+https://pubmed.ncbi.nlm.nih.gov/32840419
+https://ascopubs.org/doi/10.1200/JCO.20.00650?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed
+
+Florence APBI: IMRT 30 in 5
+FLORENCE Constraints
+
+CTV : 1cm margin, >3mm from skin
+PTV : another 1cm margin, <4mm into lung, >3mm from skin
+5 static coplanar beams
+non-consecutive days
+
+MaxDose<105%
+MinDose >28Gy
+uninvolved ipsi breast V15<50%
+contralat breast Max<1Gy
+ipsi lung V10<20%
+heart V3<10%
+
+
+
+
 
 Besides the obvious contraindications (N+, >3cm, multi-centric, ...),
 
