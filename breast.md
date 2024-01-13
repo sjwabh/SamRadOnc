@@ -1913,6 +1913,22 @@ Trend toward improved OS.
 At the expense of increased toxicity: pneumonitis 1.3% v .2%, RT dermatitis 50% v 40%, lymphedema 7% v 4%, worse cosmetic outcome 36% v 29%
 COMMENTS: MA20 had higher risk pts than Z11?  (Whelan doesn't agree..)
 
+
+/OTOASOR
+https://pubmed.ncbi.nlm.nih.gov/28139362/
+https://www.ejso.com/article/S0748-7983(17)30038-0/fulltext
+Eight-year follow up result of the OTOASOR trial: The Optimal Treatment Of the Axilla – Surgery Or Radiotherapy after positive sentinel lymph node biopsy in early-stage breast cancer
+2017
+Introduction
+The National Institute of Oncology, Budapest conducted a single centre randomized clinical study. The OTOASOR (Optimal Treatment Of the Axilla – Surgery Or Radiotherapy) trial compares completion of axillary lymph node dissection (cALND) to regional nodal irradiation (RNI) in patients with sentinel lymph node metastasis (pN1sn) in stage I–II breast cancer.
+Patients and methods
+Patients with primary invasive breast cancer (cN0 and cT ≤ 3 cm) were randomized before surgery for cALND (standard treatment) or RNI (investigational treatment). Sentinel lymph nodes (SN) were investigated with serial sectioning at 0.5 mm levels by hematoxylin–eosin staining. Investigational treatment arm patients received 50 Gy RNI instead of cALND. Adjuvant treatment and follow up were performed according to the actual guidelines. Between August 2002 and June 2009, 1054 patients were randomized for cALND and 1052 patients for RNI. SN was evaluated in 2073 patients and was positive in 526 patients (25.4%). 474 cases were evaluable (244 in the cALND and 230 in the RNI arm), and in the cALND group 94 of 244 patients (38.5%) who underwent completion axillary surgery has additional positive nodes. The two arms were well balanced according to the majority of main prognostic factors. Primary endpoint was axillary recurrence and secondary endpoints were overall survival (OS) and disease-free survival (DFS).
+Results
+Mean follow-up was 97 months (Q1–Q3: 80–120). Axillary recurrence was 2.0% in cALND arm vs. 1.7% in RNI arm (p = 1.00). OS at 8 years was 77.9% vs. 84.8% (p = 0.060), and DFS was 72.1% in cALND arm and 77.4% after RNI (p = 0.51). The results show that RNI is statistically not inferior to cALND treatment.
+Conclusions
+The long term follow-up results of this prospective-randomized trial suggest that RNI without cALND does not increase the risk of axillary failure in selected patients with early-stage invasive breast cancer (cT ≤ 3 cm, cN0) and pN1(sn). Axillary radiotherapy should be an alternative treatment for selected patients with sentinel lymph node metastases.
+
+
 /POSNOC
 
 Goyal, Clin Onc 2015
