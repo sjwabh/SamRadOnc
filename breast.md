@@ -6111,31 +6111,25 @@ For cN1 (bx proven) pts who rec'd neoadjuv chemo, false neg rate of post-chemo S
 http://jama.jamanetwork.com/article.aspx?articleid=1748149
 
 Alliance trial: A011202
-
 http://www.cancer.gov/clinicaltrials/search/view?cdrid=751211
-
 For cT1-3 cN1 (bx proven prior to chemo), who get neoadjuv chemo, then have SNB+, randomized to +-cALND.  All get RT to regional nodes and undissected axilla.
 
- 
 
 /B51  RTOG 1304
-
 For T1-3 N1 Patients with cN+ (bx proven) Before Neoadjuvant Chemo who convert to ypN0
-
 RCT +- Regional Nodal RT
-
 For (lumpectomy or mastectomy) & SNB +/- cALND
 
+SABCS 2023 
+https://www.cancer.gov/news-events/cancer-currents-blog/2024/breast-cancer-skip-lymph-node-radiation
 https://clinicaltrials.gov/ct2/show/study/NCT01872975?show_desc=Y#desc
 
 Primary Aim
-
 To evaluate whether the addition of regional nodal XRT will significantly reduce the rate of events for invasive breast cancer recurrence-free interval (IBC-RFI) in patients who present with histologically positive axillary nodes but convert to histologically negative axillary nodes following neoadjuvant chemotherapy.
-
 (B51 allows you to either do a full cALND or just do a SNB after chemo!)
 
  
-
+---
 WHAT CHEMO for PreOp?
 
 IF PreOp Chemo, only do AC.
@@ -6151,8 +6145,6 @@ PR: >50% reduction
 Stable Disease
 
 Progressive Disease
-
- 
 
  
 
