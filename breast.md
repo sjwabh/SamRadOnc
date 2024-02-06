@@ -3583,7 +3583,9 @@ Clin Interv Aging . 2022 Sep 28;17:1445-1460. doi: 10.2147/CIA.S365497. eCollect
 Despite its proven efficacy, adjusting or even omitting adjuvant radiation therapy, at least in low-risk older patients, is safe and frequently practiced.
 
 
-/PRIME II
+/PRIME II, NEJM 2023
+https://www-ncbi-nlm-nih-gov.liboff.ohsu.edu/pmc/articles/PMC10137373/
+
 Kunkler IH1, Williams LJ2, Jack WJ3, Cameron DA4, Dixon JM4; on behalf of the PRIME II investigators.
 Lancet Oncol. 2015 Jan 27. pii: S1470-2045(14)71221-5. doi: 10.1016/S1470-2045(14)71221-5. [Epub ahead of print]
 Breast-conserving surgery with or without irradiation in women aged 65 years or older with early (low risk) breast cancer (PRIME II): a randomised controlled trial.
