@@ -3584,15 +3584,16 @@ Despite its proven efficacy, adjusting or even omitting adjuvant radiation thera
 
 
 /PRIME II, NEJM 2023
-https://www-ncbi-nlm-nih-gov.liboff.ohsu.edu/pmc/articles/PMC10137373/
-
-Kunkler IH1, Williams LJ2, Jack WJ3, Cameron DA4, Dixon JM4; on behalf of the PRIME II investigators.
-Lancet Oncol. 2015 Jan 27. pii: S1470-2045(14)71221-5. doi: 10.1016/S1470-2045(14)71221-5. [Epub ahead of print]
+https://pubmed-ncbi-nlm-nih-gov.liboff.ohsu.edu/36791159/
+Kunkler et al
 Breast-conserving surgery with or without irradiation in women aged 65 years or older with early (low risk) breast cancer (PRIME II): a randomised controlled trial.
-http://www.ncbi.nlm.nih.gov/pubmed/25637340
 RCT 658 pts
-T1-T2, size <3cm, N0, -M, up to G3 or +LVSI but not both, HR+. (unknown Her2 status) All got HT.
-RT reduced IBTR 4.1% v 1.3%
+T1-T2, size <=3cm, pN0 (at least sn), -M, up to G3 or +LVSI but not both, HR+. (unknown Her2 status) All got HT.
+10yr Results:
+LR 9.5% vs .9%
+Distant: no diff
+OS: no diff
+
 
 
 /Hughes Elderly, CALGB 9343, 
