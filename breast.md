@@ -3576,6 +3576,13 @@ LR 11.6% v 27.2%
 
 /OLDER /elderly, Age>70, T1N0 (<2cm), ER+
 
+2024 01 UpToDate: Omission of breast RT for Elderly
+One trial has suggested that omission of radiation in patients ≥55 years of age with small, luminal breast cancers may be possible, although this is not standard practice. The LUMINA trial [NCT01791829] included 500 females ≥55 years with T1N0, grade 1 or 2, luminal A-breast cancer treated with breast-conserving surgery and endocrine therapy alone (no radiation), the incidence of local recurrence at five years was low (2.3 percent) [76]. Breast cancer occurred in the contralateral breast at a comparable rate of 1.9 percent. Recurrence of any type occurred in 2.7 percent. In this trial, luminal A was defined as ER ≥1 percent and progesterone receptor >20 percent, negative HER2, and Ki67 ≤13.25 percent.
+
+Ongoing clinical trials (eg, the IDEA [NCT02400190], and PRECISION [NCT02653755] trials) are evaluating whether genetic assays such as the Oncotype recurrence score or PAM50 risk of recurrence score may identify other women in whom RT may be omitted without meaningfully increasing the risk of recurrence. Although these data are provocative, they are preliminary and should not be incorporated into routine clinical care. Ongoing trials are also underway to address the use of genomic signatures in reducing the administration of radiation for highly favorable breast cancers, as well as comparing adjuvant APBI versus aromatase inhibitors in older patients [77].
+
+
+
 Breast Cancer in Geriatric Patients: Current Landscape and Future Prospects
 Hikmat Abdel-Razeq, et al
 https://pubmed.ncbi.nlm.nih.gov/36199974/
