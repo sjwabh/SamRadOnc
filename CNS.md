@@ -49,34 +49,17 @@ As much as 50% of RT damage repaired by 2 yrs.
 Dose
 BED in Gy(2)
 
-asdf
 
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-
-asdf
-
- col1 | col2 | col3 | col4 
- ----- | ------------- | ------------- | ------
  Previous | 6-9 mos | 9mo-2yrs | >2 yrs 
+ ----- | ------------- | ------------- | ------
  30/10 | 25/10  | 27.5/10 | 30/10 
-
-
-asdf
-
  75 | 131 | 140 | 150
  37.5/15 | 22.5/10 | 25/10 | 27.5/10 
  83 | 131 | 139 | 148
  40/20 | 22.5/10 | 25/10 | 27.5/10  
  80 | 128 | 136 | 145
-
-
-
-45/25 22.5/10 25/10 27.5/10
-
-85.5 133 142 151
+45/25 | 22.5/10 | 25/10 | 27.5/10
+85.5 | 133 | 142 | 151
 
 https://lh3.googleusercontent.com/IHLDu-80qG_8I1YmXGzeSDEulX5F9v-RC0G73TSxPETuvq6Aa1QWl5v9T9QDpTvKmTJkZlsYPSCi-ebOnALIvpO-QAtLYuYjYRT0IoNETkk=w1280
 
