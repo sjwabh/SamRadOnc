@@ -3435,8 +3435,27 @@ Preliminary results of the RTOG 0521 trial were presented at the 2015 ASCO meeti
 
 ●Additional evidence supporting a potential role for chemotherapy in high-risk patients comes from the STAMPEDE trial, which included men with both metastatic disease and high-risk M0 disease [51]. In that trial, 22 percent of patients had no evidence of lymph node or distant metastases (N0M0), and 14 percent had lymph node, but not distant, metastases (N+M0). The results of that trial are discussed separately (See "Initial systemic therapy for castration sensitive prostate cancer", section on 'STAMPEDE trial'.)
 
-/Stampede trial
+/Stampede trial (weren't there several?)
 http://www.thelancet.com/pdfs/journals/lancet/PIIS0140-6736(15)01037-5.pdf
+
+prostate radiotherapy in the setting of metastatic castrate sensitive prostate CA:
+The STAMPEDE trial has investigated the efficacy of adding radiotherapy to the standard of care in men with newly diagnosed metastatic prostate cancer. The rationale behind this approach is based on the hypothesis that treating the primary tumor might retard metastatic progression and thereby prolong survival. 
+
+STAMPEDE TRIAL for prostate radiotherapy:
+Parker CC, James ND, Brawley CD, Clarke NW, Hoyle AP, Ali A, Ritchie AWS, Attard G, Chowdhury S, Cross W, et al. Radiotherapy to the primary tumour for newly diagnosed, metastatic prostate cancer (STAMPEDE): a randomised controlled phase 3 trial. Lancet. 2018;392(10162):2353–2366. doi: 10.1016/S0140-6736(18)32486-3.
+
+men with low-volume metastatic hormone-sensitive prostate cancer, adding radiotherapy to the prostate improves overall survival without detriment to the quality of life
+
+ hypofractionated prostate RT: 55Gy in 20 fractions or 36Gy in 6 weekly fractions
+
+REVIEW of TWO STUDIES: 
+Radiotherapy for hormone-sensitive prostate cancer with synchronous low burden of distant metastases
+Strahlenther Onkol. 2022; 198(8): 683–689. Published online 2022 Jun 15. doi: 10.1007/s00066-022-01961-y
+PMCID: PMC9300516PMID: 35704054
+
+metastasized prostate cancer with low metastatic burden (defined as ≤ 4 bone metastases, with or without distant nodes)
+
+
 
 
 
