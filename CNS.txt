@@ -53,7 +53,7 @@ Dose
 
 BED in Gy(2)
 
-| ReRT | Dose | ReRT | Dose ReRT Dose
+| ReRT | Dose | ReRT | Dose ReRT Dose |
 | ------------- |:-------------:| -----:|
 | Previous | 6-9 mos | 9mo-2yrs | >2 yrs| 
 | 30/10 | 25/10  | 27.5/10 | 30/10| 
