@@ -44,17 +44,13 @@ Long Course did better, but no diff betw 300x10, 250x15, 200x20.
 /ReRT cord.   11% get recurrent cord compression after RT (Loeffler).
 
 /Endicott, Withers, ASTRO 1999, V45, p173., "Endicott"
-
 5% risk of cord myelopathy at BED 120 Gy2.
-
 As much as 50% of RT damage repaired by 2 yrs.
-
 Dose
-
 BED in Gy(2)
 
-| ReRT | Dose | ReRT | Dose ReRT Dose |
-| ------------- |:-------------:| -----:|
+| col1 | col2 | col3 | col4 |
+| --- | ------------- |:-------------:| -----:|
 | Previous | 6-9 mos | 9mo-2yrs | >2 yrs| 
 | 30/10 | 25/10  | 27.5/10 | 30/10| 
 | 75 | 131 | 140 | 150| 
