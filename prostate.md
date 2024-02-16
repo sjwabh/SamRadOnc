@@ -185,11 +185,11 @@ Gleason Pattern
 
 Grade Group | Gleason
 ------------|------------
-Grade Group 1 | Gleason 6 (or less)
-Grade Group 2 = Gleason 3+4=7
-Grade Group 3 = Gleason 4+3=7
-Grade Group 4 = Gleason 8
-Grade Group 5 = Gleason 9-10
+Grade Group 1 | Gleason 3+3 (or less)
+Grade Group 2 | Gleason 3+4
+Grade Group 3 | Gleason 4+3
+Grade Group 4 | Gleason 8
+Grade Group 5 | Gleason 9-10
  
 
  
