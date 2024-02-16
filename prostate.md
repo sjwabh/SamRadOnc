@@ -181,7 +181,7 @@ Gleason Pattern
 4,5 poorly differentiated
 
 
-/GRADE GROUP 
+/GRADE GROUP /GG
 
 Grade Group | Gleason
 ------------|------------
