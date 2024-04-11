@@ -18,6 +18,9 @@ V18<30cc, V23<7cc (<10% risk of radionecrosis)
 SRTx5
 V29<20cc?
 
+Also, this CK paper also uses V23.1 < 7cc.
+https://pubmed.ncbi.nlm.nih.gov/23404206/
+doi:10.1093/jrr/rrt006
 
 
 
