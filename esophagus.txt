@@ -1,28 +1,25 @@
 
-RadOnc	
-SamRadOnc Home PageBreastCNSGIGUGynHNLungLymphomamiscOtherPalliative	
-Esophageal
-//Esophageal //esophagus CA :  “70 yo Black Males”
+
+//Esophageal //esophagus CA 
+
+CheckMate 577
+https://www.nejm.org/doi/full/10.1056/NEJMoa2032125#:~:text=No%20adjuvant%20treatment%20has%20been%20established%20for%20patients,and%20surgery%20for%20esophageal%20or%20gastroesophageal%20junction%20cancer.
+DOI: 10.1056/NEJMoa2032125
+Adults with resected (R0) stage II or III esophageal or gastroesophageal junction cancer who had received neoadjuvant chemoradiotherapy and had residual pathological disease were randomly assigned in a 2:1 ratio to receive nivolumab.
+ the median disease-free survival was 22.4 months (95% confidence interval [CI], 16.6 to 34.0), as compared with 11.0 months 
+
+
 
             Incidence   Mortality
-
 Esophagus   14,550     13,770
 
  
 
 Incidence: 15-20% increase in last 30 yrs
-
 Now more Adeno in U.S., 75% (better) than SCC 25% (worse).
-
 Epid: Males>>F (3-7x!)
-
 But SCC still more common than adenoCA in Blacks (3x)
-
- 
-
 MC site: Distal 1/3
-
- 
 
  
 
