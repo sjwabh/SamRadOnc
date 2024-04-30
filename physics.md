@@ -332,18 +332,17 @@ Ru-106
 
 Tc-99
 
+/RADiant energies
+ superficial
+ eBT
+ 
 /GCSOS
 
 Grenz Rays <20kV
-
 Contact or Endocavitary 40-50kV for <1-2mm
-
 (ultra short distance)
-
 Superficial 50-150kV for <5mm
-
 Orthovoltage 150-500kV for 2-3cm
-
 Supervoltage .5 to 1 MV
 
 /penumbra – 4 components
