@@ -644,7 +644,7 @@ A randomized controlled trial (RCT) and several retrospective studies conducted 
 24. Arvold, N. D. , Tanguturi S. K., Aizer A. A., Wen P. Y., Reardon D. A., Lee E. Q., et al. 2015. Hypofractionated versus standard radiation therapy with or without temozolomide for older glioblastoma patients. Int. J. Radiat. Oncol. Biol. Phys. 92:384–389. [PubMed] [Google Scholar]
 25. Minniti, G. , De Sanctis V., Muni R., Rasio D., Lanzetta G., Bozzao A., et al. 2009. Hypofractionated radiotherapy followed by adjuvant chemotherapy with temozolomide in elderly patients with glioblastoma. J. Neurooncol. 91:95–100. [PubMed] [Google Scholar]
 
-26. Malmstrom, A. , Gronberg B. H., Marosi C., Stupp R., Frappaz D., Schultz H., et al. 2012. Temozolomide versus standard 6‐week radiotherapy versus hypofractionated radiotherapy in patients older than 60 years with glioblastoma: the Nordic randomised, phase 3 trial. Lancet Oncol. 13:916–926. 
+26. Malmstrom, A. , Gronberg B. H., Marosi C., Stupp R., Frappaz D., Schultz H., et al. 2012. Temozolomide versus standard 6‐week radiotherapy versus hypofractionated radiotherapy in patients older than 60 years with glioblastoma: the *NORDIC* randomised, phase 3 trial. Lancet Oncol. 13:916–926. 
 https://pubmed.ncbi.nlm.nih.gov/22877848/
 3way RCT of TMZ alone vs 340x10 (2wk) RT alone vs 200x30 (6wk) RT alone 
 (but who would really do any of these 3 options these days)
@@ -902,7 +902,7 @@ https://www.tandfonline.com/doi/full/10.2147/CPAA.S26586
 Patients with MGMT promoter methylation had a significant survival benefit when treated on the TMZ arms, but no survival benefit when receiving radiotherapy alone. 
 This suggests MGMT-positive patients who cannot tolerate the combined regimen should receive TMZ rather than radiation.Citation45,Citation46
 
-Here are the two studies of /TMZ alone:
+Here are the two studies of /TMZ alone: NOA-08 and Nordic 
 
 Wick W Platten M MeisnerC
 Temozolomide chemotherapy alone versus radiotherapy alone for malignant astrocytoma in the elderly: the NOA-08 randomised, phase 3 trialLancet Oncol201213770771522578793 [Crossref], [Web of Science ®], [Google Scholar]
