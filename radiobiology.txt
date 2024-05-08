@@ -1199,3 +1199,28 @@ resistant to bioreductive agents.
 
 - -  - -
 
+
+From UPTODATE 2024:
+/neurofibromatosis: nf1, nf2 
+/nf2, schwannomatosis 
+
+/nf1, von Recklinghausen disease, is most common
+AD inheritance
+hallmarks of NF1 are multiple café-au-lait macules, axillary and/or inguinal freckling, Lisch nodules (iris hamartomas), and neurofibromas. Osseous dysplasias, symptomatic optic pathway glioma (OPG) 
+Neurofibromas are benign peripheral nerve sheath tumors
+
+"segmental NF1" is when clinical features are limited to one area of the body due to somatic mosaicism of a pathogenic variant
+
+ The clinical behavior of gliomas in adults with NF1 is often aggressive, even for patients with low-grade tumors
+
+Malignant peripheral nerve sheath tumors — MPNSTs, previously called neurofibrosarcomas
+highly malignant tumor
+(PET) imaging may be helpful in distinguishing MPNST from benign plexiform or nodular neurofibromas
+
+Females with NF1, particularly those under 50, are at increased risk of breast cancer, tend to be estrogen receptor negative and human epidermal growth factor receptor 2 (HER2) positive and are associated with a younger age at diagnosis and less favorable prognosis than non-NF1-associated breast cancers 
+
+
+
+
+
+
