@@ -1,6 +1,29 @@
 /skin CA
 
 
+
+BWH staging for Skin SCC: 
+4 High-Risk SCC Factors in BWH: DDPP
+Diameter >2cm: Y/N
+Depth beyond fat: Y/N (>6mm? >4mm?)
+histopathology- Poor differentiation: Y/N
+Perineural invasion >/= 0.1mm: Y/N
+BWH staging is assigned giving 1 point to each of the above factors. (T1=0 factors, T2a=1 factor, T2b=2-3 factors, T3=4+ factors) 
+
+Comparison of AJCC vs BWH staging for skin SCC:
+Ruiz et al, JAMA Dermatol. 2019;
+https://jamanetwork.com/journals/jamadermatology/fullarticle/2729752
+In this cohort study of 459 patients with 680 HNCSCC, twice as many tumors were classified as AJCC 8 (T3/T4) high tumor class compared with BWH (T2b/T3) high tumor classes (AJCC 8 18% vs BWH 9%). The AJCC 8 T2 and T3 comprised 23% of cases and had statistically indistinguishable outcomes, whereas the BWH had higher specificity (93%) and positive predictive value (30%) for identifying cases at risk for metastasis or death; C statistics showed BWH to be superior in predicting nodal metastasis and disease-specific death.
+
+
+
+
+read about decisiondx-scc castle biosciences, 3 yr met free survival, classes 
+
+
+
+
+
 DDx:
 BCC
 SCC
