@@ -15,7 +15,12 @@ did not measure pain relief?
 
 
 /Spine SBRT
-16Gy x 1
+
+https://www-ncbi-nlm-nih-gov.liboff.ohsu.edu/pmc/articles/PMC5551391/
+Table 3: Common dose and fractionation schemes based on clinical scenario and prior overlapping RT doses
+6-8Gy x 5
+6-7Gy x 5
+5-7Gy x 5
 
 This ppt from UW has refs for 9Gy x 3 and 6Gy x 5
 https://www.astro.org/ASTRO/media/ASTRO/AffiliatePages/arro/PDFs/ARROCase_SpineSBRT.pdf
