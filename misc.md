@@ -1004,15 +1004,12 @@ For people having radiation therapy: This drug can increase your risk of skin an
 
 
 
-/HCQ /hydroxychloroquine
+/HCQ /hydroxychloroquine /plaquenil
 Even tho we advise holding HCQ during RT, the half life is 40 days!...
-"Furthermore, significant sequestration of the drug by the tissues causes a
-large volume of distribution in the body. In previous studies, the median
-value of the terminal elimination half-life is 40 days"
+"Furthermore, significant sequestration of the drug by the tissues causes a large volume of distribution in the body. In previous studies, the median value of the terminal elimination half-life is 40 days"
 
 https://www.advancesradonc.org/article/S2452-1094(21)00110-X/fulltext
-Case report of SLE pt on HCQ receiving breast RT who developed severe rash,
-even outside of port fields, mostly in sun exposed areas:
+Case report of SLE pt on HCQ receiving breast RT who developed severe rash, even outside of port fields, mostly in sun exposed areas:
 Another possible explanation for her extensive rash is ultraviolet sensitivity, which is a well-described adverse effect of hydroxychloroquine.17 As the rash appeared primarily in a sun-exposed area, there may have been a synergistic effect of therapeutic radiation, which often increases the probability of sunburns, and hydroxychloroquine-induced ultraviolet sensitivity, causing the severe dermatitis. Usually patients with SLE present with chronic radiation dermatitis consequences; however, hydroxychloroquine could have accelerated the timing of the dermatitis’ appearance and spread of a hydroxychloroquine-induced erythema multiforme reaction
 
 https://www.cancerjournal.net/preprintarticle.asp?id=343913
