@@ -3553,10 +3553,17 @@ Generally speaking, PSMA PET Scans using Pylarify (18F-DCFPyL) have been shown t
 for castrate resistant met AcP after progression
 
 /VISION Pluvicto clinical trial, NEJM 2021
+https://www.nejm.org/doi/full/10.1056/NEJMoa2107322
+
 improved OS median of 15.3 months versus 11.3 months
 improved progression-free survival  8.7 months versus 3.4 months.
 toxicities:  dry mouth. blood transfusions and the five deaths attributed to the treatment
 
+Indications: metastatic castration-resistant prostate cancer previously treated with at least one androgen-receptor–pathway inhibitor and one or two taxane regimens; PSMA (Ga68) + 
+
+/Pluvicto dosing
+Lu177
+200 mCi q6 weeks x 6
 
 --
 
