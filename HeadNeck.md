@@ -5,7 +5,6 @@ HN
 
 HPV+, type 16,18, in 25% (favorable prognostic factor) (50% of OP in nonsmokers, 20-30% in laryngeal CA)
 
-
  
 
 De escalated RT for HPV+ OP CA
@@ -19,6 +18,7 @@ Yom
 60Gy
  CTV = GTV + 5mm
  PTV = +3-5mm
+
 54Gy
 
 44-48Gy
