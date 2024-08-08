@@ -984,10 +984,13 @@ neoadjuv chemo
 
 moving toward total neoadjuv therapy
 
-/PROSPECT is a randomized trial for patients with locally advanced rectal cancer comparing standard of care chemoradiation followed by surgery with neoadjuv Chemotherapy alone (FOLFOX) followed by surgery
+/PROSPECT is a randomized trial for patients with locally advanced rectal cancer comparing standard of care chemoradiation followed by surgery with neoadjuv Chemotherapy alone (FOLFOX) followed by surgery.
+NEJM 2023
+DOI: 10.1056/NEJMoa2303269
 
-CONCLUSION:
-
+CONCLUSION: preoperative FOLFOX was noninferior to preoperative chemoradiotherapy wrt DFS.
+MyComments: But the control arm (PreOp CRT) only 'suggested' adjuv FOLFOX, did not mandate it, so does this mean the comparator control arm outcomes might be inferior to the current standard?
+This trial excluded pts w/ >=4 +nodes (>10mm) on pre op imaging.
 
 
 
@@ -1002,22 +1005,10 @@ For most patients with locally advanced rectal cancer who are at high risk for a
 
 =====
 
-//COLON CA
-From NCCN 3.2021:
-PRE OP:
-Neoadjuv Consider chemoRT 45-50Gy for initially unresectable or med inoperable non-metastatic T4 colon CA to aid resectability.
-
-
-From NCCN 3.2021:
-POST OP:
-Consider radiation treatment for T4 with penetration to a fixed structure after surgery.
-
-
-
-
 ===
 
 
+/UPPER rectal, /HIGH rectal
 
 Management of the adenocarcinoma of the upper rectum: a reappraisal
 Updates in Surgery volume 73, pages513–526 (2021)
@@ -1031,6 +1022,26 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4900695/
 Neoadjuvant Treatment in Upper Rectal Cancer Does Not Improve Oncologic Outcomes But Increases Postoperative Morbidity
 Anticancer Research June 2020, 40 (6) 3579-3587; DOI: https://doi.org/10.21873/anticanres.14348
 https://ar.iiarjournals.org/content/40/6/3579
+
+
+
+CHINA
+Radiat Oncol 2024 Jan 18;19(1):8. doi: 10.1186/s13014-024-02403-y.
+Is radiotherapy necessary for upper rectal cancer underwent curative resection? A retrospective study of 363 patients
+
+
+Medicine (Baltimore) 2016 May;95(22):e2990. doi: 10.1097/MD.0000000000002990.
+Long-Term Survival and Local Relapse Following Surgery Without Radiotherapy for Locally Advanced Upper Rectal Cancer: An International Multi-Institutional Study
+
+
+Old SPAIN 2015 study:
+Dis Colon Rectum 2015 Jun;58(6):556-65. doi: 10.1097/DCR.0000000000000349.
+Selective approach for upper rectal cancer treatment: total mesorectal excision and preoperative chemoradiation are seldom necessary
+
+
+CHINA
+Updates Surg 2024 Jun;76(3):949-962. doi: 10.1007/s13304-023-01744-9. Epub 2024 Jan 19.
+Comparative analysis of preoperative chemoradiotherapy and upfront surgery in the treatment of upper-half rectal cancer: oncological benefits, surgical outcomes, and cost implications
 
 
 
