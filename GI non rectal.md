@@ -4,6 +4,21 @@
 
 /Colorectal CA, /Colon CA /CRC
 
+
+//COLON CA
+From NCCN 3.2021:
+PRE OP:
+Neoadjuv Consider chemoRT 45-50Gy for initially unresectable or med inoperable non-metastatic T4 colon CA to aid resectability.
+
+
+From NCCN 3.2021:
+POST OP:
+Consider radiation treatment for T4 with penetration to a fixed structure after surgery.
+
+
+
+
+
 colon does NOT have better prognosis than rectum (stage for stage) even tho easier for colon to be completely resected.
 
 Screening colonoscopy guidelines from ACG: 10 years starting at age 50 years still stands with one modification: screening should begin at age 45 for African American men.
