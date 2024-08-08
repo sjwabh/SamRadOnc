@@ -1,11 +1,8 @@
-
-
-/GI
+/GI (non rectal)
 
 /Colorectal CA, /Colon CA /CRC
-
-
 //COLON CA
+
 From NCCN 3.2021:
 PRE OP:
 Neoadjuv Consider chemoRT 45-50Gy for initially unresectable or med inoperable non-metastatic T4 colon CA to aid resectability.
