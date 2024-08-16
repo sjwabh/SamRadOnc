@@ -6127,16 +6127,17 @@ For cT1-3 cN1 (bx proven prior to chemo), who get neoadjuv chemo, then have SNB+
 
 /B51  RTOG 1304
 For T1-3 N1 Patients with cN+ (bx proven) Before Neoadjuvant Chemo who convert to ypN0
-RCT +- Regional Nodal RT
-For (lumpectomy or mastectomy) & SNB +/- cALND
+after (lumpectomy or mastectomy) & SNB +/- cALND
 
-SABCS 2023 
-https://www.cancer.gov/news-events/cancer-currents-blog/2024/breast-cancer-skip-lymph-node-radiation
-https://clinicaltrials.gov/ct2/show/study/NCT01872975?show_desc=Y#desc
+RCT +- Regional Nodal RT
 
 Primary Aim
 To evaluate whether the addition of regional nodal XRT will significantly reduce the rate of events for invasive breast cancer recurrence-free interval (IBC-RFI) in patients who present with histologically positive axillary nodes but convert to histologically negative axillary nodes following neoadjuvant chemotherapy.
 (B51 allows you to either do a full cALND or just do a SNB after chemo!)
+
+SABCS 2023 
+https://www.cancer.gov/news-events/cancer-currents-blog/2024/breast-cancer-skip-lymph-node-radiation
+https://clinicaltrials.gov/ct2/show/study/NCT01872975?show_desc=Y#desc
 
  
 ---
