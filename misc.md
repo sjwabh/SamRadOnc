@@ -2898,9 +2898,12 @@ Yes, people getting cancer treatment (for instance, radiation or chemotherapy) s
 
 Many people with cancer worry that the flu shot will make them sick or react with other drugs they are taking. Talk to your cancer doctor about this – he or she knows your situation best.
 
-/steroids, topical /dexamethasone /decadron
+/dexamethasone /decadron
 
-TOPICAL STEROIDS
+
+
+/steroids, topical
+/TOPICAL STEROIDS
 
 CLASS 4 (MID POTENCY) 
 triamcinolone .1% cream
