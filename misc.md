@@ -2898,10 +2898,25 @@ Yes, people getting cancer treatment (for instance, radiation or chemotherapy) s
 
 Many people with cancer worry that the flu shot will make them sick or react with other drugs they are taking. Talk to your cancer doctor about this – he or she knows your situation best.
 
-/warfarin /coumadin  interaction w/ /steroids /dexamethasone /decadron
+/steroids, topical /dexamethasone /decadron
 
+TOPICAL STEROIDS
+
+CLASS 4 (MID POTENCY) 
+triamcinolone .1% cream
+15g, 28.4g 45g, 80g
+30g (3mo supply) $18
+Apply thin film to skin twice daily
+
+mometasone .1% cream
+15g, 45g
+15g (3mo) $27
+
+
+
+
+/warfarin /coumadin  interaction w/ steroids
 http://www.medscape.com/viewarticle/553030
-
 Steroids can raise INR by a mean of 1.24 units, at an average of 6.7 days after initiation of steroids.
 
 /recall, radiation
