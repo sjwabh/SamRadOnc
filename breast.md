@@ -5591,54 +5591,44 @@ https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30932-6/fullt
 
 
 
-
-
-
-
-
-RadOnc	
-SamRadOnc Home PageBreastCNSGIGUGynHNLungLymphomamiscOtherPalliative	
-PMRT
 ---
 
 /PMRT
 
- 
+(Consensus statements from ASTRO, ACR, ASCO)
+Tumor > 5cm
+4 or more positive LN (unclear for 1-3 nodes)
+skin or muscle invasion
+
 
 s/p mastectomy, the most common places of recurrence, in order:
-
 1) scar
-
 2) SCV
-
 3) Axilla
-
 4) IMN
-
  
+ /PMRT Indications per CM: 4 Nodes, maybe +Margins with other risk factors, but not Size alone
+CM: For neoadjuv, if SLN+, decide then to give PMRT. 
 
- //PMRT Indications (CM): 4 Nodes, maybe +Margins with other risk factors, but not Size alone
-
+Here's someone else's:
  4 or more +N (30-35% risk LRR)
-
  T3N1 (Size>5cm and 1-3 +N)
  T4
  T3N0 (7-38% LF per Floyd) Probably not, unless LVSI or young age.
 
-
- T1-2N1: 1-3 positive nodes (15% LRR risk) and T1-2:
+maybe T1-2N1: 1-3 positive nodes (15% LRR risk) and T1-2:
     Look at other factors: Age<45, G3, +LVSI, <10 LNs resected, (Triple Negative?, ER negative)
     (NCCN says strongly consider PMRT for 1-3N+, based on EBCTG study.)
 
-    /MacDonald, Red 09, "doi:10.1016/j.ijrobp.2009.01.007". 1-3+LNs. RT improves LRR & DFS. Need at least CW.
+  1-3+  /MacDonald, Red 09, "doi:10.1016/j.ijrobp.2009.01.007". 1-3+LNs. RT improves LRR & DFS. Need at least CW.
      Just need CW alone  (Taghian, MGH, Red 2009, 75:1297)
-
 
 +Margins: if other risk factors (LRF>20%): T3, maybe T2, age<50, G3, +LVSI, (Triple Negative?, ER negative).  
    (o/w risk of LR is <15% w/o RT, hard to prove RT benefit)
-   Retrospective Canadian study, /Truong, Red Int J Radiat Oncol Biol Phys. 2004 Mar 1;58(3):797-804http://www.ncbi.nlm.nih.gov/pubmed/14967436
+ Retrospective Canadian study, /Truong, Red Int J Radiat Oncol Biol Phys. 2004 Mar 1;58(3):797-804
+ http://www.ncbi.nlm.nih.gov/pubmed/14967436
 
-  Don't give PMRT for DCIS for positive margins (Fowble, 2010; UCSF review course 2010).
+Don't give PMRT for DCIS for positive margins (Fowble, 2010; UCSF review course 2010).
 
 Don't use ECE as a reason, cuz it's only a predictor for distant mets, not LR.
 
@@ -5651,99 +5641,42 @@ rib fx, pneumonitis, brachial plexopathy, cardiac toxicity, SMN
  
 
 /T3N0
-
-/Taghian- Review of T3N0 from 5 NSABP trials (JCO 2006, 24: 3927-32)
-
-Low risk of LR 7%, even w/o RT.
-
-Taghian AG, Jeong JH, Mamounas EP, et al. Low locoregional recurrence
-
-rate among node-negative breast cancer patients with tumors 5 cm or
-
-larger treated by mastectomy, with or without adjuvant systemic therapy
-
-and without radiotherapy: results from five national surgical adjuvant
-
-breast and bowel project randomized clinical trials. J Clin Oncol
-
-2006;24:3927–32.
-
- 
-
 /Floyd & Taghian: Review of PMRT for T3N0, RO 2009, "doi:10.1016/j.radonc.2008.09.015"
-
 Looked at 8 studies that had T3N0 pts, and found LF without RT ranged from 7% to 38% (and up to 3 of 5 in one study), which is pretty high, so concludes that PMRT decisions "must be made on an individual basis".
 
- 
+/Taghian- Review of T3N0 from 5 NSABP trials (JCO 2006, 24: 3927-32)
+Low risk of LR 7%, even w/o RT.
+Taghian AG, Jeong JH, Mamounas EP, et al. Low locoregional recurrence rate among node-negative breast cancer patients with tumors 5 cm or larger treated by mastectomy, with or without adjuvant systemic therapy and without radiotherapy: results from five national surgical adjuvant breast and bowel project randomized clinical trials. J Clin Oncol 2006;24:3927–32. 
+
+
+
 
  
 
-CM: For neoadjuv, if SLN+, decide then to give PMRT.
 
- 
-
- 
-
-Indications to treat CW after MRM:
-
-(Donegan, Fowble, Danish, BC)
-
-Consider for any (+) ALN in preMP
-
+PMRT Indications: (Donegan, Fowble, Danish, BC)
+any N+ in premenopausal
 ≥ 4 (+) ALN à 25-30% LRR risk
-
 1-3 (+) ALN à 15% LRR risk
-
 Tumor > 5 cm  à 20-30%  LRR risk
 
- 
-
 PMRT cuts LR in half.
-
  
-
- 
-
-(Consensus statements from ASTRO, ACR, ASCO)
-
-Tumor > 5cm
-
-4 or more positive LN (unclear for 1-3 nodes)
-
-skin or muscle invasion
-
- 
-
-PMRT for N- (/Jagsi, IJROBP 2005)
-
+PMRT for N- (/Jagsi, IJROBP 2005) (OLD)
 Gross > 2cm
-
 Close Margins < 2mm
-
 Premenopausal
-
 +LVI
-
 Recommendation: RT to CW only.
 
- 
 
 Somebody else's indications for PMRT:
-
 Tumor: Size, Location
-
   T3N1, or any T4
-
   inner quad tumors w/ axillary mets
-
 Nodes: Size, #
-
   >4 pos LN
-
   large pos LN > 2.5 cm
-
-ECE
-
  
 
 /ASTRO Guidelines for PMRT for T1-2 with 1-3+ nodes:
@@ -5760,9 +5693,12 @@ For 1-3 nodes: However, some subsets of these patients are likely to have such a
 Strahlenther Onkol. 2014 Aug;190(8):705-14. doi: 10.1007/s00066-014-0687-0.
 http://www.ncbi.nlm.nih.gov/pubmed/24888511
 
-The evidence for improved overall survival and local control following PMRT for T4 tumors, positive resection margins, >3 positive lymph nodes and in T3 N0 patients with risk factors such as lymphovascular invasion, G3 grading, close margins, and young age has increased. Recently identified risk factors such as invasive lobular subtype and negative hormone receptor status were included. For patients with 1-3 positive lymph nodes, the recommendation for PMRT has reached the 1a level of evidence.
+The evidence for improved overall survival and local control following PMRT for T4 tumors, positive resection margins, >3 positive lymph nodes, 
+OR  T3 N0 patients with risk factors such as lymphovascular invasion, G3 grading, close margins, and young age has increased. Recently identified risk factors such as ILC or HR- were included. 
+For patients with 1-3 positive lymph nodes, the recommendation for PMRT has reached the 1a level of evidence.
 
-PMRT is mandatory in patients with T4 tumors and/or positive lymph nodes and/or positive resection margins. PMRT should be strongly considered in patients with T3 N0 tumors and risk factors, particularly when two or more risk factors are present.
+PMRT is mandatory in patients with T4 tumors and/or positive lymph nodes and/or positive resection margins. 
+PMRT should be strongly considered in patients with T3 N0 tumors and risk factors, particularly when two or more risk factors are present.
 
 PLOS One, PMRT Meta-Analysis, Dec 2013; vol 8, issue 12 e81765
 
