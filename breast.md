@@ -3663,14 +3663,18 @@ RT Improved 8yr LR 4% v 12%. (where is this UPDATE?)
 /Boost, Breast
 
 Per ASTRO 2018 guidelines:
+(https://www.practicalradonc.org/article/S1879-8500(18)30051-1/fulltext)
 
 For INVASIVE, Omitting a tumor bed boost is suggested in patients with invasive breast cancer who meet the following criteria: age >70 years with hormone receptor-positive tumors of low or intermediate grade resected with widely negative (≥2 mm) margins.
 
-For DCIS, A tumor bed boost may be omitted in
+For DCIS, A tumor bed boost may be omitted in patients with DCIS who, if age >50 years, meet the following criteria: screen detected, total size ≤2.5 cm, low to intermediate nuclear grade, and widely negative surgical margins (≥3 mm).
 
-patients with DCIS who, if age >50 years, meet the
 
-following criteria: screen detected, total size ≤2.5 cm, low to intermediate nuclear grade, and widely negative surgical margins (≥3 mm).
+in the presence of strong risk factor(s) for local recurrence, such as the single risk factor of positive margins or a combination of risk factors such as young age and close margins, a higher radiation boost dose of 1400 to 1600 cGy in 7 to 8 fractions or 1250 cGy in 5 fractions may also be used.
+
+
+
+
 
  
 
