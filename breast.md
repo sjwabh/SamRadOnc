@@ -5185,92 +5185,56 @@ Conclusion: favorable
  
 
 /B39, RTOG 0413, PBI vs Whole Breast
-
 Eligibility: 3's! 0-3 nodes, <3cm, stage 0,I,II(some)
-
 For DCIS or <3cm IBC, AND <=3 +LNs.
-
-(Mammosite, interstitial brachy, 3DCRT (No IMRT!))
+(Mammosite, interstitial brachy, 3DCRT (Not IMRT!))
 
 Whole breast 50Gy +/- Boost to 60-66Gy
-
 vs
+PBI (Brachy 3.4Gy BID x 10, OR 3DCRT 3.85Gy BID x 10 (5-10 days))
+https://irochouston.mdanderson.org/rpc/credentialing/files/B39_Protocol1.pdf
 
-PBI (Brachy 3.4Gy BID x 10, OR 3.85Gy x 10d 3DCRT)
+3DCRT is comprised of 4-6 non-coplanar beams
+no beams directed toward contralat breast, heart, lung
+CTV = lumpectomy cavity + 15mm margin (except 5mm from skin, not into chest wall)
+PTV +=10mm (for beam aperture generation)
+PTV_Eval = PTV (except 5mm from skin, not into chest wall) (for DVH eval)
 
- 
+DVH Constraints:
+ipsi breast - PTV : V50%<60%
+contralat breast : MaxDose < 3% of PD
+ipsi lung V30%<15%
+contralat lung V5%<15%
+heart V5%<40%
+
 
 /IORT Breast
-
- 
-
 /Intrabeam
-
 50kV x-rays, prescribe 20Gy to surface, falls off to 5-7Gy at 1cm.
-
- 
-
 Use as upfront boost before EBRT, or as sole PBI therapy.
-
 Toxicities: skin telangectasias, skin hyperpigmentation, fibrosis, fat necrosis?, higher rate of seroma formation
-
- 
-
 If upfront boost, wait 5-6wks before starting EBRT, o/w increased risks of long-term toxicities (/Wenz, Breast 2008, PMID 18650091, fibrosis, telangectasias, edema, retractions, hyperpigmentation, pain).
-
- 
-
- 
 
 /c A (Alone): WB vs intrabeam ALONE (Lancet 2010, "NCT00983684", "6736(10)60837-9")
 
 Dose: 20Gy to surface
-
 Eligibility: age>45, T1-3 tumors and N0-1 but not clinically positive, no neoadjuvant therapy, and no multifocal or ILC or EIC.
-
- 
 
 The trial has completed accrual of 2232 patients,  1113 allocated to the intrabeam arm and 1119 to the whole breast arm.  The patients were analyzed on intent to treat.  Of the 996 who received intrabeam, 86% or 854 received intrabeam only and 142 also received whole breast irradiation.  In the whole breast arm, 92% received the specified treatment.  At 4 years (SHORT FU), there is no difference in local recurrence with 6 recurrences in the intrabeam arm and 5 recurrences in the whole breast arm.  There were fewer grade 3 toxicities in the intrabeam arm. 
 
- 
-
- 
-
 /TARGIT B (Boost): WB +/- intrabeam boost
-
- 
-
- 
-
- 
-
- 
-
- 
 
 Tufts website has risk calculator.
 
  
-
 /toxicities, breast RT
-
 lymphedema 15-20%
-
 pneumonitis 1-3%
-
 rib fx 2%
-
 brachial plexus 1%
-
 contralat breast recurrence: 5-10% over 10%
 
-cardiotoxicities for L side: increased CAD by 10%, but no diff in deaths.
-
- 
-
- 
-
- 
+cardiotoxicities for L side: increased CAD by 10%, but no diff in deaths. 
 
 /reconstruction –
 
