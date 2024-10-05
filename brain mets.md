@@ -654,62 +654,51 @@ Showed low 13% LR rate after SRS or SRT.
 
 Closes 3/1/2014
 
-/WBI /ReRT
+================================================================
+ /ReRT WBI
 
 OK if no other option, not RS candidate.
-
 Wait >6-9 mo.
-
 Suh does 250x10 for re-WBI.
 
+Ono meta anal of re-WBRT:
+Re-Whole Brain Radiotherapy May Be One of the Treatment Choices for Symptomatic Brain Metastases Patients
+Cancers (Basel). 2022 doi: 10.3390/cancers14215293
+https://www.mdpi.com/2072-6694/14/21/5293
+
+Skeptical Commentary on the Ono re-WBRT meta analysis.
+https://www.mdpi.com/2072-6694/15/6/1790
+
+
+OLDER...
 Sadikov, PMH, Clin Oncol (R Coll Radiol). 2007 Sep;19(7):532-8, PMID: 17662582
-
 72pts got Re-WBI
-
 Initial 400x5, Re-WBI 250x10 or less.
-
 Results: 1/3 improved, 1/3 stable, 1/3 deteriorated.
-
 If ECOG 0-1 lived longer.
 
 Wong (Mayo Scottsdale), Red 1996, "0360-3016(95)02156-6"
-
 86 pts
-
 Resolution of Neuro Sx: 27%
-
 Partial improvement: 43%
-
 Same or worse: 29%
-
 Med OS 4 mo
-
 Toxicities: 5 pts had imaging changes, 1 pt dementia
 
 Cooper (NYU), Radiology 1990, "1989; revision requested July 24;"
-
 52 pts
-
 Criteria for ReWBI:
-
 1) Remained in good condition x 4 mo after initial WBI
-
 2) Has new neuro deterioration
-
 Initial 300x10, ReWBI 250x10
-
 42% improved neurologically
-
 Med OS 5 mo
 
 Bahl (India), JCRT 09, "DOI: 10.4103/0973-1482.57120"
-
 Review of Re-RT for Brain Mets.
-
 WBI, SRS, Brachy.
 
 Re-WBI only recommended for breast CA, KPS>70, age<60, no extracranial.
-
 Contraindications: progression<4mo.
 
 "Delayed neurological toxicity should also not be an issue in these patients as the detrimental effects of disease progression far outweigh the late effects of the treatment."
@@ -717,53 +706,35 @@ Contraindications: progression<4mo.
 ---------
 
 RTOG 7916
-
 300x10 vs 500x6 BIW, and +/- misonidazole.
-
 859 pts.
-
 No diff in any arm.
 
 RTOG 8528
-
 Dose escalation, hyperFx.
-
 48, 70, 49 Gy/1.69Gy
-
 No diff
 
 RTOG 8905
-
 WBI +/- BrdU
-
 37.5 in 15 Fx.
-
 No Diff.
 
 RTOG 9104 Neurocognitive outcome for pts w/ multiple brain mets, Phase III
-
 160 BID to 5440 vs 300x10
-
 No OS diff.
 
 Uncontrolled brain mets is bad. (??)
 
 /MGd,  /Motexafin Gd
-
 /SMART study, Mehta ASTR2006
-
 WBI+-MGd
-
 No OS diff.
-
 Improved Time to neurologic progression
-
 Helped delay time to neurocognitive decline
-
 Delayed time to loss of functional independence
 
 0230 for brain mets??
-
 WBI + RS + some chemo (temodar? tarceva?)
 
 ---
