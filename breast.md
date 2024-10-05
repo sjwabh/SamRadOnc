@@ -2618,165 +2618,89 @@ That being said, I looked at some papers I have regarding IMRT planning for left
 
 /Axillary /Nodes, Breast /Nodal /Node RT  /ALND /AXD
 
- 
 
 /Manterola, Clinical Breast Cancer, Feb 2016
-
 Current Status of Radiotherapy for the Management of Regional Nodes in Breast Cancer
-
 http://www.clinical-breast-cancer.com/article/S1526-8209(15)00222-0/abstract
-
 Toxicities: lymphedema, numbness, limited ROM.
 
- 
 
- 
+/Whelan, NEJM 2015
++-RNI
+Conclusion: RNI improved DFS 82% v 77% (CI, 0.61 to 0.94; P = 0.01), but no OS diff.
+https://www.nejm.org/doi/pdf/10.1056/NEJMoa1415340
+50Gy in 25
+Optional Boost 10-16Gy
 
 French study: +/- ALND
-
 Institut Curie, /Louis-Sylvestre, JCO 2004, "DOI: 10.1200/JCO.2004.12.108"
-
 < 3cm, cN0. (No SNB?)
-
 WLE + RT to breast and LN +/-ALND
-
 There was better axillary control in the ALND group: 1% v 3%.
-
 But no diff in 15yrOS ~75%. No diff in recurrences in breast, SCV, or distant.
-
- 
-
  
 
 /MIRROR, Dutch. (CRA506, ASCO 2009) "J Clin Oncol 27:18s, 2009 (suppl; abstr CRA506)"
-
 Study of pts w/ pN0(i+)(ITC) or pN1(mic).
-
 pN1(mic)(SN) had worse 5yr axillary recurrence if no cALND or ax RT (HR 4.45 (1.46-13.54)).
-
 pN0(i+)(ITC) had no diff in 5yr axillary recurrence w or w/o cALND or ax RT.
-
 Conclusion: pN0(i+) doesn't need cALND or axRT, but pN1(mic) needs either cALND or axRT.
-
 Risk factors:  (see FH Maui 2010 slides)
-
 Log T size 8.62 (1.4–54) 0.021
-
 Hist Grade 3 25.05 (1.3–497) 0.035
-
 Neg ER / PR 4.96 (1.5–17) 0.010
-
- 
-
  
 
 EORTC 22922, 22922/10925
-
 IM & Medial SCV RT after BCT or MRM
-
 "Phase III randomized trial investigating the role of internal mammary and medial supraclavicular (IM-MS) lymph node chain irradiation in stage I-III breast cancer (Joint study of the EORTC Radiotherapy Cooperative Group and the EORTC Breast Cancer Cooperative Group EORTC 22922/10925)"
-
 Closed 2004. 
-
 Abstract results presented at ECC 2013:
-
 http://oncozine.com/profiles/blogs/radiation-therapy-to-the-lymph-node-improves-survival-in-patients
-
 http://www.esmo.org/Conferences/Past-Conferences/European-Cancer-Congress-2013/News/ECC-2013-Press-Release-Treating-Chest-Lymph-Nodes-in-Patients-with-Early-Breast-Cancer-Improves-Survival-Without-Increasing-Side-Effects
-
 http://www.eortc.org/news/news-from-the-2013-european-cancer-congress/
-
 Single IMC-MedialSCV field.
-
 3D CT planning not required.
-
- 
-
 Toxicity @3yrs: Only lung (fibrosis; dyspnoea; pneumonitis; any lung toxicities) (4.3% vs. 1.3%; p < 0.0001) but not cardiac toxicity (0.3% vs. 0.4%; p = 0.55) significantly increased with IM-MS treatment. No significant worsening of the PS was observed (p = 0.79), suggesting that treatment-related toxicity does not impair patient's daily activities.  (Too early to really tell cardiac toxicities)
 
- 
-
- 
-
- 
-
- 
-
- 
 
 Risks of Nodal involvement:
-
 T1a   11%
-
 T1b   15-20%
-
 T1c   33%
 
- 
-
- 
-
 *Also remember the “cm x 15” rule for likelihood of +ALN based on tumor size:
-
 T1b   <1cm        20%
-
 T1c   1-2 cm      33%
-
 T2    2-3 cm      45%
-
 T2    3-4 cm      50%
-
 T2    4-5 cm      60%
-
 T3    >5 cm       70%
-
- 
-
- 
 
 Risk of nodal failure after any nodal treatment (ALND, RT, both): <4%
 
- 
-
 Chance of skip mets to Level III: 0.2-0.3%
-
- 
 
 /minimum lymph nodes resected: 10 per B04, 6 per Recht, or >15 nodes
 
 /Recht: 6 nodes minimum, Regional nodal failure after conservative surgery and radiotherapy for early-stage breast carcinoma. JCO 1991;9(6):988-996.
 
 If <6, greater risk of axillary failure.
-
 (median of 7 in Danish 82b, 82c was too low)
-
  
 
 /NR 20-25% /nodal ratio: #+LN / #resected nodes.
-
   MDACC LRR 25-30% if NR < 20%.
 
- 
-
- 
 
 /SCV and /PAB: When to add?
-
- 
-
 If No SNB,
-
   Treat axilla if LN risk > 10% (T1b and above)
-
   Add SCV if can tolerate lung fibrosis.
-
- 
-
 If +SNB, but no ALND,
 
 Favor more completion ALND over RT if possible, so less lung CA risk. STILL TRUE??
 
- 
 
 But +SNB but if no ALND (can't, won't, or shouldn't..):
 
@@ -2813,10 +2737,7 @@ If >=4 +N and UIQ (shouldn't we do it for LIQ too?), add IMN
  
 
 /ECE
-
 /+ECE is thought to be more of a predictor for distant spread, rather than local recurrence.
-
- 
 
 /IBCSG VI says no.
 
