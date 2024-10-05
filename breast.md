@@ -1,21 +1,10 @@
 SamRadOnc
-
-//breast
-
-.
-.
-
-
 //Breast CA
-
-
-
 
 //ki67
  Your Ki-67 Results Less than 10% is considered low. 20% or higher is considered high. Does a high Ki-67 mean chemo? In subgroup analysis, a higher Ki-67 value (≥25%) was a significant predictive factor for the response to neoadjuvant chemotherapy, especially in ER-negative and HER2-positive breast cancer patients.
 or is it <5% and >30%
 
- 
 
 
 intramammary nodes make it N1
@@ -3571,16 +3560,28 @@ LR 11.6% v 27.2%
 
  
 
+/elderly 
 
-
-
-/OLDER /elderly, Age>70, T1N0 (<2cm), ER+
+Age>70, T1N0 (<2cm), ER+
 
 2024 01 UpToDate: Omission of breast RT for Elderly
 One trial has suggested that omission of radiation in patients ≥55 years of age with small, luminal breast cancers may be possible, although this is not standard practice. The LUMINA trial [NCT01791829] included 500 females ≥55 years with T1N0, grade 1 or 2, luminal A-breast cancer treated with breast-conserving surgery and endocrine therapy alone (no radiation), the incidence of local recurrence at five years was low (2.3 percent) [76]. Breast cancer occurred in the contralateral breast at a comparable rate of 1.9 percent. Recurrence of any type occurred in 2.7 percent. In this trial, luminal A was defined as ER ≥1 percent and progesterone receptor >20 percent, negative HER2, and Ki67 ≤13.25 percent.
 
 Ongoing clinical trials (eg, the IDEA [NCT02400190], and PRECISION [NCT02653755] trials) are evaluating whether genetic assays such as the Oncotype recurrence score or PAM50 risk of recurrence score may identify other women in whom RT may be omitted without meaningfully increasing the risk of recurrence. Although these data are provocative, they are preliminary and should not be incorporated into routine clinical care. Ongoing trials are also underway to address the use of genomic signatures in reducing the administration of radiation for highly favorable breast cancers, as well as comparing adjuvant APBI versus aromatase inhibitors in older patients [77].
 
+
+OMITTING POST-LUMPECTOMY RT for ELDERLY
+Am J Surg . 2019 Dec;218(6):1229-1233. doi: 10.1016/j.amjsurg.2019.08.004
+Are we choosing wisely in elderly females with breast cancer?
+age>70
+RT was given to 57% of patients with T1 ER + Her2-prior to 2013 vs. 27% after.
+SLNB was performed in 91% of patients with T1, grade1/2, ER + Her2-tumors prior to 2016 vs. 56% after.
+
+This contributed to the recommendation in 2016 from the American College of Surgeons to omit radiation therapy (RT) for women over 70 with T1N0M0 hormone receptor positive (HR+) breast cancer after lumpectomy
+
+NEJM 2023
+Whelan, Omitting RT after BCS in Luminal A
+https://www.nejm.org/doi/full/10.1056/NEJMoa2302344
 
 
 Breast Cancer in Geriatric Patients: Current Landscape and Future Prospects
