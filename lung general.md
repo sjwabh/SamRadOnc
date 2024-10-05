@@ -1,28 +1,28 @@
 
-RadOnc	
-SamRadOnc Home PageBreastCNSGIGUGynHNLungLymphomamiscOtherPalliative	
-Lung
- 
+SamRadOnc
+Lung General
+(maybe you should re consolidate lung PORT and lung SBRT into this one...)
 
 //Lung CA
 
-Incidence: 222,000 (13% SCLC) in 2010
-
- 
-
-Peripheral: adeno, large cell
-
-Central are Squamous, Small cell (the 3 S's!)
-
- 
-
-Median Age 70
-
- 
-
 80% of cases assoc w/ smoking.
-
 <5% assoc w/ asbestosis (adenoCA) (plumbers, pipe fitters). (RR 6)
+
+
+ /esophagitis, radiation-induced
+Esophagitis from lung RT
+https://www.themednet.org/question/356
+Kenneth Olivier, Mayo Clinic, 2020:
+Limit CTV expansions for mediastinal nodes
+READ THIS Yuan paper: https://www.ncbi.nlm.nih.gov/pubmed/17293231
+CTV 3mm margin
+and cut out of esoph/heart/trach
+then PTV 5mm margin
+
+From Sri Kottapally, MD, UPMC:
+Fluc 150 weekly (check LFTs & renal fcn beforehand)
+gabapentin (high dose up to 600 TID)
+
 
  
 
