@@ -2,6 +2,20 @@
 RadOnc	
 HN
 //HN //Head & Neck
+(BE SURE TO ALSO CHECK OROPHARYNX.TXT...)
+
+
+RTOG 0129
+ECOG 1308
+Reduced-Dose Radiation Therapy for HPV-Associated Oropharyngeal Carcinoma (NRG Oncology HN002)
+Yom, et al. 
+Phase II RCT 
+both arms were for favorable p16+
+compared IMRT 60Gy + C (in 6 wks) vs IMRT 60Gy in 5 wks
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8078254/
+
+
+
 
 HPV+, type 16,18, in 25% (favorable prognostic factor) (50% of OP in nonsmokers, 20-30% in laryngeal CA)
 
