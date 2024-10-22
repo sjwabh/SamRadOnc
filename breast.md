@@ -1,6 +1,31 @@
 SamRadOnc
 //Breast CA
 
+
+/ReRT
+/1014 NRG/RTOG
+Effectiveness of Breast-Conserving Surgery and 3-Dimensional Conformal Partial Breast Reirradiation for Recurrence of Breast Cancer in the Ipsilateral Breast
+JAMA Oncol 2020 Jan 1;6(1):75-82. doi: 10.1001/jamaoncol.2019.4320.
+
+TWO publications:
+1) RedJournal : Primary end points for this phase 2 protocol was treatment-related skin, fibrosis, and/or breast pain adverse events (AEs)
+https://www.redjournal.org/article/S0360-3016(17)30702-2/abstract
+
+2) JAMA Oncol 2020: Secondary end points
+
+METHODS
+size<3cm, -M, 0-3+N, -ECE
+recurrence > 1yr out
+CTV 15mm (chest wall structures and pectoralis muscles were not included) and 5 mm from the skin surface.)
+PTV 10mm ( exclude the first 5 mm of tissue under the skin and any of the PTV expansion beyond the posterior extent of breast tissue)
+3DCRT (beam arrangements at discretion of MD, FiF accepted)
+150 BID x30 = 45Gy
+
+
+
+
+
+
 //ki67
  Your Ki-67 Results Less than 10% is considered low. 20% or higher is considered high. Does a high Ki-67 mean chemo? In subgroup analysis, a higher Ki-67 value (≥25%) was a significant predictive factor for the response to neoadjuvant chemotherapy, especially in ER-negative and HER2-positive breast cancer patients.
 or is it <5% and >30%
