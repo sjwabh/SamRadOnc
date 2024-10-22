@@ -1540,8 +1540,16 @@ https://clinicaltrials.gov/ct2/show/NCT02492607
 ASTRO Choosing Wisely: omitting whole breast RT in elderly
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8797447/
 
-IMPORT LOW is the narrow tangents method of partial breast
+UK /IMPORT LOW is the narrow tangents method of partial breast
 https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)31145-5/fulltext
+non inferiority RCT Phase 3
+age>50
+size<3cm
+0-3 +N
+narrow tangents 40 in 15
+CTV +=15mm but 5mm from skin AND not beyond pec fascia
+PTV +=10mm but 5mm from skin 
+Block Margin +=10mm (sup-inf) (Max Lung Depth <2cm)
 
 
 
