@@ -2,7 +2,7 @@ SamRadOnc
 //Breast CA
 
 
-/ReRT
+/ReRT 
 /1014 NRG/RTOG
 Effectiveness of Breast-Conserving Surgery and 3-Dimensional Conformal Partial Breast Reirradiation for Recurrence of Breast Cancer in the Ipsilateral Breast
 JAMA Oncol 2020 Jan 1;6(1):75-82. doi: 10.1001/jamaoncol.2019.4320.
@@ -22,6 +22,12 @@ PTV 10mm ( exclude the first 5 mm of tissue under the skin and any of the PTV ex
 150 BID x30 = 45Gy
 
 
+
+/PBI fractionation options
+IMPORT LOW: PBI 267x15 QD
+B39 3DCRT PBI was 385 BID x 10 (?!)
+PBI 340 BID x 10?
+reRT: RTOG 1014: PBI 150 BID x 30 to 45Gy
 
 
 
