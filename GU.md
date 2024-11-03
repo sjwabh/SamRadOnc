@@ -814,12 +814,16 @@ Should this chemo replace the cis-based standard?  Don't know yet.
 /BC2001
 Randomized Noninferiority Trial of Reduced High-Dose Volume Versus Standard Volume Radiation Therapy for Muscle-Invasive Bladder Cancer: Results of the BC2001 Trial (CRUK/01/004)
 Huddart et al, Int J Radiat Oncol Biol Phys. 2013 Oct 1;87(2):261-9. doi: 10.1016/j.ijrobp.2013.06.2044.
-http://www.redjournal.org/article/S0360-3016(13)02751-X/abstract
+https://www.redjournal.org/article/S0360-3016(13)02751-X/fulltext
 This part of the 2x2 trial closed early due to slow accrual.
 Low overall rate of late toxicities. Everyone did well. Didn't see less toxicity in the reduced volume group.
 Couldn't quite prove non-inferiority.
 Only 12% needed salvage cystectomy.
 They didn't treat pelvic nodes.
+Study Centers had to choose upfront between 64Gy in 32 vs 55Gy in 20  (fractionation was NOT randomized).
+Control Group: whole bladder
+Intervention Group: partial bladder (100% to GTV, 80% to rest of bladder)
+
 
 
 
