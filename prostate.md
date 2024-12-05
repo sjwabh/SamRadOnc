@@ -2,6 +2,45 @@ Prostate
 //AcP //Prostate CA
 
 
+## Radiation Types
+
+**Lutetium-177 (Pluvicto)**
+- Beta-minus radiation (79% at 0.498 MeV maximum energy)
+- Gamma radiation at 0.208 MeV (11%) and 0.113 MeV (6.4%)[2]
+- Mean tissue penetration of 0.67mm with maximum penetration of 2mm[2]
+
+**Radium-223 (Xofigo)**
+- Alpha particles: 95.3% of total energy (5.0-7.5 MeV)
+- Beta particles: 3.6% of energy (0.445 MeV and 0.492 MeV average)
+- Gamma radiation: 1.1% of energy (0.01-1.27 MeV)[1]
+
+## Decay Properties
+
+| Property | Pluvicto | Xofigo |
+|----------|-----------|---------|
+| Half-life | 6.647 days[2] | 11.4 days[1] |
+| Decay Product | Stable hafnium-177[2] | Lead-207[1] |
+| Decay Process | Single step | Six-stage decay[1] |
+
+## Activity Concentrations
+
+**Pluvicto**
+- 1 GBq/mL (27 mCi/mL)
+- Total activity per vial: 7.4 GBq ± 10%[2]
+
+**Xofigo**
+- 1100 kBq/mL (29.7 microcurie/mL)
+- 6600 kBq per vial (178 microcurie)[1]
+
+Citations:
+[1] https://www.bayer.com/sites/default/files/xofigo-pm-en.pdf
+[2] https://www.novartis.com/sg-en/sites/novartis_sg/files/Pluvicto-Apr2022.SIN-app181223-pdf.pdf
+[3] https://www.cancerabcs.org/advanced-prostate-cancer-blog/2022/8/29/which-is-better-177lu-psma-617-pluvicto-or-xofigo
+[4] https://www.medicalnewstoday.com/articles/drugs-pluvicto
+[5] https://www.targetedonc.com/view/radionuclide-approaches-gain-ground-in-metastatic-crpc
+
+
+
 
 FORMULA-509 
 A Multicenter Randomized Trial of Post-Operative Salvage Radiotherapy and 6 Months of GnRH Agonist with or Without Abiraterone Acetate/prednisone and Apalutamide Post-Radical Prostatectomy
