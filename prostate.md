@@ -42,6 +42,29 @@ Citations:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 FORMULA-509 
 A Multicenter Randomized Trial of Post-Operative Salvage Radiotherapy and 6 Months of GnRH Agonist with or Without Abiraterone Acetate/prednisone and Apalutamide Post-Radical Prostatectomy
 (ASCO GU 2023) 
