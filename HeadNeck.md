@@ -4,6 +4,40 @@ HN
 //HN //Head & Neck
 (BE SURE TO ALSO CHECK OROPHARYNX.TXT...)
 
+re-RT H&N
+
+ctDNA https://pubmed.ncbi.nlm.nih.gov/39212345/
+
+
+Norway did 150 BID to 60Gy over 4 weeks
+
+Italy 2019 systematic lit review of 39 studies
+ median gap interval 28 mos
+ toxicities: radionecrosis, dysphagia requiring feeding tube, trismus, 4% rate of carotid rupture
+ Conclusions: HNC re-irradiation is feasible at the cost of severe late toxicity in about one-third of patients.
+ Phan: clinical target volume >50cc was significantly associated with both acute and late grade ≥3 toxicities. 
+ Lee: >20mo interval does better
+ Takiar: adding chemo increases toxicities
+ 5.8% risk of ORN. The dose range to the mandible for the 5 patients developing mandibular ORN was 104–128Gy.
+
+carotid rupture:
+Of note, in the selected studies with conventional fractionation, the median lifetime doses for patients who died from fatal bleeding was 126Gy [48], [52], [30], [43]. The value of 126Gy is below the therapeutic cumulative dose that should be given to the tumor for an effective re-irradiation treatment, considering a dose of 70Gy EQD2-10 for the first course and a dose of 60–66Gy for definitive re-irradiation [53].
+
+KOREA 2018:
+ In multivariate analysis, higher re-RT dose (≥66 Gy), longer time interval (>2 years), and use of concurrent chemotherapy were associated with improved locoregional recurrence-free survival (all p<0.05)
+
+MULTI-CENTER STUDY (Red 2018): https://pubmed.ncbi.nlm.nih.gov/29413274/
+505 pts from 8 institutions
+median reRT dose 60Gy
+hyperFx in 20%
+systemic tx in 77%
+>66Gy reRT improved LRF, OS
+acute G3 toxicity 22%
+late G3 toxicity 17%
+Hyperfractionation also did not significantly alter the incidence of late effects, with a 2-year rate of 14.9% for those treated twice daily compared with 11.1% for those treated daily (P = .264).
+
+
+
 
 RTOG 0129
 ECOG 1308
