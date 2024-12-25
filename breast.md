@@ -2,6 +2,7 @@ SamRadOnc
 //Breast CA
 
 
+
 /ReRT 
 /1014 NRG/RTOG
 Effectiveness of Breast-Conserving Surgery and 3-Dimensional Conformal Partial Breast Reirradiation for Recurrence of Breast Cancer in the Ipsilateral Breast
@@ -5879,6 +5880,13 @@ CONCLUSION:
 
 
 
+
+T-DM1 vs T-DXd, interactions with SRT/SRS
+T-DM1 . Kadcyla .  ado-trastuzumab emtansine
+  topoisomerase inhibitor?
+T-DXd . Enhertu . trastuzumab deruxtecan
+  mechanism of action: ...microtubule??
+The DESTINY-Breast07 (DB-07) study, as mentioned in search result 2, is investigating the safety, tolerability, and antitumor activity of T-DXd in patients with HER2-positive metastatic breast cancer and active brain metastases. While this study does not specifically address the risk of radionecrosis with radiosurgery, it may provide valuable insights into the safety profile of T-DXd in patients with brain metastases, some of whom may have received prior local therapy.
 
 
 
