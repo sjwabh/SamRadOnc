@@ -66,8 +66,20 @@ https://lh3.googleusercontent.com/IHLDu-80qG_8I1YmXGzeSDEulX5F9v-RC0G73TSxPETuvq
 
 Mayo, Ann Neuro 1995:  Safe to do 200x10, or 225x10, or 250x10.
 
-/SBRT spine  /Spine SBRT
+/SBRT spine  
 
+EBRT May Be Better Than SRS for Reducing Pain in Patients With Spine Metastases
+https://www.cancertherapyadvisor.com/news/ebrt-srs-spine-metastases-reducing-pain/
+phase 3 NRG Oncology/RTOG 0631 trial (ClinicalTrials.gov Identifier: NCT00922974)
+Randomly assigned 2:1 to receive SRS (n=217) or EBRT (n=136)
+Spine SRS 16-18Gy vs single Fx 8Gy
+Eligibility: 1-2 adjacent vert bodies w/ minimal soft tissue extension. 
+Objective: Improve Pain control?
+RESULTS:
+41.3% of patients who received SRS and 60.5% of patients who received EBRT experienced a pain response (1-sided P =.99; 2-sided P =.01). The researchers noted that the proportion of SRS recipients who experienced pain relief was HALF of what was expected based on prior experiences at single institutions. 
+
+
+/Spine SBRT
 8Gy x 3 = 24Gy
 
 GTV is tumor
@@ -181,14 +193,6 @@ Max
 Cord 10x1 6x3 UPMC (too strict?)
 
 V10<10% Henry Ford, MSKCC, MDACC, Stanford
-
-RTOG 0631 Open
-
-Spine SRS 16Gy vs single Fx 8Gy
-
-Eligibility: 1-2 adjacent vert bodies w/ minimal soft tissue extension.
-
-Objective: Improve Pain control?
 
 ====
 
