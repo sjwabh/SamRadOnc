@@ -956,7 +956,7 @@ Reliable prognostic biomarkers of grade II gliomas remain unclear. This study ai
 
 Avastin for GBM
 
- doesn't have to cross BBB, since it sequesters VEGF from the systemic circulation.
+doesn't have to cross BBB, since it sequesters VEGF from the systemic circulation.
 
 RTOG 0825
 
@@ -966,15 +966,22 @@ RCT
 
 stratified by 9 gene progostic test
 
-/GBM ReRT
+/GBM ReRT /Recurrent GBM
+RTOG 1205 Phase 2 Trial: Bev +- reRT 35 in 10
+https://pubmed.ncbi.nlm.nih.gov/36260832/
+J Clin Oncol 2023 Feb 20;41(6):1285-1295. doi: 10.1200/JCO.22.00164. Epub 2022 Oct 19.
+182pts
+RESULT: Improved 6mo PFS but not medOS.
+med PFS 7.1 v 3.8 mo (p=.05)
+no medOS improvement: 10.1 v 9.7 mo
+5% G3 toxicities
 
-RTOG 1205
+CTV += 0-5mm (optional for lesions <35mm diameter)
+PTV += 3mm (minimum)
 
-Avastin & RT 35 in 10.
 
-/GBM
 
-/Optune /alternating electric field therapy
+/TTF /Optune /alternating electric field therapy
 
 An interim analysis of the study demonstrated statistically significant improvement in both PFS and overall survival (OS) of approximately 3 months in the experimental versus control arm.
 
