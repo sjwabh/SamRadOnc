@@ -1696,6 +1696,8 @@ Zytiga 1,000 mg (four 250 mg tablets) administered orally once daily in combinat
 (both about the same but maybe XTANDI has the edge...)
 
 James, et al. Abiraterone for Prostate Cancer Not Previously Treated with Hormone Therapy. N. Engl. J. Med. 377, 338–351 (2017)
+https://www.nejm.org/doi/10.1056/NEJMoa1702900
+Eligibility (partial list): newly diagnosed and metastatic, node-positive, OR high-risk locally advanced (with at least TWO of following: a tumor stage of T3 or T4, a Gleason score of 8 to 10, and a PSA level ≥40 ng per milliliter) or ...
 
 
 
