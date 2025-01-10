@@ -1693,8 +1693,13 @@ or
 /abiraterone w/ prednisone /ZYTIGA - CYP17 inhibitor. 
 
 Zytiga 1,000 mg (four 250 mg tablets) administered orally once daily in combination with prednisone 5 mg administered orally twice daily
-
 (both about the same but maybe XTANDI has the edge...)
+
+James, et al. Abiraterone for Prostate Cancer Not Previously Treated with Hormone Therapy. N. Engl. J. Med. 377, 338–351 (2017)
+
+
+
+
 
 or chemo:
 
