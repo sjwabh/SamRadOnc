@@ -314,7 +314,12 @@ HD MLC w/ 2.5mm leaves
 Brainstem Max <14-15Gy,  (CM: 1%<15Gy, or 5%<12Gy)
 
 
-BRAINSTEM SRS/SRT
+/BRAINSTEM SRS/SRT
+
+Stereotactic radiosurgery and radiotherapy for brainstem metastases: An international multicenter analysis
+Ehret, I J Cancer, May 2024.
+https://doi.org/10.1002/ijc.34980
+https://onlinelibrary.wiley.com/doi/10.1002/ijc.34980
 
 SRS for Brainstem, Red 2016
 https://www-ncbi-nlm-nih-gov.liboff.ohsu.edu/pmc/articles/PMC5014646/?report=reader#!po=44.7368
