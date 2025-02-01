@@ -2,6 +2,14 @@ misc
 
 /NTT Normal Tissue Tolerances:  
 
+Emami 2013 https://applications.emro.who.int/imemrf/Rep_Radiother_Oncol/Rep_Radiother_Oncol_2013_1_1_35_48.pdf
+CORSAIR 2022 
+https://www.mdpi.com/1718-7729/29/10/552
+
+Large Bowel		V45Gy<20cc
+				V35Gy<150cc
+				V30Gy<200cc
+
 /QUANTEC
 https://en.wikibooks.org/wiki/Radiation_Oncology/Toxicity/QUANTEC
 
