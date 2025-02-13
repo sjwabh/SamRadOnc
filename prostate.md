@@ -1,6 +1,8 @@
 Prostate
 //AcP //Prostate CA
 
+ExoDx Prostate Intelliscore (EPI) 45 (high) predicted increasing risk of high grade prostate CA.
+
 
 ## Radiation Types
 
