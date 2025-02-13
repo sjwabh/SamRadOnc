@@ -13,6 +13,25 @@ primary outcome measure was ambulatory status. p=NS.
 did not measure pain relief?
 
 
+https://radiopaedia.org/articles/epidural-spinal-cord-compression-scale?lang=us
+Bilsky Scale for ESCC 
+The scale is nominally a 4-point scale, but grade 1 is further subdivided into 1a, 1b and 1c, making it a 6-point scale in practice 1. Increasing grades denote increasing degrees of stenosis:
+
+grade 0: bone-only disease
+
+grade 1: epidural extension without cord compression
+1a: epidural extension only (no deformation of the thecal sac)
+1b: deformation of the thecal sac, without spinal cord abutment
+1c: deformation of the thecal sac, with spinal cord abutment
+
+grade 2: spinal cord compression, with cerebrospinal fluid (CSF) visible around the cord
+
+grade 3: spinal cord compression, no CSF visible around the cord
+
+-
+
+
+
 
 /Spine SBRT
 
