@@ -24,6 +24,20 @@ Fluc 150 weekly (check LFTs & renal fcn beforehand)
 gabapentin (high dose up to 600 TID)
 
 
+Quantec Lung:
+
+Spinal Cord Max<50Gy
+
+Lung Mean<20Gy 20%
+Lung Mean<24Gy 30%
+Lung Mean<27Gy 40%
+Lung V20<30%   
+
+Esophagus V35<50% 
+Esophagus V50<40% 
+Esophagus V70<20%
+Esophagus Mean <34Gy
+
  
 
 WORKUP, LUNG CA:
