@@ -24,12 +24,6 @@ PTV 10mm ( exclude the first 5 mm of tissue under the skin and any of the PTV ex
 
 
 
-/PBI fractionation options
-IMPORT LOW: PBI 267x15 QD
-B39 3DCRT PBI was 385 BID x 10 (?!)
-PBI 340 BID x 10?
-reRT: RTOG 1014: PBI 150 BID x 30 to 45Gy
-
 
 
 
@@ -4998,38 +4992,35 @@ RTOG /1005 Protocol
 
 A Phase III Trial Of Accelerated Whole Breast Irradiation With Hypofractionation Plus Concurrent Boost Versus Standard Whole Breast Irradiation Plus Sequential Boost For Early-Stage Breast Cancer
 
- 
-
- 
-
- 
-
- 
-
- 
 
 /Cosmesis, Breast
-
 Scoring System:
+BCTOS Cosmesis Scale
 
-BCTOS Cosmesis Scale:
-
- 
 
  
 
-/PBI /APBI Partial Breast Irradiation:
+//PBI /APBI Partial Breast Irradiation:
+treats surgical cavity + 1-2cm.
+Rationale: most LR are near surgical cavity.
+Using brachy, IMRT, IORT, 3D, tangents
+
+/PBI fractionation options
+IMPORT LOW: PBI 267x15 QD
+B39 3DCRT PBI was 385 BID x 10 !
+Brachy PBI Dose: 3.4Gy BID x 10 fractions
+Photon PBI Dose: 3.85Gy BID x 10, prescribed to edge of target
+reRT: RTOG 1014: PBI 150 BID x 30 to 45Gy
+
 
 PBI Review, Frontiers Oncology 2022:
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9685302
 
-/Florence 30 in 5 IMRT, JCO 2020
+/Florence 30 in 5 IMRT, JCO 2020, Meattini
 https://pubmed.ncbi.nlm.nih.gov/32840419
 https://ascopubs.org/doi/10.1200/JCO.20.00650?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed
 
-Florence APBI: IMRT 30 in 5
 FLORENCE Constraints
-
 CTV : 1cm margin, >3mm from skin
 PTV : another 1cm margin, <4mm into lung, >3mm from skin
 5 static coplanar beams
@@ -5044,34 +5035,35 @@ heart V3<10%
 
 
 
+Another in NCCN:
+Lo Faro L, Fogliata A, Franceschini D, et al. Adjuvant hypofractionated whole breast irradiation (WBI) vs. accelerated partial breast irradiation (APBI) in postmenopausal women with early stage breast cancer: 5 years update of the HYPAB trial. Clin Breast Cancer 2024;24:253-260.
+https://pubmed.ncbi.nlm.nih.gov/38220538/
+VMAT-RA technique
+INCLUSION:
+55 < Age < 70
+T1, T2 (< 3 cm) pN0 (sentinel node (SN) biopsy or ALND)
+ER/PgR positive
+Margins > 5 mm (either at initial surgery or at re-excision)
+Clips placed in the surgical bed (minimum of 4 clips)
+Unicentric only
+No lymphovascular invasion
+Any grade
+No extensive intraductal component (> 25%)
+
+
+
 
 
 Besides the obvious contraindications (N+, >3cm, multi-centric, ...),
-
 Other features that may also make patients less than optimal candidates for APBI:
-
 LVSI, ILC, TNBC, HER2+, BRCA1/2 <50yo
 
-
-
-
-
-surgical cavity + 1-2cm.
-
-Rationale: most LR are near surgical cavity.
-
 Concerns: long term results? pt selection?
-
  
 
-Using brachy, IMRT, IORT, ..
+PBI Eligibility
 
-Eligibility
-
- 
-
-ASTRO consensus statement 7/15/2009 for APBI eligibility:
-
+ASTRO consensus statement 7/15/2009 (NEEDS UPDATED 2023?) for APBI eligibility:
 suitable, cautionary, unsuitable.
 
 Suitable: age>60, No BRCA, No EIC, tumor<2cm, margins >=2mm, ER+, No LVSI, pN0, no neoadjuv therapy, no multicentricity. (No pure DCIS)
@@ -5080,71 +5072,26 @@ Cautionary: Any 1 of: age<60, T2, pure DCIS <3cm, close margins (<2mm), focal LV
 
 Unsuitable: Any 1 of: neoadjuvant chemo, tumor>3cm, +M, +N, No ALND, extensive LVSI, multicentricity, DCIS>3cm, BRCA+.
 
- 
 
 (American Society of Breast Surgeons: Consensus Statement):
-
 age>45, Tumor<3cm (2cm?), M- (>2mm), N-, IDC or DCIS
-
- 
 
 ABS: age>50, <3cm, N-, IDC, M-, no multicentric, no CTD.
 
-  Relative contraindications: EIC, multifocal
-
- 
-
- 
-
-Brachy PBI Dose: 3.4Gy BID x 10 fractions
-
-Photon PBI Dose: 3.85Gy BID x 10, prescribed to edge of target
-
- 
+Relative contraindications: EIC, multifocal
 
 PBI Target: cavity+1cm
 
- 
-
 /Mammosite: single channel
-
 /Contura: 4 channel
-
 cavity ~4cm
-
 Need skin bridge of at least 4mm with /Contura balloons, otherwise >7mm
-
 Keep skin dose<145%(?)
-
 Prescribe to 1cm depth.
-
 200% IDL < 10cc
-
 150% IDL < 50cc
 
- 
 
- 
-
-Vicini, WBH, Red 07
-
-APBI
-
-FU 8.6yr
-
-T1N0
-
-tumors size<3cm
-
-treat bed + 2cm margin
-
-Low failure rates 3.? %
-
-Conclusion: favorable
-
- 
-
- 
 
 /B39, RTOG 0413, PBI vs Whole Breast
 Eligibility: 3's! 0-3 nodes, <3cm, stage 0,I,II(some)
@@ -5188,8 +5135,11 @@ The trial has completed accrual of 2232 patients,  1113 allocated to the intrabe
 
 Tufts website has risk calculator.
 
+
+
+
  
-/toxicities, breast RT
+//toxicities, breast RT
 lymphedema 15-20%
 pneumonitis 1-3%
 rib fx 2%
@@ -5198,44 +5148,24 @@ contralat breast recurrence: 5-10% over 10%
 
 cardiotoxicities for L side: increased CAD by 10%, but no diff in deaths. 
 
-/reconstruction –
-
+/reconstruction
 options: delayed, immediate, delayed immediate
 
 /expander/implant - best for small, simple, easier, complic rate 9-22%
-
-    Problem with RT to implants is capsular contracture.
-
+Problem with RT to implants is capsular contracture.
 autologous (autogenous) - better to do RT before autologous rather than after.
-
   TRAM
-
   DIEP
-
- 
 
 In general RT to autologous better cosmesis than RT to implants, if you give it time to "take". 
 
- 
-
- 
-
 If planning IMPLANT,
-
 CM used to recommend radiating the expanders, then swap out after RT.
-
 Now recommend swap out first and RT the implant.
-
- 
 
 CM: My hunch is that radiating the implant is better but most plastic surgeons want to radiate the expander so they can do revisions when they swap out. I usually do what the plastic surgeon wants since I don't have good data either way. I only ask for deflation if it is in the way. That does mean they may need a second simulation if they need deflation. I do use bolus usually 0.5 cm each day. I give 5040 cGy and don't boost. I only use IMrt if it helps with lung or heart dose (these always seem to be on the left). I wouldn't do IM nodes but you could make the argument to do that.
 
- 
-
- 
-
 And MSKCC /cordeiro, plast recon surg 2003,
-
 recently recommended expansion during chemo, swap to permanent implant after chemo before RT. Reasonable delay (3-6wks per jwatson).  Then radiate implants.
 
 capsular contraction worse w/ RT
@@ -5244,63 +5174,28 @@ capsular contraction worse w/ RT
 
 Bolus can worsen cosmesis.
 
- 
 
 Cordeiro, Plast Reconstr Surg 113:877-881, 2004
-
- 
 
 Hallberg:
 
 Alloderm implant is latest thing.
 
- 
-
- 
-
 Radiating implants:  Use 0.5cm bolus.  Go to 50Gy?
 
- 
-
 skin sparing mastectomy
-
 total skin sparing mastectomy
 
- 
-
- 
-
- 
-
 Hallberg: You have a lot more time before start for PMRT cuz recurrences typically don't happen for at least a year.  OK to wait ~4 mos.  Different from post-lumpect where you need to start sooner.  So in IMPLANT setting, dont' start RT until incision is COMPLETELY healed, don't start RT even when there's still a little scab that's not healed yet. 
-
  
 
- 
-
- 
-
- 
-
-/Recurrences, Breast:
-
- 
-
+//Recurrences, Breast:
 Predictors of Breast Recurrence after BCT:
-
 Close (<2mm) or + margins
-
 Multicentric disease
-
 Age < 40y
-
 (Also à EIC, high Gr, ALI, ↑ size)
-
 NOT: Location, LCIS, LN+ !!!!!!!!!!!!!!!!
-
- 
-
- 
 
 Reccurrences after Mastectomy:
 
