@@ -5005,6 +5005,33 @@ treats surgical cavity + 1-2cm.
 Rationale: most LR are near surgical cavity.
 Using brachy, IMRT, IORT, 3D, tangents
 
+ASTRO 2023 PBI Guideline: https://doi.org/10.1016/j.prro.2023.11.001
+KQ1: For early stage invasive BC (or DCIS), PBI is... 
+RECOMMENDED for
+G1-2
+ER+
+age>=40
+size<=20mm
+
+CONDITIONALLY RECOMMENDED for
+G3
+ER-
+size 2-3cm
+
+CONDITIONALLY NOT RECOMMENDED for
+Her2+ not getting anti-Her2 therapy
++LVI
+Lobular
+
+NOT RECOMMENDED for
++M
++N
+BRCA+
+age<40
+
+
+
+
 /PBI fractionation options
 IMPORT LOW: PBI 267x15 QD
 B39 3DCRT PBI was 385 BID x 10 !
