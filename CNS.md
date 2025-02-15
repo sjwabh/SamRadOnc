@@ -1,3 +1,5 @@
+
+
 /CNS  /Brain
 
 HVLT-R vs FCSRT:  Look up this test of neurocognitive for WBI pts-
@@ -62,6 +64,37 @@ BED in Gy(2)
 85.5 | 133 | 142 | 151
 
 https://lh3.googleusercontent.com/IHLDu-80qG_8I1YmXGzeSDEulX5F9v-RC0G73TSxPETuvq6Aa1QWl5v9T9QDpTvKmTJkZlsYPSCi-ebOnALIvpO-QAtLYuYjYRT0IoNETkk=w1280
+
+
+/Nieder update in IJROBP 2006
+doi:10.1016/j.ijrobp.2006.07.1383
+clinical risk calculator of myelopathy, 3 categories
+for re-RT C-, T-, L- spine
+>6 mos interval
+each course < 98Gy2
+
+Cum BED(Gy2) | Points 
+ ----- | -------------
+<120 | 0 
+120 - 130 | 1
+ 
+Multipliers:
+x 4.5 points, if Interval < 6 mos
+x 4.5 points, if BED > 102 Gy2 for either course
+
+
+Group | Points | Myelopathy risk 
+ ----- | ------ | -------
+Low | <=3 | 3% 
+Int  | 4-6 | 25% 
+High  | >6 | 90% 
+
+
+
+
+
+
+
 
 
 Mayo, Ann Neuro 1995:  Safe to do 200x10, or 225x10, or 250x10.
