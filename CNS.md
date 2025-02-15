@@ -73,10 +73,23 @@ for re-RT C-, T-, L- spine
 >6 mos interval
 each course < 98Gy2
 
+
+
+
 Cum BED(Gy2) | Points 
  ----- | -------------
 <120 | 0 
 120 - 130 | 1
+130 - 140 | 2
+140 - 150 | 3
+150 - 160 | 4
+160 - 170 | 5
+170 - 180 | 6
+180-190 | 7
+190-200 | 8
+>200 | 9
+ 
+
  
 Multipliers:
 x 4.5 points, if Interval < 6 mos
