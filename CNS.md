@@ -91,9 +91,9 @@ more than 200 | 9
 
 
  
-Multipliers:
-x 4.5 points, if Interval < 6 mos
-x 4.5 points, if BED > 102 Gy2 for either course
+Multipliers:  
+x 4.5 points, if Interval < 6 mos  
+x 4.5 points, if BED > 102 Gy2 for either course  
 
 
 Group | Points | Myelopathy risk 
@@ -105,6 +105,14 @@ High  | >6 | 90%
 
 
 
+
+
+
+
+
+
+
+          
 
 
 
