@@ -87,8 +87,8 @@ Cum BED(Gy2) | Points
 170 - 180 | 6
 180-190 | 7
 190-200 | 8
->200 | 9
- 
+more than 200 | 9
+
 
  
 Multipliers:
