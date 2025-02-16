@@ -16,6 +16,8 @@
 
 [hepatobiliary](hepatobiliary.md)
 
+[rectal](rectal.md)
+
 
 
 # Misc notes that need to be filed...
