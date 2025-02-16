@@ -3,21 +3,14 @@
 #This is a collection of Sam's Radiation Oncology notes.
 
 [breast](breast.md)
-
-[prostate](prostate.md)
-
+[CNS](CNS.md)
 [GI](GI.md)
-
 [GU](GU.md)
-
 [head & neck](HeadNeck.md)
-
-[palliative](palliative.md)
-
 [hepatobiliary](hepatobiliary.md)
-
+[palliative](palliative.md)
+[prostate](prostate.md)
 [rectal](rectal.md)
-
 
 
 # Misc notes that need to be filed...
