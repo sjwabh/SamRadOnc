@@ -2,16 +2,23 @@
 
 #This is a collection of Sam's Radiation Oncology notes.
 
+[anal](anal.txt)
+[brain mets](brain mets.md)
 [breast](breast.md)
 [CNS](CNS.md)
-[GI](GI.md)
-[GU](GU.md)
+[CNS gliomas](CNS gliomas.md)  
+
+[rectal](rectal.md)
+[GI non rectal](GI non rectal.md)  
+
+[prostate](prostate.md)
+[GU](GU.md)  
+
 [head & neck](HeadNeck.md)
 [hepatobiliary](hepatobiliary.md)
 [palliative](palliative.md)
-[prostate](prostate.md)
-[rectal](rectal.md)
 
+[skin](skin.md)
 
 # Misc notes that need to be filed...
 
