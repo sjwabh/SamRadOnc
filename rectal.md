@@ -15,7 +15,16 @@ Risks:  Diet (low fiber, high fat), UC>Crohn's
 
 Lymph Node Drainage:
   Superior Rectal -> IMA
-  Middle & Inferior Rectal -> Int Iliac a.
+  Middle & Inferior Rectal -> Int Iliac
+
+mesorectal
+obturators
+
+The latest AJCC Tumor-Node-Metastasis classification (TNM 8th edition) defines the regional LNs: these include the mesorectal/pararectal, superior rectal, inferior mesenteric, internal iliac, and inferior rectal LNs without mentioning the obturator nodes; however, the obturator LNs are usually included within the regional LNs [15,33]. The LNs out of these groups are considered non-regional by the AJCC, and therefore as a distant spread or metastatic (M) disease. In the common terminology, external and internal iliac LNs, and obturator nodes, are referred to as “lateral lymph nodes”; however, while external iliac LNs are less commonly involved and should be considered as non-regional involvement (M1-stage), the internal iliac and obturator nodes are one of the primary sites of tumor spread and constitute a regional involvement (N-stage). Inguinal LNs are considered non-regional (M-stage) as well, except for distal RC extending below the dentate line, and therefore considered regional LN as in anal cancer (N-stage).
+https://pmc.ncbi.nlm.nih.gov/articles/PMC9104021/#sec3-jcm-11-02599
+
+
+
 
 MC site of mets: liver, lung
 
