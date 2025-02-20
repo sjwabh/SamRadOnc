@@ -5,7 +5,7 @@ ExoDx Prostate Intelliscore (EPI) 45 (high) predicted increasing risk of high gr
 
 
 
----
+--
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9776703/
 Addition of New Androgen Receptor Pathway Inhibitors to Docetaxel and Androgen Deprivation Therapy in Metastatic Hormone-Sensitive Prostate Cancer: A Systematic Review and Metanalysis
 Curr Onc 2022
@@ -15,8 +15,9 @@ In our center, we have generally preferred docetaxel or abiraterone as both have
 
 ARASENSE is a phase 3 clinical trial showed improved overall survival with the combination of darolutamide, androgen-deprivation therapy, and docetaxel than with placebo plus androgen-deprivation therapy and docetaxel. At the data cutoff date for the primary analysis (October 25, 2021), the risk of death was significantly lower, by 32.5%, in the darolutamide group than in the placebo group (hazard ratio 0.68; 95% confidence interval, 0.57 to 0.80; P<0.001). At 48 months OS was 62.7% vs 50.4%. (Smith et al, NEJM, 2022) 
 
-Will consider addition of darolutamide if PSA increases on ADT. 
-------
+Will consider addition of darolutamide if PSA increases on ADT.  
+
+--
 
 
 ## Radiopharmaceuticals 
