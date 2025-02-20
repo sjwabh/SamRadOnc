@@ -3,6 +3,27 @@ Prostate
 
 ExoDx Prostate Intelliscore (EPI) 45 (high) predicted increasing risk of high grade prostate CA.
 
+==
+SALV-ENZA Trial :  SRT +/- ENZA x6mo  
+JCO 2023  
+for high risk salvage AcP pN0 (pT3 or +M or GS8), AND currently radiographically negative.  
+RT prostate bed only (no pelvic nodes).  
+ENZA 160 mg once daily or matching placebo for 6 months  
+CONCLUDES: ENZA delays PSA progression relative to SRT alone  
+
+
+Salvage Involved-Field and Extended-Field Radiation Therapy in Positron Emission Tomography–Positive Nodal Recurrent Prostate Cancer: Outcomes and Patterns of Failure  
+ARO 2023  
+https://www.advancesradonc.org/article/S2452-1094(22)00146-4/fulltext  
+Conclusion:   
+s-EFRT and s-IFRT for PET+ N+ AcP provide excellent local control. Time to palliative ADT was longer following s-EFRT than following s-IFRT.  
+
+
+===
+
+
+==
+
 
 
 --
