@@ -1877,68 +1877,84 @@ Despite Z11, Maybe should still consider cALND if: large +SLN, 2+SLN, +ECE, +LVS
 
  
 
-/AMAROS
+/AMAROS  
+Radiotherapy or surgery of the axilla after a positive sentinel node in breast cancer (EORTC 10981-22023 AMAROS): a randomised, multicentre, open-label, phase 3 non-inferiority trial.  The Lancet Oncology , Volume 15 , Issue 12 , 1303 - 1310, Nov 2014.  
+http://dx.doi.org/10.1016/S1470-2045(14)70460-7  
+<5cm tumors, cN-, allowed any number of +SLN (10% had 4 or more +SLNs) (allowed +ECE (did not record))  
+RCT ALND vs axRT (50Gy)  
+744 were randomly assigned to ALND and 681 to ART.  
+60% had macromets, 33% had +nonSLNs  
+17-18% were mastectomy pts.  
+Short FU 6.1 yrs.  
+5yr axillary recurrence rate:  
+ALND 0.43%   AxRT 1.19% (not significant)  
+But lymphedema 2x worse w/ ALND at 5yrs (28% v 14%)  
+But no diff in QoL.  
+Interpretation:  
+Critique: lower than expected recurrence in both arms so underpowered to prove non-inferiority.  
 
-Radiotherapy or surgery of the axilla after a positive sentinel node in breast cancer (EORTC 10981-22023 AMAROS): a randomised, multicentre, open-label, phase 3 non-inferiority trial.  The Lancet Oncology , Volume 15 , Issue 12 , 1303 - 1310, Nov 2014.
 
-http://dx.doi.org/10.1016/S1470-2045(14)70460-7
 
-<5cm tumors, cN-, allowed any number of +SLN (10% had 4 or more +SLNs) (allowed +ECE (did not record))
-
-RCT ALND vs axRT (50Gy)
-
-744 were randomly assigned to ALND and 681 to ART.
-
-60% had macromets, 33% had +nonSLNs
-
-17-18% were mastectomy pts.
-
-Short FU 6.1 yrs.
-
-5yr axillary recurrence rate:
-
-ALND 0.43%   AxRT 1.19% (not significant)
-
-But lymphedema 2x worse w/ ALND at 5yrs (28% v 14%)
-
-But no diff in QoL.
-
-Interpretation: 
-
-Critique: lower than expected recurrence in both arms so underpowered to prove non-inferiority.
-
- 
-
-/MA20 /MA.20 Axilla. +-RNI  +-Regional Nodal Irradiation: NCIC-MA20 Canadian trial, NCT00005957, closed 2010.
-Whelan, Regional Nodal Irradiation in Early-Stage Breast Cancer, N Engl J Med 2015; 373:307-316July 23, 2015
-DOI: 10.1056/NEJMoa1415340
-For Lumpectomy pts.
+/MA20 /MA.20 Axilla. +-RNI  +-Regional Nodal Irradiation: NCIC-MA20 Canadian trial, NCT00005957, closed 2010.  
+Whelan, Regional Nodal Irradiation in Early-Stage Breast Cancer, N Engl J Med 2015; 373:307-316July 23, 2015  
+https://www.nejm.org/doi/pdf/10.1056/NEJMoa1415340  
+For Lumpectomy pts.  
 N+ or 
 "High Risk" N0, defined as: 
-T3N0
-or
-T2 and <10 nodes removed and (ER- or +LVSI or G3)
+T3N0  
+or  
+T2 and <10 nodes removed and (ER- or +LVSI or G3)  
 
-All pts received Level I & II ALND.
-Tangents +/- RNI 
-RNI included IMN, SCV, and apical ALN.
-All got chemo or endocrine therapy or both.
+All pts received Level I & II ALND.  
+Tangents +/- RNI   
+RNI included IMN, SCV, and apical ALN.  
+All got chemo or endocrine therapy or both.  
+50Gy in 25  
+Optional Boost 10-16Gy  
 
-916x2 pts enrolled.
+916x2 pts enrolled.  
 
-The goal of the study is to determine whether adding nodal irradiation to modern systemic therapy improves survival with acceptable limited toxicity in patients treated with breast conservation therapy.
+The goal of the study is to determine whether adding nodal irradiation to modern systemic therapy improves survival with acceptable limited toxicity in patients treated with breast conservation therapy.  
 
+Conclusion: RNI improved DFS 82% v 77% (CI, 0.61 to 0.94; P = 0.01), but no OS diff.
 
-Old results from ASCO 2010:
-
+OLDER results from ASCO 2010:
 Improved 5yr DFS 90% v 84% (p=.003)
 Isolated locoregional DFS 97% v 95% (p=0.02)
 Distant DFS 92.4% v 87% (p=.002) (surprising)
 Trend toward improved OS.
 
- 
 At the expense of increased toxicity: pneumonitis 1.3% v .2%, RT dermatitis 50% v 40%, lymphedema 7% v 4%, worse cosmetic outcome 36% v 29%
 COMMENTS: MA20 had higher risk pts than Z11?  (Whelan doesn't agree..)
+
+
+
+EORTC 22922, 22922/10925  
+Internal Mammary and Medial Supraclavicular Irradiation in Breast Cancer.  
+Poortmans PM, Collette S, Kirkove C, Van Limbergen E, Budach V, Struikmans H, Collette L, Fourquet A, Maingon P, Valli M, De Winter K, Marnitz S, Barillot I, Scandolaro L, Vonk E, Rodenhuis C, Marsiglia H, Weidner N, van Tienhoven G, Glanzmann C, Kuten A, Arriagada R, Bartelink H, Van den Bogaert W; EORTC Radiation Oncology and Breast Cancer Groups.  
+N Engl J Med. 2015 Jul 23;373(4):317-27. doi: 10.1056/NEJMoa1415369.
+PMID: 26200978  
+IM & Medial SCV RT after BCT or MRM  
+Closed 2004.   
+For Stage I-III with a centrally or medially located primary tumor, irrespective of axillary involvement, or an externally located tumor with axillary involvement.
+Eligible patients had undergone mastectomy or breast-conserving surgery and axillary dissection. 
+During the last years of the trial, patients were eligible if they had undergone a sentinel-node biopsy followed by an axillary dissection in the case of a positive node.
+
+
+OLD EORTC 22922 Abstract results presented at ECC 2013:  
+http://oncozine.com/profiles/blogs/radiation-therapy-to-the-lymph-node-improves-survival-in-patients  
+http://www.esmo.org/Conferences/Past-Conferences/European-Cancer-Congress-2013/News/ECC-2013-Press-Release-Treating-Chest-Lymph-Nodes-in-Patients-with-Early-Breast-Cancer-Improves-Survival-Without-Increasing-Side-Effects  
+http://www.eortc.org/news/news-from-the-2013-european-cancer-congress/  
+
+Single IMC-MedialSCV field.  
+3D CT planning not required.  
+Toxicity @3yrs: Only lung (fibrosis; dyspnoea; pneumonitis; any lung toxicities) (4.3% vs. 1.3%; p < 0.0001) but not cardiac toxicity (0.3% vs. 0.4%; p = 0.55) significantly increased with IM-MS treatment. No significant worsening of the KPS was observed (p = 0.79), suggesting that treatment-related toxicity does not impair patient's daily activities.  (Too early to really tell cardiac toxicities)  
+
+
+
+
+
+
 
 
 /OTOASOR
@@ -2663,13 +2679,6 @@ http://www.clinical-breast-cancer.com/article/S1526-8209(15)00222-0/abstract
 Toxicities: lymphedema, numbness, limited ROM.
 
 
-/Whelan, NEJM 2015
-+-RNI
-Conclusion: RNI improved DFS 82% v 77% (CI, 0.61 to 0.94; P = 0.01), but no OS diff.
-https://www.nejm.org/doi/pdf/10.1056/NEJMoa1415340
-50Gy in 25
-Optional Boost 10-16Gy
-
 French study: +/- ALND
 Institut Curie, /Louis-Sylvestre, JCO 2004, "DOI: 10.1200/JCO.2004.12.108"
 < 3cm, cN0. (No SNB?)
@@ -2689,17 +2698,6 @@ Hist Grade 3 25.05 (1.3–497) 0.035
 Neg ER / PR 4.96 (1.5–17) 0.010
  
 
-EORTC 22922, 22922/10925
-IM & Medial SCV RT after BCT or MRM
-"Phase III randomized trial investigating the role of internal mammary and medial supraclavicular (IM-MS) lymph node chain irradiation in stage I-III breast cancer (Joint study of the EORTC Radiotherapy Cooperative Group and the EORTC Breast Cancer Cooperative Group EORTC 22922/10925)"
-Closed 2004. 
-Abstract results presented at ECC 2013:
-http://oncozine.com/profiles/blogs/radiation-therapy-to-the-lymph-node-improves-survival-in-patients
-http://www.esmo.org/Conferences/Past-Conferences/European-Cancer-Congress-2013/News/ECC-2013-Press-Release-Treating-Chest-Lymph-Nodes-in-Patients-with-Early-Breast-Cancer-Improves-Survival-Without-Increasing-Side-Effects
-http://www.eortc.org/news/news-from-the-2013-european-cancer-congress/
-Single IMC-MedialSCV field.
-3D CT planning not required.
-Toxicity @3yrs: Only lung (fibrosis; dyspnoea; pneumonitis; any lung toxicities) (4.3% vs. 1.3%; p < 0.0001) but not cardiac toxicity (0.3% vs. 0.4%; p = 0.55) significantly increased with IM-MS treatment. No significant worsening of the PS was observed (p = 0.79), suggesting that treatment-related toxicity does not impair patient's daily activities.  (Too early to really tell cardiac toxicities)
 
 
 Risks of Nodal involvement:
