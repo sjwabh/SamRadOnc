@@ -28,6 +28,7 @@ EAC w/ 1-5 mets : SBRT
 
 EAC medically inoperable : primary RT  or progestational agents (megace or IUD)
 
+
 NCCN 2023:
 
 |    |  G1 | G2 | G3 |
@@ -35,17 +36,15 @@ NCCN 2023:
 |<50% |  | |   V |
 |>50% |V | V | P |
 
-If >=60 or +LVSI:
-     G1 G2  G3
-<50% V	V   V/P 
->50% V  V/P  P+-C
+If Age>=60 or +LVSI:
+|    |  G1 | G2 | G3 |
+|<50% |V | V |  V/P | 
+|>50% |V | V/P | P+-C |
  
 
 
-EAC 
+EAC types:
 from NCCN 2023
-
-types:
 
 epithilial
  endometrioid
