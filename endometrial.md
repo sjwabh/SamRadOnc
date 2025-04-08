@@ -913,26 +913,31 @@ Significant Predictors: Grade, Depth, surgical staging were better predictors of
 
 /Chemo for early stage EAC?
 
-/GOG0249 / RTOG 
-(prelim abstract SGO 2014)
-UPDATE: ASCO 2017 Randall (NEED to LOOK THIS UP)
+/GOG0249 
+Randall, J Clin Oncol. 2019 Jul 20;37(21):1810-1818. doi: 10.1200/JCO.18.01575. Epub 2019 Apr 17.
+DOI: 10.1200/JCO.18.01575
+https://pubmed.ncbi.nlm.nih.gov/30995174/
+https://ascopubs.org/doi/10.1200/JCO.18.01575?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed
 
 For High Intermediate Risk Early Stage (I-IIA) EAC (GOG99 criteria)
-stage I (80%) or occult IIB or UPSC (15%) / CC (5%).
+stage I (74%) or occult IIB or UPSC (15%) / CC (5%).
 
-Randomization: EBRT pelvis (IMRT allowed) vs VC + Carbo/ Taxol x3
+Randomization: EBRT pelvis (IMRT allowed) 45-50.4 vs VC + Carbo/ Taxol x3
 
 Results:
-overall no diff
+60 mo RFS no diff
+60 mo OS no diff
 DFS no diff
+Acute toxicity was greater with VCB/C; late toxicity was similar.
 
-more pelvic recurrences in VC group
+more frequent and severe acute toxicity in VCB/C arm
 
-Cum incidence of pelvic recurrence at 5 yrs: VBT/chemo 9.2% vs pelvic EBRT 4.4%
+No diff in vag recurrences
+No diff in distant recurrences
+but more nodal recurrences in VC group:
+   Cum incidence of nodal recurrence at 5 yrs was higher in the VBT/chemo arm 9% vs pelvic EBRT 4%
 
-cum incidence of vag recurrences...
-
-different pattern of recurrences
+so different pattern of recurrences
 
 VC allowed HDR regimens, all weekly, can be concurrent w/ chemo:
 
