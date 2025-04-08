@@ -28,11 +28,12 @@ EAC w/ 1-5 mets : SBRT
 
 EAC medically inoperable : primary RT  or progestational agents (megace or IUD)
 
-NCCN 2023: (ask a multi part Q to get at what factors would influence +-V and/or +-P)
+NCCN 2023:
 
-     G1 G2 G3
-<50% -	-  V
->50% V  V  P
+|    |  G1 | G2 | G3 |
+|----|-----|----|----|
+|<50% |  | |   V |
+|>50% |V | V | P |
 
 If >=60 or +LVSI:
      G1 G2  G3
