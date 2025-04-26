@@ -1,3 +1,4 @@
+
 SamRadOnc
 //Breast CA
 
@@ -3519,8 +3520,8 @@ SLNB was performed in 91% of patients with T1, grade1/2, ER + Her2-tumors prior 
 
 This contributed to the recommendation in 2016 from the American College of Surgeons to omit radiation therapy (RT) for women over 70 with T1N0M0 hormone receptor positive (HR+) breast cancer after lumpectomy
 
-Whelan, Omitting RT after BCS in Luminal A
-https://www.nejm.org/doi/full/10.1056/NEJMoa2302344
+Whelan, Omitting RT after BCS in Luminal A  
+https://www.nejm.org/doi/full/10.1056/NEJMoa2302344  
 /LUMINA Trial (omitting breast RT) NEJM 2023  
 age greater than 55  
 Luminal A  
