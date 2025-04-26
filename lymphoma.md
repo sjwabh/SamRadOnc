@@ -1536,6 +1536,15 @@ R-CHOPx6, IFRT 30Gy
 
 /Extranodal DLBCL Lymphoma sites: (stomach & thyroid are most favorable EN sites) parotid, breast, testes
 
+
+Extranodal Lymphomas: Field and Dose Guidelines From the ILROG  
+Yahalom, Red 2015   
+https://www.redjournal.org/article/S0360-3016(15)00050-4/fulltext  
+This paper discusses multiple sites (bone, pelvic organs, small bowel, testicular, etc.  
+
+For Stage IE Bone DLBCL: R-CHOP followed by RT 30-40Gy  
+
+
 R-CHOP x3-6, IFRT 36Gy
 
 Stomach & Thyroid DLBLC: R-CHOP x3, 36Gy.
