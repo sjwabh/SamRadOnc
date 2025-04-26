@@ -849,23 +849,6 @@ https://ro-journal.biomedcentral.com/articles/10.1186/s13014-015-0393-9
 
 
 
-/LUMINA Trial
->55
-Luminal A
-G1-2
-T1N0
-BCS+HT, no RT.
-prospective, 501 pts
-5yr LR 2.3%
-
-
-another interesting aspect of this trial is that it didn't use PAM50 or Oncotype for patient selection.
-
-PI Tim Whelan: "Some physicians may want to wait longer, but we feel these results are pretty compelling..."
-Jennifer Bellon: a very important study but may not change practice on its own. “I'd like to see this finding substantiated by other similar ongoing studies,” Dr. Bellon said.
-
-
-
 
 
 /RCB 
@@ -3536,9 +3519,24 @@ SLNB was performed in 91% of patients with T1, grade1/2, ER + Her2-tumors prior 
 
 This contributed to the recommendation in 2016 from the American College of Surgeons to omit radiation therapy (RT) for women over 70 with T1N0M0 hormone receptor positive (HR+) breast cancer after lumpectomy
 
-NEJM 2023
 Whelan, Omitting RT after BCS in Luminal A
 https://www.nejm.org/doi/full/10.1056/NEJMoa2302344
+/LUMINA Trial (omitting breast RT) NEJM 2023  
+age greater than 55  
+Luminal A  
+G1-2  
+T1N0  
+BCS+HT, no RT  
+prospective, 501 pts  
+5yr LR 2.3%  
+
+another interesting aspect of this trial is that it didn't use PAM50 or Oncotype for patient selection  
+Jennifer Bellon: a very important study but may not change practice on its own. “I'd like to see this finding substantiated by other similar ongoing studies,”  
+PI Tim Whelan: "Some physicians may want to wait longer, but we feel these results are pretty compelling..."  
+
+---
+
+
 
 
 Breast Cancer in Geriatric Patients: Current Landscape and Future Prospects
