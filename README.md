@@ -2,12 +2,12 @@
 
 #This is a collection of Sam's Radiation Oncology notes.
 
-[anal](anal.txt) 
-[brain mets](brain mets.md) 
+[anal](anal.md) 
+[brain mets](BrainMets.md) 
 [breast](breast.md) 
 [CNS](CNS.md) 
-[CNS gliomas](CNS gliomas.md) 
-[GI non rectal](GI non rectal.md) 
+[CNS gliomas](Gliomas.md) 
+[GI non rectal](GI.md) 
 [GU](GU.md)  [head & neck](HeadNeck.md) 
 [hepatobiliary](hepatobiliary.md) 
 [lymphoma](lymphoma.md) 
