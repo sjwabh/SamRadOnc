@@ -8,8 +8,10 @@ https://karger.com/brc/article/17/2/224/827537/Expert-Discussion-Hypofractionate
 
 
 
-/ReRT 
-/1014 NRG/RTOG
+/ReRT
+
+NRG/RTOG /1014 
+PBI for recurrent Breast  
 Effectiveness of Breast-Conserving Surgery and 3-Dimensional Conformal Partial Breast Reirradiation for Recurrence of Breast Cancer in the Ipsilateral Breast
 JAMA Oncol 2020 Jan 1;6(1):75-82. doi: 10.1001/jamaoncol.2019.4320.
 
@@ -17,7 +19,9 @@ TWO publications:
 1) RedJournal : Primary end points for this phase 2 protocol was treatment-related skin, fibrosis, and/or breast pain adverse events (AEs)
 https://www.redjournal.org/article/S0360-3016(17)30702-2/abstract
 
-2) JAMA Oncol 2020: Secondary end points
+2) JAMA Oncol 2020  
+Arthur, et al  
+https://jamanetwork.com/journals/jamaoncology/fullarticle/2755430  
 
 METHODS
 size<3cm, -M, 0-3+N, -ECE
@@ -27,8 +31,10 @@ PTV 10mm ( exclude the first 5 mm of tissue under the skin and any of the PTV ex
 3DCRT (beam arrangements at discretion of MD, FiF accepted)
 150 BID x30 = 45Gy
 
-
-
+RESULTS  
+58 evaluable pts  
+ 5-year cumulative recurrence of 5%.  ipsilateral mastectomies for a 5-year cumulative incidence of 10%  
+ (7%) had grade 3 and none had grade 4 or higher late adverse events  
 
 
 
