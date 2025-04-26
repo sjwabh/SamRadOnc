@@ -1,8 +1,22 @@
 
-RadOnc	
-SamRadOnc Home PageBreastCNSGIGUGynHNLungLymphomamiscOtherPalliative	
 Oropharynx
-/Sher
+
+
+https://navdx.com/surveillance/  
+NavDx  
+ TTMV-Scores  
+During surveillance,  
+>3mo - 2yr : q3mo  
+3-5 yrs : q6mo  
+6+ yrs : q1y  
+
+
+
+
+---
+
+
+
 
 Radiation therapy for oropharyngeal squamous cell carcinoma: Executive summary of an ASTRO Evidence-Based Clinical Practice Guideline
 
