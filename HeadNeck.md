@@ -1,8 +1,7 @@
 
 RadOnc	
 HN
-//HN //Head & Neck
-(BE SURE TO ALSO CHECK OROPHARYNX.TXT...)
+//HN //Head & Neck (non-oropharynx)  (See Oropharynx.MD for oropharynx)
 
 re-RT H&N
 
