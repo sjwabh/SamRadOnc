@@ -3012,6 +3012,10 @@ fam-trastuzumab deruxtecan, an antibody-drug conjugate composed of an anti-HER2 
 Trastuzumab emtansine: /Kadcyla  
 T-DM1  
 
+/Koide letter:  a new perspective on radiation necrosis in HER2-positive breast cancer brain metastases from the DESTINY-Breast03 and HER2CLIMB trials
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11237679/
+
+
 Here's a summary from PERPLEXITY:  
 T-DM1: Avoid concurrent use with SRS due to high radionecrosis risk. If necessary, separate treatments by ≥4 weeks.  
 T-DXd: Manageable toxicity profile supports its use with radiotherapy, but monitor for ILD and left ventricular dysfunction.  
