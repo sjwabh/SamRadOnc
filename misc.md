@@ -3032,6 +3032,12 @@ Therefore, caution is required with the combination of T-Dxd and thoracic or abd
 For risk of CNS toxicity, the DEBBRAH phase II study showed that intracranial activity of T-Dxd and radiation is feasible with manageable toxicity in patients with HER2-positive and HER2-low breast cancer who received mainly WBRT and/or stereotactic radiosurgery (SRS). However, the authors did not mention the timing between irradiation and sequential administration of T-Dxd [43].
 
 
+Multi-institutional report of trastuzumab deruxtecan and stereotactic radiosurgery for HER2 positive and HER2-low breast cancer brain metastases  
+https://www.nature.com/articles/s41523-024-00711-w#Sec12  
+This paper says higher toxicity risk for T-DM1 and brain RT (w/ a proposed mechanism), and less with T-DXd and brain RT, so maybe Enhertu w/ CNS RT is (relatively) safer.
+
+
+
 
 
 /Dental
