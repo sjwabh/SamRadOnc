@@ -3005,7 +3005,14 @@ Skintegrity
 
 
 
-/enhertu is /fam-trastuzumab deruxtecan, an antibody-drug conjugate composed of an anti-HER2 antibody linked to a cytotoxic topoisomerase I inhibitor,
+Trastuzumab deruxtecan: /Enhertu
+T-DXd
+fam-trastuzumab deruxtecan, an antibody-drug conjugate composed of an anti-HER2 antibody linked to a cytotoxic topoisomerase I inhibitor
+
+Trastuzumab emtansine: /Kadcyla
+T-DM1
+
+
 
 Interaction between Radiation Therapy and Targeted Therapies in HER2-Positive Breast Cancer: 
 Kamel Debbi, Cancers (Basel). 2023
