@@ -3005,14 +3005,20 @@ Skintegrity
 
 
 
-Trastuzumab deruxtecan: /Enhertu
-T-DXd
-fam-trastuzumab deruxtecan, an antibody-drug conjugate composed of an anti-HER2 antibody linked to a cytotoxic topoisomerase I inhibitor
+Trastuzumab deruxtecan: /Enhertu  
+T-DXd  
+fam-trastuzumab deruxtecan, an antibody-drug conjugate composed of an anti-HER2 antibody linked to a cytotoxic topoisomerase I inhibitor  
 
-Trastuzumab emtansine: /Kadcyla
-T-DM1
+Trastuzumab emtansine: /Kadcyla  
+T-DM1  
 
+Here's a summary from PERPLEXITY:  
+T-DM1: Avoid concurrent use with SRS due to high radionecrosis risk. If necessary, separate treatments by ≥4 weeks.  
+T-DXd: Manageable toxicity profile supports its use with radiotherapy, but monitor for ILD and left ventricular dysfunction.  
+Timing matters: For both drugs, sequential administration (vs. concurrent) reduces toxicity risks.  
+In summary, T-DM1 poses a significantly higher risk of severe radionecrosis with CNS radiotherapy compared to T-DXd, which demonstrates a more favorable safety profile in this setting.  
 
+---
 
 Interaction between Radiation Therapy and Targeted Therapies in HER2-Positive Breast Cancer: 
 Kamel Debbi, Cancers (Basel). 2023
