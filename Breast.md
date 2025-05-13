@@ -74,7 +74,27 @@ Hereditary or Familial Breast CA article:
 Red Journal 2019
 Bergom, et al.
 The Implications of Genetic Testing on Radiation Therapy Decisions: A Guide for Radiation Oncologists
-"RB1, NF1, TP53, or PTCH1 genes, respec- tively. In patients with any of these 4 syndromes, there are no known enhanced risks of acute or late radiation toxic- ities, but the second malignancy risk in the irradiated field is thought to be elevated, even relative to the high back- ground risk of additional cancers in these patients."
+"RB1, NF1, TP53, or PTCH1 genes, respec- tively. In patients with any of these 4 syndromes, there are no known enhanced risks of acute or late radiation toxic- ities, but the second malignancy risk in the irradiated field is thought to be elevated, even relative to the high back- ground risk of additional cancers in these patients."  
+
+
+From our SH Genetics Counselor:  
+
+Approximately 5-10% of all cancer diagnoses have been associated with a strong inherited susceptibility involving a *SINGLE germline pathogenic genetic variant* resulting in a significant increase in risk for cancer.   
+About 10-20% of all cancer diagnoses have been associated with a familial susceptibility, but likely involve the interaction of **multiple genes along with environmental factors**.  
+The remaining 70-85% of cancers are thought to be **sporadic** with no strong hereditary component.  
+ 
+Approximately 25-50% of families with an inherited susceptibility to breast cancer can be accounted for by detectable pathogenic germline variants in two genes: BRCA1 and BRCA2.   
+In recent years, there have been numerous other genes that have been linked to an increased hereditary risk for breast cancer that are now available for clinical testing.  
+ 
+Women who carry a germline BRCA1 or BRCA2 variant have a 55-72% lifetime risk of developing breast cancer, and an increased chance to develop a second primary breast cancer following their initial diagnosis. Women who carry germline BRCA variants also have an increased chance to develop ovarian cancer (13-58% lifetime risk). Men who carry germline BRCA variants have an increased risk of developing prostate cancer (7-61% lifetime risk). These variants are also associated with an increased risk of pancreatic cancer and melanoma in some families.  
+ 
+Other genes now known to be associated with breast cancer vary in the degree to which they increase risk, and more research is ongoing to better understand the relationship between these gene variants and the level of cancer risk. There are several options to mitigate this increased risk, including high-risk surveillance, risk-reducing mastectomy, and/or chemopreventive use of tamoxifen.   
+ 
+A parent who carries a pathogenic variant has a 50% chance to pass it down to each of their children. Due to the significant medical implications associated with the inheritance of one of these cancer-predisposing genetic variants, we discussed the legal landscape with regards to protection against insurance discrimination. The Genetic Information Nondiscrimination Act of 2008 (GINA) is a federal law that generally protects individuals from genetic discrimination in health insurance and employment. We discussed that this legal protection does not extend to life, disability, and long term care insurance.  
+ 
+
+
+===
 
 
 
@@ -82,13 +102,7 @@ The Implications of Genetic Testing on Radiation Therapy Decisions: A Guide for 
 
 
 
-
-
-
-
-
-
-
+  
 
 
 I feel, with many prospective randomized data, we are beyond looking at EQ2 dose for deciding fractionation. We follow the below rationale/pathway in our practice.
