@@ -3,7 +3,25 @@ RadOnc
 HN
 //HN //Head & Neck (non-oropharynx)  (See Oropharynx.MD for oropharynx)
 
-re-RT H&N
+
+
+Quad Shot: 370x4=1480 BID over 2 days, can repeat monthly x3  
+RTOG 8502, originally for pelvic malignancies:  
+Spanos WJ, Jr., Clery M, Perez CA, et al. Late effect of multiple daily fraction palliation schedule for advanced pelvic malignancies (RTOG 8502) International journal of radiation oncology, biology, physics. 1994 Jul 30;29(5):961–967. doi: 10.1016/0360-3016(94)90389-1  
+
+
+QUAD shot, adapted for H&N:
+Paris KJ, Spanos WJ, Jr., Lindberg RD, Jose B, Albrink F. Phase I-II study of multiple daily fractions for palliation of advanced head and neck malignancies. International journal of radiation oncology, biology, physics. 1993 Mar 15;25(4):657–660. doi: 10.1016/0360-3016(93)90012-k.  
+and  
+https://pubmed.ncbi.nlm.nih.gov/26282714/  
+
+
+===
+
+
+
+
+re-RT H&N  
 
 ctDNA https://pubmed.ncbi.nlm.nih.gov/39212345/
 
