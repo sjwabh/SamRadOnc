@@ -2,6 +2,29 @@
 /Brain Mets, /BrainMets
 
 
+
+
+The role of targeted therapy and immune therapy in the management of non-small cell lung cancer brain metastases
+Front Oncol. 2023 Feb 23;13:1110440. doi: 10.3389/fonc.2023.1110440
+https://pmc.ncbi.nlm.nih.gov/articles/PMC9997098/
+In EGFR-mutant tumors, osimertinib has shown remarkable activity and may be considered for patients with limited BM, reserving radiosurgery for progression. Omission of upfront radiation is being tested in the accruing OUTRUN trial. 
+A treatment strategy of systemic therapy alone with close imaging and follow-up could be considered for patients with small and asymptomatic BM and for whom the benefits of upfront, aggressive local therapy may not be readily apparent.
+However, after multidisciplinary review, deferral may be offered to patients with asymptomatic brain metastases with either EGFR-mutant NSCLC receiving osimertinib or icotinib, or ALK rearranged NSCLC receiving alectinib, brigatinib, or ceritinib (18).
+When compared to wildtype EGFR or ALK tumors, ALK+ but not EGFR+ lesions were associated with higher 12-month cumulative incidences of radiation necrosis. Notably, receipt of EGFR or ALK inhibitors did not significantly impact rates of radiation necrosis, suggesting that they may be safely administered with stereotactic radiosurgery (SRS).
+
+
+
+Transl Cancer Res. 2021 May;10(5):2527–2536. doi: 10.21037/tcr-20-3027
+Narrative review of immune checkpoint inhibitors and radiation therapy for brain metastases
+https://pmc.ncbi.nlm.nih.gov/articles/PMC8797499/
+
+
+
+
+
+
+
+
 /SRS/SRT Dosimetry for BrainMets
 
 Single- and Multifraction Stereotactic Radiosurgery Dose/Volume Tolerances of the Brain
