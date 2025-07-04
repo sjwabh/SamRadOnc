@@ -21,6 +21,29 @@
 
 # Misc notes that need to be filed...
 
+
+
+//NF1
+
+Red 2009
+
+Letter to Editor re: risks of RT in NF1
+https://www.redjournal.org/article/S0360-3016(09)00911-0/abstract
+
+NF1: risk of RT causing malignant transformation of low grade to high grade tumors
+
+ vascular complications of NF associated with radiotherapy, in particular the Moya-Moya syndrome in patients with lesions located close to the skull base.
+
+ increase in the rate of cerebral arteriopathies
+
+suggesting a peculiar sensitivity of blood vessels to therapeutic irradiation in patients with NF1
+
+Close monitoring of the permeability of vessels in the radiation-involved fields is advocated 
+
+
+  
+
+
 /Enhertu /zzEnhertu \zzEnhertu  (what tag did I settle on??)
 
 **Enhertu** - Trastuzumab deruxtecan in HER2-positive breast cancer with brain metastases: a single-arm, phase 2 trial
