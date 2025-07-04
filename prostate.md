@@ -1,6 +1,34 @@
 Prostate
 //AcP //Prostate CA
 
+
+Should update our PARQ for ADT: 
+hot flashes, loss of libido, ED, shrinkage of penis and testicles, muscle mass, fatigue, anemia, breast enlargement, depression, hair loss, osteoporosis, obesity, DM, alterations in lipids, CVD.   
+
+
+see 2 pages of NCCN: Survivorship: Cardiovascular Disease Risk Assessment
+
+PAPER on bicalutamide & 5ARI, instead of LHRH
+CCI >= 2
+But this study does not seem to indicate a lower actual cardiovascular event risk, just a better QOL.
+
+
+Review of High Risk AcP, w/ outcomes:
+“High-Risk” Prostate Cancer: Classification and Therapy
+Chang et al, Nat Rev Clin Oncol. 2014 May 20;11(6):308–323. doi: 10.1038/nrclinonc.2014.68
+PMCID: PMC4508854  NIHMSID: NIHMS700557  PMID: 24840073
+https://pmc.ncbi.nlm.nih.gov/articles/PMC4508854/#:~:text=Studies%20reported%20from%20a%20number,from%2072%25%E2%80%9392%25.
+
+
+
+
+
+
+==
+
+
+
+
 ExoDx Prostate Intelliscore (EPI) 45 (high) predicted increasing risk of high grade prostate CA.
 
 ==
