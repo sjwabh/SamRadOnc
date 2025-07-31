@@ -1,7 +1,4 @@
 
-RadOnc	
-SamRadOnc Home PageBreastCNSGIGUGynHNLungLymphomamiscOtherPalliative	
-Sarcoma
 //STS /Sarcoma
 
 8700 cases/yr
@@ -76,7 +73,7 @@ Normally, sarcomas not lymphatic spread, but hematogenous.
 
 Lymph /SCaRE:  higher (10-28%) risk of +LNs in:
 
-sYnovial cell (15% LN risk) - (X-chromosome translocation, not Y) t(X;18), see calcified mass near jt
+Synovial cell (15% LN risk) - (X-chromosome translocation, not Y) t(X;18), see calcified mass near jt
 
 Clear Cell (28% risk) - hand and foot, tendons and aponeurosis of
 
