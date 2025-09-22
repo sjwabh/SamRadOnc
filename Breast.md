@@ -5,6 +5,42 @@ SamRadOnc
 
 https://karger.com/brc/article/17/2/224/827537/Expert-Discussion-Hypofractionated-Radiation
 
+clinical prediction tools
+nomograms
+online risk calculators
+https://www.mdanderson.org/for-physicians/clinical-tools-resources/clinical-calculators.html
+Response to neoadjuvant chemotherapy (before other cancer treatment)
+Disease-free survival after breast surgery
+Residual cancer burden calculator
+Non-sentinel lymph node calculator with neoadjuvant chemotherapy
+Calculator to predict additional positive non-sentinel lymph nodes without neoadjuvant chemotherapy
+Calculator to predict ≥N2 disease in patients who underwent upfront surgery and had 1-3 positive SLNs
+Nomogram to predict positive sentinel lymph nodes without neoadjuvant chemotherapy
+Nomogram to predict positive sentinel lymph nodes after neoadjuvant chemotherapy
+Nomogram to predict benefit of radiation for older patients with breast cancer treated with conservative surgery
+
+
+PREDICT v3
+by Cambridge Breast Unit, University of Cambridge Department of Oncology and the UK's Eastern Cancer Information and Registration Centre (ECRIC) (now part of the National Cancer Registration and Analysis Service) 
+
+https://breast.v3.predict.cam/tool
+v3: A newer version of the tool, launched Spring 2024, uses an updated algorithm based on more recent data which shows people survive longer, and also factors in harms from treatment and offers more personalisation
+
+
+PREDICT v2
+An updated PREDICT breast cancer prognostication
+Breast CA Res 2017
+https://breast-cancer-research.biomedcentral.com/articles/10.1186/s13058-017-0852-3
+
+Addition of extended hormone therapy (v2.2)
+
+
+
+
+
+
+
+
 
 
 
