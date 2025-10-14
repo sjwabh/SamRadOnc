@@ -2957,30 +2957,24 @@ FDA approved 2/2018.
 
 /PACIFIC Trial  /Antonia, Durvalumab after Chemoradiotherapy in Stage III Non–Small-Cell Lung Cancer
 
-http://www.nejm.org/doi/full/10.1056/NEJMoa1709937
+N Engl J Med. 2024 Oct 10;391(14):1313-1327. doi: 10.1056/NEJMoa2404873. Epub 2024 Sep 13.
+https://pubmed.ncbi.nlm.nih.gov/39268857/
+DOI: 10.1056/NEJMoa2404873
 
 For unresectable stage III NSCLC treated w/ chemoRT.
-
 Regardless of PDL1 status.
-
 713 pts randomized
 
-Improved Median PFS 16.8mos vs 5.6mos. (too good to be true?)
-
-Still awaiting OS results.
+Improved Median OS 56mos vs 33mos
+Improved Median PFS 16.6mos vs 9.2mos.
 
 Should start within 6 wks of chemoRT.
-
 Starting durvalumab earlier <14days after chemoRT, do better, than starting later?
 
 CRITIQUES: 
-
 placebo arm underperformed historical averages.  
-
 Some pts only got 54Gy.
-
 Need to watch pneumonitis risk carefully in the future.
-
 Check CT after chemoRT and make sure no RT pneumonitis before starting it.
 
 What about PDL1 low?  NEW in 2018...
