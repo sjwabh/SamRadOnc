@@ -2,12 +2,18 @@
 SamRadOnc
 //Breast CA
 
+NHS Predict 
+
+
 
 https://karger.com/brc/article/17/2/224/827537/Expert-Discussion-Hypofractionated-Radiation
 
 clinical prediction tools
 nomograms
 online risk calculators
+
+MD ANDERSON:
+
 https://www.mdanderson.org/for-physicians/clinical-tools-resources/clinical-calculators.html
 Response to neoadjuvant chemotherapy (before other cancer treatment)
 Disease-free survival after breast surgery
@@ -20,11 +26,20 @@ Nomogram to predict positive sentinel lymph nodes after neoadjuvant chemotherapy
 Nomogram to predict benefit of radiation for older patients with breast cancer treated with conservative surgery
 
 
+NHS PREDICT (from Cambridge)
+www.breast .predict.nhs.uk
+
+
 PREDICT v3
 by Cambridge Breast Unit, University of Cambridge Department of Oncology and the UK's Eastern Cancer Information and Registration Centre (ECRIC) (now part of the National Cancer Registration and Analysis Service) 
 
 https://breast.v3.predict.cam/tool
-v3: A newer version of the tool, launched Spring 2024, uses an updated algorithm based on more recent data which shows people survive longer, and also factors in harms from treatment and offers more personalisation
+v3: A newer version of the tool, launched Spring 2024, uses an updated algorithm based on more recent data which shows people survive longer, and also factors in harms from treatment and offers more personalisation.
+
+35,474 Pts from 2000-2017
+ https://pubmed.ncbi.nlm.nih.gov/38225255/
+An updated PREDICT breast cancer prognostic model including the benefits and harms of RADIOTHERAPY
+NPJ Breast Cancer. 2024 Jan 15;10:6. doi: 10.1038/s41523-024-00612-y
 
 
 PREDICT v2
@@ -850,10 +865,10 @@ cacancerjournal.com
 
 
 
+/kinase,  CDK4/6 kinase inhibitor
+/ribociclib /Kisqali 
+/palbociclib /Ibrance 
 
-/ki /kinase inhibitors
-/ribociclib /Kisqali (kinase inhibitor)
-/palbociclib /Ibrance is a CDK4/6 kinase inhibitor
 Indications: for advanced or metastatic BC, HR+ Her2-
 HOLD during RT!  cuz there may be concerns of synergistic haematological as well gastrointestinal (GI) toxicity when RT is delivered concurrently with palbociclib
 
