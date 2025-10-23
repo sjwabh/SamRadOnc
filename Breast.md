@@ -952,6 +952,33 @@ For HR-/HER2-, At the 10-year follow-up, 14% of the pCR group had had a recurren
 
 //DCIS - does not invade basement membrane.
 
+
+
+DCISionRT
+
+https://preludedx.com/physicians/
+
+ Unlike grade,  size or  age
+
+10-year Total Risk, and 10yr Invasive Recurrence Risk
+
+ SweDCIS randomized clinical trial
+
+Warnberg, Cancer 2021
+for -M
+
+scale 0-10
+
+0-3 LOW
+3-10 elevated
+
+Vicini, Int J Radiat Oncol Biol Phys. 2023 Jan 1;115(1):93-102. doi: 10.1016/j.ijrobp.2022.06.072. Epub 2022 Sep 15.
+A Novel Biosignature Identifies Patients With DCIS With High Risk of Local Recurrence After Breast Conserving Surgery and Radiation Therapy
+
+
+
+
+DCIS  
 Epid: 55,000 new cases in 2003
 
 20-30% of mammo detected tumors are DCIS.
