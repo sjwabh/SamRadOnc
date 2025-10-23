@@ -4,6 +4,26 @@ HN
 //HN //Head & Neck (non-oropharynx)  (See Oropharynx.MD for oropharynx)
 
 
+H&N re-SBRT
+
+Baglia 2016:
+prescribe to 80% IDL for maximal falloff
+V100=95%
+V90=99%
+
+Jimm Grimm, RedJournal 2020:
+For 5fx SBRT (reRT):
+Carotid D0.5cc < 20 Gy
+Carotid Dmax < 30Gy
+
+ongoing prospective evaluation of 5-fraction SBRT in
+recurrent head and neck cancer, RTOG 3507, 38 are as
+follows:
+1. Limit carotid D max to < 42 Gy (with acceptable deviation
+of >42 but still <44), and
+2. Limit carotid D50% to <32 Gy, (with acceptable deviation of >32 but still <34).
+
+===
 
 Quad Shot: 370x4=1480 BID over 2 days, can repeat monthly x3  
 RTOG 8502, originally for pelvic malignancies:  
