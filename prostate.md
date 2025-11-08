@@ -3574,23 +3574,29 @@ Preliminary results of the RTOG 0521 trial were presented at the 2015 ASCO meeti
 
 ●Additional evidence supporting a potential role for chemotherapy in high-risk patients comes from the STAMPEDE trial, which included men with both metastatic disease and high-risk M0 disease [51]. In that trial, 22 percent of patients had no evidence of lymph node or distant metastases (N0M0), and 14 percent had lymph node, but not distant, metastases (N+M0). The results of that trial are discussed separately (See "Initial systemic therapy for castration sensitive prostate cancer", section on 'STAMPEDE trial'.)
 
-/Stampede trial (weren't there several?)
+/Stampede trial (weren't there several?) (which one was this?)
 http://www.thelancet.com/pdfs/journals/lancet/PIIS0140-6736(15)01037-5.pdf
 
-prostate radiotherapy in the setting of metastatic castrate sensitive prostate CA:
+
+
+
+
+/OLIGOMETASTATIC  or LOW-VOLUME METASTATIC AcP
+
+prostate radiotherapy in the setting of (low volume) METASTATIC castrate sensitive prostate CA:
 The STAMPEDE trial has investigated the efficacy of adding radiotherapy to the standard of care in men with newly diagnosed metastatic prostate cancer. The rationale behind this approach is based on the hypothesis that treating the primary tumor might retard metastatic progression and thereby prolong survival. 
 
 STAMPEDE TRIAL for newly dx met prostate CA:
 LONG TERM Results: PLOS 2022, Parker et al 
 https://pmc.ncbi.nlm.nih.gov/articles/PMC9173627/
 
-ORIGINAL STUDY:
+ORIGINAL Results:
 Parker CC, James ND, Brawley CD, Clarke NW, Hoyle AP, Ali A, Ritchie AWS, Attard G, Chowdhury S, Cross W, et al. Radiotherapy to the primary tumour for newly diagnosed, metastatic prostate cancer (STAMPEDE): a randomised controlled phase 3 trial. Lancet. 2018;392(10162):2353–2366. doi: 10.1016/S0140-6736(18)32486-3.
 
-men with low-volume metastatic hormone-sensitive prostate cancer, adding radiotherapy to the prostate improves overall survival without detriment to the quality of life
+for men with LOW VOLUME metastatic hormone-sensitive prostate cancer, adding prostate radiotherapy  improves OS w/o detriment to QoL
 
- hypofractionated prostate RT: 55Gy in 20 fractions or 36Gy in 6 weekly fractions
- **Metastatic sites received no RT.** 
+hypofractionated prostate RT: 55Gy in 20 fractions or 36Gy in 6 weekly fractions
+In this trial, **Metastatic sites received no RT.**  (but see more modern studies BELOW looking at adding metastasis directed RT)
  
  
 REVIEW of TWO STUDIES: larger STAMPEDE trial AND the smaller Horrad trial
@@ -3604,6 +3610,18 @@ Therefore, due to the survival benefit after 3 years, current practice is changi
 
 The DEGRO Expert Commission on Prostate Cancer has revised the indication for radiation therapy of the primary prostate tumor in patients with synchronous distant metastases with low metastatic burden.
 
+
+
+
+
+
+/MDT Metastasis-Directed Therapy in AcP
+
+ phase 2 METANOVA trial (NCT06150417), which will evaluate metastasis-directed radiotherapy in patients with de-novo oligometastatic prostate cancer treated with long-term androgen deprivation therapy in the STAMPEDE trial, will soon be enrolling patients.
+
+MDRT in prostate cancer treated with long-term androgen deprivation therapy in the STAMPEDE Trial (METANOVA)
+Updated November 29, 2023
+https://classic.clinicaltrials.gov/ct2/show/NCT06150417
 
 
 
