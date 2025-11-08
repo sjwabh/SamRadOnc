@@ -3581,9 +3581,24 @@ http://www.thelancet.com/pdfs/journals/lancet/PIIS0140-6736(15)01037-5.pdf
 
 
 
-/OLIGOMETASTATIC  or LOW-VOLUME METASTATIC AcP
+/OLIGOMETASTATIC  or LOW-VOLUME METASTATIC AcP  
+prostate radiotherapy in the setting of (low volume) METASTATIC castrate sensitive prostate CA  
 
-prostate radiotherapy in the setting of (low volume) METASTATIC castrate sensitive prostate CA:
+From UpToDate (2025):  
+Prostate-directed therapy for patients who have not received prior local therapy — In males with low-volume metastatic CSPC who have not previously received definitive local therapy, we suggest the addition of prostate radiotherapy. The addition of prostate radiation *improves radiographic PFS*, delayed the time until the onset of castration-resistant prostate cancer and **reduced** the number of serious genitourinary events such as urinary obstruction in males with low-volume disease.  
+
+
+The results of the PEACE-1 trial establish the role of local therapy in males with low-volume, de novo CSPC.  
+In PEACE1 trial, In patients with low-volume disease the addition of RT to standard of care plus abiraterone also improved radiographic PFS compared with standard of care alone.  
+However, the study did not find a difference in OS among the four treatment arms.  
+"Efficacy and safety of prostate radiotherapy in de novo metastatic castration-sensitive prostate cancer (PEACE-1): a multicentre, open-label, randomised, phase 3 study with a 2 × 2 factorial design"  
+Bossi et al  
+Lancet. 2024;404(10467):2065.  
+
+
+
+
+
 The STAMPEDE trial has investigated the efficacy of adding radiotherapy to the standard of care in men with newly diagnosed metastatic prostate cancer. The rationale behind this approach is based on the hypothesis that treating the primary tumor might retard metastatic progression and thereby prolong survival. 
 
 STAMPEDE TRIAL for newly dx met prostate CA:
@@ -3615,7 +3630,8 @@ The DEGRO Expert Commission on Prostate Cancer has revised the indication for ra
 
 
 
-/MDT Metastasis-Directed Therapy in AcP
+/MDT Metastasis-Directed Therapy in AcP  
+(I believe jury is still out regarding this. New trial is studying this: )  
 
  phase 2 METANOVA trial (NCT06150417), which will evaluate metastasis-directed radiotherapy in patients with de-novo oligometastatic prostate cancer treated with long-term androgen deprivation therapy in the STAMPEDE trial, will soon be enrolling patients.
 
