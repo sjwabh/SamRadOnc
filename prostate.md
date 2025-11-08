@@ -3611,7 +3611,7 @@ Therefore, due to the survival benefit after 3 years, current practice is changi
 The DEGRO Expert Commission on Prostate Cancer has revised the indication for radiation therapy of the primary prostate tumor in patients with synchronous distant metastases with low metastatic burden.
 
 
-
+  
 
 
 
