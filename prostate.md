@@ -3624,6 +3624,27 @@ Updated November 29, 2023
 https://classic.clinicaltrials.gov/ct2/show/NCT06150417
 
 
+NOT A GREAT STUDY:  
+Improved survival of patients with newly diagnosed oligometastatic prostate cancer through intensified multimodal treatment  
+Front. Oncol., 09 December 2024  
+https://doi.org/10.3389/fonc.2024.1475914
+https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2024.1475914/full
+single center, retrospective analysis, 43 patients with newly diagnosed omPCa 
+All patients underwent RP  
+23 patients received MDT  
+Patients had a maximum of four bone metastases and/or non-regional lymph node metastases (up to a maximum of two) 
+Patients with visceral metastasis (cM1c) were excluded.  
+
+
+
+
+
+
+
+
+
+
+
 
 
 
