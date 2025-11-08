@@ -3580,19 +3580,30 @@ http://www.thelancet.com/pdfs/journals/lancet/PIIS0140-6736(15)01037-5.pdf
 prostate radiotherapy in the setting of metastatic castrate sensitive prostate CA:
 The STAMPEDE trial has investigated the efficacy of adding radiotherapy to the standard of care in men with newly diagnosed metastatic prostate cancer. The rationale behind this approach is based on the hypothesis that treating the primary tumor might retard metastatic progression and thereby prolong survival. 
 
-STAMPEDE TRIAL for prostate radiotherapy:
+STAMPEDE TRIAL for newly dx met prostate CA:
+LONG TERM Results: PLOS 2022, Parker et al 
+https://pmc.ncbi.nlm.nih.gov/articles/PMC9173627/
+
+ORIGINAL STUDY:
 Parker CC, James ND, Brawley CD, Clarke NW, Hoyle AP, Ali A, Ritchie AWS, Attard G, Chowdhury S, Cross W, et al. Radiotherapy to the primary tumour for newly diagnosed, metastatic prostate cancer (STAMPEDE): a randomised controlled phase 3 trial. Lancet. 2018;392(10162):2353–2366. doi: 10.1016/S0140-6736(18)32486-3.
 
 men with low-volume metastatic hormone-sensitive prostate cancer, adding radiotherapy to the prostate improves overall survival without detriment to the quality of life
 
  hypofractionated prostate RT: 55Gy in 20 fractions or 36Gy in 6 weekly fractions
-
-REVIEW of TWO STUDIES: 
+ **Metastatic sites received no RT.** 
+ 
+ 
+REVIEW of TWO STUDIES: larger STAMPEDE trial AND the smaller Horrad trial
+prostate cancer with low metastatic burden (defined as ≤ 4 bone metastases, with or without distant nodes)
+(neither of these two studies gave RT to any met sites)
 Radiotherapy for hormone-sensitive prostate cancer with synchronous low burden of distant metastases
 Strahlenther Onkol. 2022; 198(8): 683–689. Published online 2022 Jun 15. doi: 10.1007/s00066-022-01961-y
-PMCID: PMC9300516PMID: 35704054
+PMID: 35704054
 
-metastasized prostate cancer with low metastatic burden (defined as ≤ 4 bone metastases, with or without distant nodes)
+Therefore, due to the survival benefit after 3 years, current practice is changing. New palliative SOC is radiotherapy of the primary tumor in synchronously metastasized prostate cancer with low metastatic burden (defined as ≤ 4 bone metastases, with or without distant nodes) or in case of distant nodes only detected by conventional imaging.
+
+The DEGRO Expert Commission on Prostate Cancer has revised the indication for radiation therapy of the primary prostate tumor in patients with synchronous distant metastases with low metastatic burden.
+
 
 
 
