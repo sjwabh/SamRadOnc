@@ -5920,8 +5920,6 @@ The DESTINY-Breast07 (DB-07) study, as mentioned in search result 2, is investig
 
 Alliance A011202
 
-/B51 NSABP  /1304 NRG RTOG
-
 
 /zzKatharine trial
 kadcyla or tdm1 or t-dm1
@@ -6030,7 +6028,16 @@ https://www.nejm.org/doi/full/10.1056/NEJMoa2414859
 For cT1-3 cN1 with cN+ (bx proven) before Neoadjuvant Chemo who convert to ypN0 after (lumpectomy or mastectomy) & (SNB or cALND)  
 
 For cT1-3 cN1, if ypN0, RNI did not improve Recurrence Free Interval (RFI).  
-  
+
+Table 1:  
+ - 14% of pts in this trial were age<39
+ - 42% of pts in this trial had MTX
+ - 47% were HR- (how come so few??)   
+ - 56% were Her2+ (how come so many??)
+
+Interestingly, if s/p MTX and randomized to no RNI, then no PMRT was given (even if cT3N1??).  
+No mention of margin status in this paper??  
+
 
 Primary Aim
 To evaluate whether the addition of regional nodal XRT will significantly reduce the rate of events for invasive breast cancer recurrence-free interval (IBC-RFI) in patients who present with histologically positive axillary nodes but convert to histologically negative axillary nodes following neoadjuvant chemotherapy.
