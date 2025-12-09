@@ -5915,7 +5915,13 @@ The DESTINY-Breast07 (DB-07) study, as mentioned in search result 2, is investig
 
 //neoadjuvant /preop chemo for breast
 
- 
+
+ /B59 NSABP GBG-96-GeparDouze
+
+Alliance A011202
+
+/B51 NSABP  /1304 NRG RTOG
+
 
 /zzKatharine trial
 kadcyla or tdm1 or t-dm1
@@ -6019,12 +6025,12 @@ http://www.cancer.gov/clinicaltrials/search/view?cdrid=751211
 For cT1-3 cN1 (bx proven prior to chemo), who get neoadjuv chemo, then have SNB+, randomized to +-cALND.  All get RT to regional nodes and undissected axilla.
 
 
-/B51  RTOG 1304 . RCT +- Regional Nodal RT  
-For T1-3 N1 Patients with cN+ (bx proven) Before Neoadjuvant Chemo who convert to ypN0
-after (lumpectomy or mastectomy) & SNB +/- cALND
+/B51 NSABP, NRG RTOG /1304 . RCT +-RNI Regional Nodal Irradiation  
+https://www.nejm.org/doi/full/10.1056/NEJMoa2414859  
+For cT1-3 cN1 with cN+ (bx proven) before Neoadjuvant Chemo who convert to ypN0 after (lumpectomy or mastectomy) & (SNB or cALND)  
 
 For cT1-3 cN1, if ypN0, RNI did not improve Recurrence Free Interval (RFI).  
-https://www.nejm.org/doi/full/10.1056/NEJMoa2414859  
+  
 
 Primary Aim
 To evaluate whether the addition of regional nodal XRT will significantly reduce the rate of events for invasive breast cancer recurrence-free interval (IBC-RFI) in patients who present with histologically positive axillary nodes but convert to histologically negative axillary nodes following neoadjuvant chemotherapy.
