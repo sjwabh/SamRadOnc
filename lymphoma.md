@@ -1553,7 +1553,26 @@ Breast DLBCL: R-CHOP x6, 36Gy.
 
 /Bone Lymphoma, Bone DLBCL: R-CHOP x6, 45Gy + 2cm margin.
 
-Testis: orchiectomy, if CSF negative -> IT MTX.  R-CHOP x 6, RT 30Gy to contra testis.
+//testicular lymphoma, primary  
+primary testicular lymphoma  
+testes  
+/Testis  
+poor prognosis  
+high rate of CNS relapse  
+Workup: Don't forget BMBx, LP  
+Treatment:  
+radical orchiectomy, 
+then   R-CHOP x 6, with IT MTX  
+then RT 30Gy to contralateral testis  (reduces local recurrence from ~35% to ~8%)
+
+IELSG30 phase 2 trial: intravenous and intrathecal CNS prophylaxis in primary testicular diffuse large B-cell lymphoma  
+https://ashpublications.org/bloodadvances/article/8/6/1541/506966/IELSG30-phase-2-trial-intravenous-and-intrathecal  
+
+
+
+
+
+
 
 ---
 
