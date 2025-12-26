@@ -89,9 +89,13 @@ RESULTS
 
 
 
-//ki67
- Your Ki-67 Results Less than 10% is considered low. 20% or higher is considered high. Does a high Ki-67 mean chemo? In subgroup analysis, a higher Ki-67 value (≥25%) was a significant predictive factor for the response to neoadjuvant chemotherapy, especially in ER-negative and HER2-positive breast cancer patients.
-or is it <5% and >30%
+#ki67  
+
+Less than 10% is considered low. 20% or higher is considered high.  
+or some places say <5% and >30%  
+ 
+ Does a high Ki-67 mean chemo? In subgroup analysis, a higher Ki-67 value (≥25%) was a significant predictive factor for the response to neoadjuvant chemotherapy, especially in ER-negative and HER2-positive breast cancer patients.  
+
 
 
 
