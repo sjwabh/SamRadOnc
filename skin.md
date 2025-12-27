@@ -23,6 +23,34 @@ read about decisiondx-scc castle biosciences, 3 yr met free survival, classes
 
 
 
+from WC, for high risk skin CA:  
+
+Guidelines from the NCCN, the European Dermatology Forum, the European Association of Dermato Oncology, the European Organisation for Research and Treatment of Cancer, and the American College of Radiology recommend the use of adjuvant radiation therapy (ART) for:  
+ 
+	Tumors with positive surgical margins after excision not amenable to further surgery  
+	Tumors with clear margins that exhibit extensive PNI or large nerve involvement  
+
+
+  
+Radiation therapy to the primary site is considered in the following situations:  
+   
+	Patients with multiple high-risk features  
+	PNI of unnamed nerves >0.1 mm in diameter  
+	Multifocal tumor spread  
+	Presence of microsatellitosis  
+	Multiple tumor recurrences  
+	Lymph node involvement  
+	Massive local extension or intracranial invasion  
+ 
+Data on the role of ART for high-risk primary cSCCs excised with clear surgical margins are limited, and there are no definitive recommendations on the indications for ART:  
+ 
+	In a systematic review and meta-analysis of 20 observational studies and 1 randomized trial that included 3534 patients treated for cSCC of the head and neck, ART was associated with increased overall survival and disease-free survival (hazard ratio [HR] 0.45, 95% CI 0.26-0.78 and HR 0.52, 95% CI 0.33-0.84, respectively).  
+	In a phase 3, randomized trial of ART with or without concurrent chemotherapy in patients with high-risk cSCC of the head and neck, high two- and five-year rates of freedom from locoregional relapse (88 and 83 percent, respectively) were achieved in the radiation therapy alone arm.  
+	In a series of 349 patients with advanced head and neck cSCC treated with surgical resection with or without ART, ART was associated with improved overall survival (HR 0.59, 95% CI 0.38-0.90). For patients with PNI, ART was associated with improved overall survival as well as disease-free survival (HR 0.44, 95% CI 0.24-0.86 and HR 0.47, 95% CI 0.23-0.93, respectively).  
+
+  
+
+
 
 DDx:
 BCC
