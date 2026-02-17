@@ -3744,7 +3744,8 @@ https://www.cancer.gov/news-events/cancer-currents-blog/2021/fda-relugolix-prost
 
 
 /PSMA PET : 2 kinds
-gallium Ga 68 gozetotide (Locametz), a radioactive tracer that is used during PET scans to identify tumors that overproduce PSMA
+gallium Ga 68 gozetotide (Locametz, Illuccix), a radioactive tracer that is used during PET scans to identify tumors that overproduce PSMA
+
 
 On May 26, FDA approved piflufolastat F 18 (Pylarify) for use in a type of imaging procedure called PSMA PET 
 Generally speaking, PSMA PET Scans using Pylarify (18F-DCFPyL) have been shown to be effective at PSA levels above 0.2ng/mL
