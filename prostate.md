@@ -3751,7 +3751,7 @@ On May 26, FDA approved piflufolastat F 18 (Pylarify) for use in a type of imagi
 Generally speaking, PSMA PET Scans using Pylarify (18F-DCFPyL) have been shown to be effective at PSA levels above 0.2ng/mL
 
 /PSMA Treatment
-
+/pluvicto treatment
  On March 23, 2022, the Food and Drug Administration (FDA) approved 177Lu-PSMA-617 (Pluvicto) to treat some adults with metastatic prostate cancer. 
 for castrate resistant met AcP after progression
 
