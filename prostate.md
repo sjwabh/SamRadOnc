@@ -66,73 +66,15 @@ ARASENSE is a phase 3 clinical trial showed improved overall survival with the c
 
 Will consider addition of darolutamide if PSA increases on ADT.  
 
---
+---
 
-
-## Radiopharmaceuticals 
-
-**Lutetium-177 (Pluvicto)**
-- Beta-minus radiation (79% at 0.498 MeV maximum energy)
-- Gamma radiation at 0.208 MeV (11%) and 0.113 MeV (6.4%)[2]
-- Mean tissue penetration of 0.67mm with maximum penetration of 2mm[2]
-
-**Radium-223 (Xofigo)**
-- Alpha particles: 95.3% of total energy (5.0-7.5 MeV)
-- Beta particles: 3.6% of energy (0.445 MeV and 0.492 MeV average)
-- Gamma radiation: 1.1% of energy (0.01-1.27 MeV)[1]
-
-## Decay Properties
-
-| Property | Pluvicto | Xofigo |
-|----------|-----------|---------|
-| Half-life | 6.647 days[2] | 11.4 days[1] |
-| Decay Product | Stable hafnium-177[2] | Lead-207[1] |
-| Decay Process | Single step | Six-stage decay[1] |
-
-## Activity Concentrations
-
-**Pluvicto**
-- 1 GBq/mL (27 mCi/mL)
-- Total activity per vial: 7.4 GBq ± 10%[2]
-
-**Xofigo**
-- 1100 kBq/mL (29.7 microcurie/mL)
-- 6600 kBq per vial (178 microcurie)[1]
-
-Citations:
-[1] https://www.bayer.com/sites/default/files/xofigo-pm-en.pdf
-[2] https://www.novartis.com/sg-en/sites/novartis_sg/files/Pluvicto-Apr2022.SIN-app181223-pdf.pdf
-[3] https://www.cancerabcs.org/advanced-prostate-cancer-blog/2022/8/29/which-is-better-177lu-psma-617-pluvicto-or-xofigo
-[4] https://www.medicalnewstoday.com/articles/drugs-pluvicto
-[5] https://www.targetedonc.com/view/radionuclide-approaches-gain-ground-in-metastatic-crpc
+---
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-FORMULA-509 
+# FORMULA-509   
 A Multicenter Randomized Trial of Post-Operative Salvage Radiotherapy and 6 Months of GnRH Agonist with or Without Abiraterone Acetate/prednisone and Apalutamide Post-Radical Prostatectomy
 (ASCO GU 2023) 
 For s/p RP, did pelvic RT for pN1 (optional for pN0).
@@ -3740,6 +3682,45 @@ SBRT for oligomets, AcP
 https://www.cancer.gov/news-events/cancer-currents-blog/2021/fda-relugolix-prostate-cancer-androgen-deprivation-therapy
 
 
+---
+
+## Radiopharmaceuticals 
+
+**Lutetium-177 (Pluvicto)**
+- Beta-minus radiation (79% at 0.498 MeV maximum energy)
+- Gamma radiation at 0.208 MeV (11%) and 0.113 MeV (6.4%)[2]
+- Mean tissue penetration of 0.67mm with maximum penetration of 2mm[2]
+
+**Radium-223 (Xofigo)**
+- Alpha particles: 95.3% of total energy (5.0-7.5 MeV)
+- Beta particles: 3.6% of energy (0.445 MeV and 0.492 MeV average)
+- Gamma radiation: 1.1% of energy (0.01-1.27 MeV)[1]
+
+## Decay Properties
+
+| Property | Pluvicto | Xofigo |
+|----------|-----------|---------|
+| Half-life | 6.647 days[2] | 11.4 days[1] |
+| Decay Product | Stable hafnium-177[2] | Lead-207[1] |
+| Decay Process | Single step | Six-stage decay[1] |
+
+## Activity Concentrations
+
+**Pluvicto**
+- 1 GBq/mL (27 mCi/mL)
+- Total activity per vial: 7.4 GBq ± 10%[2]
+
+**Xofigo**
+- 1100 kBq/mL (29.7 microcurie/mL)
+- 6600 kBq per vial (178 microcurie)[1]
+
+Citations:
+[1] https://www.bayer.com/sites/default/files/xofigo-pm-en.pdf
+[2] https://www.novartis.com/sg-en/sites/novartis_sg/files/Pluvicto-Apr2022.SIN-app181223-pdf.pdf
+[3] https://www.cancerabcs.org/advanced-prostate-cancer-blog/2022/8/29/which-is-better-177lu-psma-617-pluvicto-or-xofigo
+[4] https://www.medicalnewstoday.com/articles/drugs-pluvicto
+[5] https://www.targetedonc.com/view/radionuclide-approaches-gain-ground-in-metastatic-crpc
+
 
 
 
@@ -3750,13 +3731,27 @@ gallium Ga 68 gozetotide (Locametz, Illuccix), a radioactive tracer that is used
 On May 26, FDA approved piflufolastat F 18 (Pylarify) for use in a type of imaging procedure called PSMA PET 
 Generally speaking, PSMA PET Scans using Pylarify (18F-DCFPyL) have been shown to be effective at PSA levels above 0.2ng/mL
 
+---
+
+### ARPI androgen receptor pathway inhibitors:
+e.g., Abiraterone, Enzalutamide, apalutamide, darolutamide  
+
+---
+
 /PSMA Treatment
-/pluvicto treatment
+# Pluvicto treatment
+
  On March 23, 2022, the Food and Drug Administration (FDA) approved 177Lu-PSMA-617 (Pluvicto) to treat some adults with metastatic prostate cancer. 
 for castrate resistant met AcP after progression
 
-/VISION Pluvicto clinical trial, NEJM 2021
-https://www.nejm.org/doi/full/10.1056/NEJMoa2107322
+TWO main trials: PSMAfore & VISION  
+
+## PSMAfore, Lancet 2024 (pre- taxane)
+Demonstrates Delayed radiographic progression, better time to biochemical progression, symptomatic skeletal events, and QoL deterioration than ARPI change  
+
+
+## VISION Pluvicto clinical trial, NEJM 2021 (post-taxane)  
+https://www.nejm.org/doi/full/10.1056/NEJMoa2107322  
 
 improved OS median of 15.3 months versus 11.3 months
 improved progression-free survival  8.7 months versus 3.4 months.
