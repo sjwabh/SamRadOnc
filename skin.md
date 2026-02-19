@@ -765,7 +765,10 @@ Limit SC to 700 cGy
 
 -----
 
-/MCC /Merkel Cell CA of skin - neuroendocrine w/ cytoplasmic granules on EM
+/MCC /Merkel Cell CA of skin - neuroendocrine w/ cytoplasmic granules on EM  
+Radiosensitive but LRR, & skip mets. High rate of LN involvement (60-70%).  
+https://www.merkelcell.org/treatment/radiation-therapy/
+http://en.wikibooks.org/wiki/Radiation_Oncology/Merkel  
 
 From basal layer of epidermis in H&N on sun-exposed areas, around hair follicles. tactile sensation.
 
@@ -775,132 +778,61 @@ Histologies: trabecular, solid (MC), diffuse (worst)
 
 It’s a small round blue cell tumor.  Behaves like SCLC.
 
-Radiosensitive but LRR, & skip mets. High rate of LN involvement (60-70%).
-
 Prognostic factors: extent of tumor
 
 AJCC8
-
 Changes:  PNI of nerve > 0.1mm makes it a T3
 
-AJCC 7th Edition (2009)
-
-Note: This is a new staging system for MCC beginning with the 7th Edition. In previous versions, was included in non-melanoma skin cancer staging.
-
-Excludes: MCC of the eyelid
-
-Primary Tumor:
-
-T0 - no evidence of primary tumor
-
-Tis - in situ
-
-T1 - tumor <= 2 cm
-
-T2 - >2 cm and <= 5 cm
-
-T3 - > 5 cm
-
-T4 - invades bone, muscle, fascia, or cartilage
-
-Regional Lymph Nodes:
-
-N0 - none
-
-N1
-
-N1a - micrometastasis
-
-N1b - macrometastasis
-
-N2 - in transit metastasis
-
-defined as a tumor distinct from the primary tumor and either 1) between the primary and the nodal basin or 2) distal to the primary
-
-Distant Metastases:
-
-M0 - none
-
-M1
-
-M1a - metastasis to skin, subcutaneous tissues, or distant lymph nodes
-
-M1b - metastasis to lung
-
-M1c - metastasis to all other visceral sites
-
-Stage Grouping:
-
-IA - T1 pN0
-
-IB - T1 cN0
-
-IIA - T2-3 pN0
-
-IIB - T2-3 cN0
-
-IIC - T4 N0
-
-IIIA - N1a
-
-IIIB - N1b or N2
-
-IV - M1
-
-Note: prognostically, pN0 is better than cN0 (without pathologically confirmed node negativity) and thus pN0 vs cN0 is incorporated into overall staging, as is N1a vs N1b
 
 Rx:
 
 Surgery (wide excision). SNB. If SNB+, LND.
-
-Can skip PORT iff:
-
-<2cm
-
-negative margins
-
-SNB negative
-
-no LVSI
-
-not immunosuppressed
-
-https://www.merkelcell.org/treatment/radiation-therapy/
-
-Almost always PostOp XRT dt High recurrence rate.
-
+Almost always PostOp XRT dt High recurrence rate.  
 PORT improves DFS, Time to Recurrence, but does not improve OS.
 
-Dose: 56Gy PORT to primary w/ 5cm margins, always treat lymphatics, 50Gy to LNs.
+Can skip PORT iff:  
+<2cm  
+negative margins  
+SNB negative  
+no LVSI  
+not immunosuppressed  
 
-(56Gy if M-, 59Gy if M+, 66Gy if gross dz (Ang))
+Dose: 56Gy PORT to primary w/ 5cm margins, always treat lymphatics, 50Gy to LNs.  
+(56Gy if M-, 59Gy if M+, 66Gy if gross dz (Ang))  
 
 PostOp Chemo: Adria/ Cytoxan/ Vincristine, or CMF.
 
-3yr OS
+3yr OS  
+I 75%  
+II 55%  
+III 30%  
 
-I 75%
+Some do concurrent chemoRT:  
+http://en.wikibooks.org/wiki/Radiation_Oncology/Merkel#Chemotherapy_.2B_RT  
 
-II 55%
-
-III 30%
-
- 
-
-http://en.wikibooks.org/wiki/Radiation_Oncology/Merkel
-
- 
-
-Some do concurrent chemoRT:
-
-http://en.wikibooks.org/wiki/Radiation_Oncology/Merkel#Chemotherapy_.2B_RT
-
-TROG 9607 ?
-
-(LOOK THIS UP)
+TROG 9607 ?  
+(LOOK THIS UP)  
 
 
-Or definitive RT to 60-66Gy
+Or definitive RT to 60-66Gy  
+
+HypoFx regimens?  
+
+Gonzalez, Radiat Oncol. 2024 Oct 11;19:142. doi: 10.1186/s13014-024-02516-4  
+Hypofractionated versus standard fractionation radiotherapy for merkel cell carcinoma  
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11468079/  
+
+These were all found to be 'equivalent':  
+200 x25-30 fx  
+400x10  
+800x1  
+
+Green Journal 2022  
+
+Another 2025 article: If >50Gy EQ2D, did better.  
+
+
+
 
 
 Rad Onc 2022
@@ -909,23 +841,7 @@ https://www.thegreenjournal.com/article/S0167-8140(22)00252-3/fulltext#secst045
 The most common shorter course hypo-RT regimens were 45–50 Gy in 20 fractions over 4 weeks (n = 13) and 30–35 Gy in 10 fractions over 2 weeks (n = 8; Supporting Table 2).
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  
 
 
 /AFX – atypical fibroxanthoma: a superficial form of MFH
