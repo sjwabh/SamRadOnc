@@ -27,19 +27,22 @@ https://pmc.ncbi.nlm.nih.gov/articles/PMC8797499/
 
 /SRS/SRT Dosimetry for BrainMets
 
+the QUANTEC recommendation to limit single-fraction V12Gy to ≤5–10 cc remains prudent
+
 Single- and Multifraction Stereotactic Radiosurgery Dose/Volume Tolerances of the Brain
-Milano et al, Int J Radiat Oncol Biol Phys. 2021 May 1;110(1):68-86. doi: 10.1016/j.ijrobp.2020.08.013. Epub 2020 Sep 11
-https://pubmed.ncbi.nlm.nih.gov/32921513/
+Milano et al, Int J Radiat Oncol Biol Phys. 2021 May 1;110(1):68-86. doi: 10.1016/j.ijrobp.2020.08.013. Epub 2020 Sep 11  
+
+https://pubmed.ncbi.nlm.nih.gov/32921513/  
+https://pmc.ncbi.nlm.nih.gov/articles/PMC9387178/#S23  
 
 SRSx1
 /V12<5cc, 10cc, 20cc (10%, 15%, 20% risk of radionecrosis)
-/V14?
 
 SRTx3
 V18<30cc, V23<7cc (<10% risk of radionecrosis)
 
 SRTx5
-V29<20cc?
+V29<20cc
 
 Also, this CK paper also uses V23.1 < 7cc.
 https://pubmed.ncbi.nlm.nih.gov/23404206/
