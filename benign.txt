@@ -285,105 +285,74 @@ Toxicities from SRS:
   CN VII: <5%
 
 /Dupuytren's contracture
-
 contracture of the palmar fascia.
 
 Sx: cords and nodules
+burning, itching, pressure, tension
 
 Tubiana's classification:...
 
-Following Tubiana the degree by which the finger is bent is used to grade contracture into several stages. If more than one joint of a finger is bent, the angles of contracture are simply added together. Based on this total angle of contracture stages in the development of Morbus Dupuytren are usually classified as below. The initial stages N and N/I show no, or very little contraction.
+Following Tubiana the degree by which the finger is bent is used to grade contracture into several stages. If more than one joint of a finger is bent, the angles of contracture are simply added together. Based on this total angle of contracture stages in the development of Morbus Dupuytren are usually classified as below. 
+The initial stages N and N/I show no, or very little contraction.
 
- 
+Stage N : nodules or pits but no extension deficit
+Stage I : 45 deg
+Stage II : 46-90 deg
+Stage III :  91-135 deg . fingers bent inward
 
-
- 
-
- 
-
-Dr. David Cline from Boise, comes to Portland once per month.
-
- 
-
-Surgical release (needle aponeurotomy), then RT within 72h.
-
-percutaneous fasciotomy
 
 steroid injection
-
- 
-
+PT
+Surgical release (needle aponeurotomy), then RT within 72h.
+percutaneous fasciotomy
 RT can reduce risk of progression post surgery from 60-70% down to 20-25%.
 
- 
 
+RT might slow progression, improve local sx
 RT targets the fibroblasts or CD+ T lymphocytes that contribute to the scarring contracture.
 
+The data support RT as a disease-modifying option mainly for nodular/cord-stage active disease before meaningful flexion deformity develops. 
+ Once contracture is established, the evidence for RT reversing deformity is weak; outcomes worsen as stage advances...
+
  
-
-RT:
-
+RT Dosing:
 300x5 with F2 orthovoltage (~120kV?), 6-8 wk break, then repeat 300x5. Total 30Gy.
-
- 
-
-Or 300x7=21Gy over 2 weeks.
-
- 
+Or 300x7=21Gy
 
 Use orthovoltage 100-125kV, or 5e- electrons with 0.5cm bolus.
 
- 
+
+RT Toxicities:
+erythema, dryness, desquamation, skin atrophy, sensory change, risk of RT-induced malignancies.
+
+Most Evidence for RT is old, not the best designed studies:
 
 /Seegenschmiedt, RT for Non-Malignant Disorders. Textbook. Springer. 2008.
 
- 
-
 German study, long-term results:
-
 /Betz, Strahlenther Onkol. 2010 Feb;186(2):82-90. doi: 10.1007/s00066-010-2063-z. Epub 2010 Jan 28.
-
 http://www.ncbi.nlm.nih.gov/pubmed/20127225
-
 208 hands.
-
 RT 300x5 ortho, 8 wk break, 300x5.  Total 30Gy.
-
- 
+ 59% stable, 10% improved, and 31% progressed 
 
 In stage N 87% and in stage N/I 70% remained stable or even regressed. In more advanced stages, the rate of disease progression increased to 62% (stage I) or 86% (stage II). 66% of the patients showed a long-term relief of symptoms (i.e., burning sensations, itching and scratching, pressure and tension). Radiotherapy did not increase the complication rate after surgery in case of disease progression and only minor late toxicity (skin atrophy, dry desquamation) could be observed in 32% of the patients.
 
- 
-
- 
 
 Original ref: /Keilholz, Red 1996, 36(4):891. Germany.
-
 RT for preventing progression of early Dupuytren's.
-
 142 hands in 96 pts
-
 Progression in 11-23% of pts in long term (>5yr) follow-up.
 
- 
-
- 
-
- 
-
- 
 
 /Seegenschmiedt, Red 2001, 49(3):785
 
- 
 
  
+DEPART is the most important modern dataset. In the prevention cohort, 404 hands were randomized to observation or low-dose RT 30 Gy in 10 fractions. At median 36 months, toxicity was common but mostly mild: 158 of 202 irradiated hands had toxicities, 96.6% were grade 1, there were no grade 3 events, and only 1 grade 2 toxicity persisted to 24 months. QOL favored RT at 36 months: QuickDASH 17.8 versus 10.9, P = .013; pain 2.1 versus 1.0, P = .001; URAM 4.8 versus 3.1, P = .056. Disease-control endpoints are still maturing
 
-RT Toxicities:
 
-erythema, dryness, desquamation, skin atrophy, sensory change, risk of RT-induced malignancies.
 
- 
 
  
 
