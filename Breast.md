@@ -5917,6 +5917,13 @@ The DESTINY-Breast07 (DB-07) study, as mentioned in search result 2, is investig
 
 
 
+/Enhertu or /Kadcyla, during radiotherapy:
+No routine hold is required for either agent during short-course, extracranial palliative RT, but the threshold for caution is lower with Kadcyla than with Enhertu. For Enhertu, concurrent metastatic-site RT appears feasible without excess grade ≥3 toxicity or excess treatment discontinuation, so it is generally reasonable to continue during nonthoracic palliation if the patient has no active pulmonary toxicity. 
+ 
+ For Kadcyla, concurrent RT is also generally manageable outside the CNS, but intracranial SRS carries a clearer radionecrosis signal and warrants greater caution.
+
+
+
 //neoadjuvant /preop chemo for breast
 
 
