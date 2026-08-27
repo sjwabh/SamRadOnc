@@ -5,6 +5,17 @@ Lung General
 
 //Lung CA
 
+
+
+Esophagus DVH Constraints for 60Gy in 30:
+Mean<30Gy
+V60<17%
+D2cc<61Gy
+
+
+
+
+
 80% of cases assoc w/ smoking.
 <5% assoc w/ asbestosis (adenoCA) (plumbers, pipe fitters). (RR 6)
 
