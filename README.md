@@ -1,11 +1,5 @@
-## SamRadOnc
-
-#This is a collection of Sam's Radiation Oncology notes.
-
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+# SamRadOnc
+## This is a collection of Sam's Radiation Oncology notes.
 
 [anal](anal.md) 
 [brain mets](BrainMets.md) 
@@ -23,42 +17,37 @@
 [rectal](rectal.md) 
 [skin](skin.md) 
 
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
 
-# Misc notes that need to be filed...  
+
 ## Sam's sub header  
 ### Sam's sub sub header  
 
-//NF1
-
-Red 2009  
-Letter to Editor re: risks of RT in NF1
-https://www.redjournal.org/article/S0360-3016(09)00911-0/abstract
-
-NF1: risk of RT causing malignant transformation of low grade to high grade tumors
-
- vascular complications of NF associated with radiotherapy, in particular the Moya-Moya syndrome in patients with lesions located close to the skull base.
-
- increase in the rate of cerebral arteriopathies
-
-suggesting a peculiar sensitivity of blood vessels to therapeutic irradiation in patients with NF1
-
-Close monitoring of the permeability of vessels in the radiation-involved fields is advocated 
+(what *tag*  **TAG** did I settle on??)
 
 
-  
+
+### oligomet SBRT 5 fx normal tissue constraints (from where??)  
+
+| Syntax | Description |
+| ----------- | ----------- | 
+| small bowel | Max < 33Gy | 
+| small bowel | D3cc < 20Gy |
 
 
-//Enhertu /zzEnhertu \zzEnhertu  (what *tag*  **TAG** did I settle on??)
 
+
+### Enhertu  
 **Enhertu** - Trastuzumab deruxtecan in HER2-positive breast cancer with brain metastases: a single-arm, phase 2 trial
 <https://www.nature.com/articles/s41591-022-01935-8>
-
 
 
 LOOKUP those new ***SRS references*** from JY.
 
 
-##SRS Metrics   
 ## SRS metrics  
 
 example pts...  
@@ -152,6 +141,29 @@ Dmax <50Gy
 Spinal cord 
 V35<1cc
 Dmax<40Gy	
+
+
+
+
+
+
+
+
+
+//NF1  
+Red 2009  
+Letter to Editor re: risks of RT in NF1
+https://www.redjournal.org/article/S0360-3016(09)00911-0/abstract
+
+NF1: risk of RT causing malignant transformation of low grade to high grade tumors
+
+ vascular complications of NF associated with radiotherapy, in particular the Moya-Moya syndrome in patients with lesions located close to the skull base.
+
+ increase in the rate of cerebral arteriopathies
+
+suggesting a peculiar sensitivity of blood vessels to therapeutic irradiation in patients with NF1
+
+Close monitoring of the permeability of vessels in the radiation-involved fields is advocated 
 
 
 
