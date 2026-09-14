@@ -2,6 +2,13 @@
 SamRadOnc
 //Breast CA
 
+
+/BOOST?  
+G3 or CLOSE margins  
+Both NCCN and the ASTRO consensus reserve the boost for higher-risk features: age <50, high-grade (grade 3) disease, or positive/close margins. Current guidance explicitly supports omitting the boost in patients deemed low risk — described as >70 years with low- or intermediate-grade disease and widely negative margins.
+
+
+
 NHS Predict 
 
 
