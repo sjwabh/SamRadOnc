@@ -2,6 +2,11 @@
 
 #This is a collection of Sam's Radiation Oncology notes.
 
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
 [anal](anal.md) 
 [brain mets](BrainMets.md) 
 [breast](Breast.md) 
@@ -19,14 +24,13 @@
 [skin](skin.md) 
 
 
-# Misc notes that need to be filed...
-
-
+# Misc notes that need to be filed...  
+## Sam's sub header  
+### Sam's sub sub header  
 
 //NF1
 
-Red 2009
-
+Red 2009  
 Letter to Editor re: risks of RT in NF1
 https://www.redjournal.org/article/S0360-3016(09)00911-0/abstract
 
@@ -44,23 +48,25 @@ Close monitoring of the permeability of vessels in the radiation-involved fields
   
 
 
-/Enhertu /zzEnhertu \zzEnhertu  (what tag did I settle on??)
+//Enhertu /zzEnhertu \zzEnhertu  (what *tag*  **TAG** did I settle on??)
 
 **Enhertu** - Trastuzumab deruxtecan in HER2-positive breast cancer with brain metastases: a single-arm, phase 2 trial
 <https://www.nature.com/articles/s41591-022-01935-8>
 
 
 
+LOOKUP those new ***SRS references*** from JY.
 
-LOOKUP those new SRS references from JY.
+
+##SRS Metrics   
+## SRS metrics  
+
+example pts...  
+
 
 Dri , Ant (only got 1 of 3 fx)
 2 brain mets SRS
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
 
 |R frontal	|	CI 1.56 	|		RTOG CI 1.02		|		GM 0.67cm		|	GI 2.5 	|		HI .17 	|	
 |----|----|----|----|----|----|
@@ -96,14 +102,7 @@ V12=2cc
 
 
 
-646 675 8464 Nanaszko cell
-
-
-
-
-
-infliximab (Remicade) : anti-TNF alpha
-
+## infliximab (Remicade) : anti-TNF alpha  
 Radiotherapy in Combination With Cytokine Treatment
 Front. Oncol., 22 May 2019
 https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2019.00367/full
@@ -111,11 +110,7 @@ Also it has been shown that TNF-α acts as a radiosentitizer and enhances cytoto
 
 
 
-
-
-
-
-DVH constraints for AHWBI:
+## AHWBI DVH constraints  
 
 SAPPHIRE dosimetry:
 40/15 to CW, 98% IDL -> 5-7 fx (10-14 Gy) boost 
@@ -132,7 +127,7 @@ MHD< 3Gy,
 Heart V22.5Gy<10% if left side patient
 
  
-
+## hypofx lung 
 Lung 600cGy x 10  DVH Constraints (reference?):
 
 PTV Prescription Dose: 600x10=6000cGy
